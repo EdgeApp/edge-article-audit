@@ -158,21 +158,21 @@ Article content goes here...
 
 The `intercom_id` and other metadata will be filled in automatically after pushing. New articles are included in `yarn push --all` alongside changed existing articles.
 
-## Potential Git-tracked Workflow
+## Workflow
 
-1. **Pull** the latest articles from Intercom onto `main`
-2. **Branch** off `main` for your edits
-3. **Edit** articles in Cursor, create new ones as needed
-4. **Dry run** with `yarn push --all --dry-run` to review before pushing
-5. **PR** your branch for team review
-6. **Merge** and push to Intercom from `main`
+1. **Pull** the latest articles from Intercom (`yarn pull --all`)
+2. **Edit** articles locally in your editor
+3. **Dry run** with `yarn push --all --dry-run` to review before pushing
+4. **Push** changes back to Intercom (`yarn push --all`)
+
+> **Note:** `articles/` and `data/` are gitignored. Always pull fresh from Intercom before editing.
 
 ## Project Structure
 
 ```
 edge-article-audit/
-├── articles/           # Markdown files (your edits go here)
-├── data/               # Raw JSON from API + pull manifest
+├── articles/           # Markdown files, gitignored (pull before editing)
+├── data/               # Raw JSON from API + pull manifest, gitignored
 ├── src/
 │   ├── api/            # Intercom API client
 │   ├── commands/       # CLI commands (pull, push)
