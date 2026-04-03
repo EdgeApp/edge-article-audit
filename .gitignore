@@ -14,6 +14,10 @@ lib/
 .idea/
 .vscode/
 
+# Pulled articles & data (pull fresh from Intercom before editing)
+articles/
+data/
+
 # Logs
 *.log
 npm-debug.log*
