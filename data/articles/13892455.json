@@ -1,0 +1,144 @@
+{
+  "id": "13892455",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268681",
+        "name": "content-tag:Partner",
+        "applied_at": 1772222914,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268744",
+        "name": "label:Revolut",
+        "applied_at": 1772222914,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222915,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222915,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268892",
+        "name": "label:Payment",
+        "applied_at": 1772222915,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268939",
+        "name": "label:Paybis",
+        "applied_at": 1772222915,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268952",
+        "name": "label:Transaction Declined",
+        "applied_at": 1772222915,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268974",
+        "name": "label:payment declined",
+        "applied_at": 1772222915,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268977",
+        "name": "label:Debit Card",
+        "applied_at": 1772222915,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268996",
+        "name": "label:card declined",
+        "applied_at": 1772222915,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268999",
+        "name": "label:Revolut (via Paybis)",
+        "applied_at": 1772222915,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269000",
+        "name": "label:selling issue",
+        "applied_at": 1772222915,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136180",
+  "title": "Revolut (via Paybis) Transaction Issues",
+  "description": "Why Was My Paybis Transaction Declined When Using Revolut?\nIf your Paybis transaction was declined when using Revolut, it may be due to ba...",
+  "body": "<p class=\"no-margin\"><b>Why Was My Paybis Transaction Declined When Using Revolut?</b></p><p class=\"no-margin\">If your Paybis transaction was declined when using Revolut, it may be due to banking restrictions, verification issues, or internal Revolut security flags. Here’s a quick overview of possible causes and how to resolve them:</p><p class=\"no-margin\"><b>Common Reasons</b></p><ol><li><p class=\"no-margin\"><b>Bank Restrictions:</b> Revolut may block crypto-related transactions depending on the jurisdiction or payment method used</p></li><li><p class=\"no-margin\"><b>Insufficient Funds:</b> Your linked Revolut currency account may not have enough balance, even if other accounts do</p></li><li><p class=\"no-margin\"><b>Verification Incomplete:</b> Either your Revolut or Paybis account may be missing KYC or ID verification</p></li><li><p class=\"no-margin\"><b>Incorrect Payment Info:</b> Card or transfer details may be outdated or incorrect</p></li><li><p class=\"no-margin\"><b>Security Review:</b> Revolut may flag the transaction as unusual or high-risk</p></li><li><p class=\"no-margin\"><b>Transaction Limits:</b> You may have hit Revolut’s or Paybis’s transfer or purchase limits</p></li></ol><p class=\"no-margin\"><b>Recommended Actions</b></p><ol><li><p class=\"no-margin\">Ensure your Revolut account has sufficient funds in the correct currency</p></li><li><p class=\"no-margin\">Double-check your card or payment method details in Revolut</p></li><li><p class=\"no-margin\">Complete all verification steps on both Revolut and Paybis</p></li><li><p class=\"no-margin\">Contact Revolut support to confirm they allow crypto purchases with your method</p></li><li><p class=\"no-margin\">Monitor emails and app notifications for any flags from Paybis or Revolut</p></li><li><p class=\"no-margin\">Retry with a different Revolut currency account or card if needed</p></li><li><p class=\"no-margin\"><a href=\"https://paybis.com/contacts/\" target=\"_blank\" class=\"intercom-content-link\"> <b>Contact Paybis Support</b></a><b>: https://paybis.com/contacts/</b></p></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222914,
+  "updated_at": 1772222915,
+  "url": "https://support.edge.app/en/articles/13892455-revolut-via-paybis-transaction-issues"
+}

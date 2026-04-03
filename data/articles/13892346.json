@@ -1,0 +1,44 @@
+{
+  "id": "13892346",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222733,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222733,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136067",
+  "title": "How to recover Tether if I accidentally sent into a Bitcoin Address?",
+  "description": "Airbitz and Edge do not natively support Tether (USDT), but USDT sent to an Edge bitcoin address can be recovered. The process requires yo...",
+  "body": "<p class=\"no-margin\">Airbitz and Edge do not natively support Tether (USDT), but USDT sent to an Edge bitcoin address can be recovered. The process requires you to retrieve the private key that controls the address with USDT and import it into a USDT-compatible wallet. This guide uses omniwallet.org, but you can use any USDT wallet that supports importing private keys. Currently, you're only able to recover USDT sent to a legacy (1-address) as there are no USDT wallets that support importing segwit addresses (3-address). Note: It is HIGHLY recommended that send you send your bitcoin to a different wallet in Edge and completing the following steps offline. Exposing your private seed to the internet could result in your funds being stolen.</p><ol><li><p class=\"no-margin\">Retrieve your Wallet Private Seed</p><ul><li><p class=\"no-margin\">BTC wallet was created in Airbitz (hexadecimal)</p><ol><li><p class=\"no-margin\">From the main screen, tap on the three dots in the upper right corner</p></li><li><p class=\"no-margin\">Export</p></li><li><p class=\"no-margin\">Wallet Private Seed (advanced)</p></li><li><p class=\"no-margin\">Enter your password, and then tap View</p></li></ol></li><li><p class=\"no-margin\">BTC wallet was created in Edge (mnemonic phrase)</p><ol><li><p class=\"no-margin\">Tap on the three dots to the right of your bitcoin wallet</p></li><li><p class=\"no-margin\">Master Private Key</p></li></ol></li></ul></li><li><p class=\"no-margin\">Enter your private seed into the BIP39 Mnemonic Code Convertor (<a href=\"https://edge.app/wp-content/uploads/2022/01/bip39-standalone.html\" target=\"_blank\" class=\"intercom-content-link\">https://edge.app/wp-content/uploads/2022/01/bip39-standalone.html</a>. This page is a modified version of <a href=\"https://github.com/iancoleman/bip39\" target=\"_blank\" class=\"intercom-content-link\">https://github.com/iancoleman/bip39</a> that includes support for hexadecimal private seeds.</p><ul><li><p class=\"no-margin\">BTC wallet was created in Airbitz</p><ol><li><p class=\"no-margin\">Enter hexadecimal private seed into the Private Key Hex Field</p></li><li><p class=\"no-margin\">Select BIP32 under Derivation Path</p></li><li><p class=\"no-margin\">Set a custom derivation path to m/0/0</p></li></ol></li><li><p class=\"no-margin\">BTC wallet was created in Edge</p><ol><li><p class=\"no-margin\">Enter the mnemonic phrase into the BIP39 Root Key field</p></li><li><p class=\"no-margin\">Select BIP44 under Derivation Path</p></li></ol></li></ul></li><li><p class=\"no-margin\">Locate the address that contains the Tether under the Derived Addresses section. Record the private key associated.</p></li><li><p class=\"no-margin\">Log into your <a href=\"https://www.omniwallet.org/\" target=\"_blank\" class=\"intercom-content-link\">https://www.omniwallet.org/</a> wallet</p></li><li><p class=\"no-margin\">My Addresses &gt; Add Address &gt; Import Address With Private Key</p></li><li><p class=\"no-margin\">Enter the private key and tap Add Address</p></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222733,
+  "updated_at": 1772222733,
+  "url": "https://support.edge.app/en/articles/13892346-how-to-recover-tether-if-i-accidentally-sent-into-a-bitcoin-address"
+}

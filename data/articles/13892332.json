@@ -1,0 +1,44 @@
+{
+  "id": "13892332",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222712,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222712,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136053",
+  "title": "How do I get my pending transaction to confirm faster using CPFP or Child Pays for Parent?",
+  "description": "If a transaction is showing as Pending on the bitcoin network and you would like to attempt to get the transaction confirmed quicker you m...",
+  "body": "<p class=\"no-margin\">If a transaction is showing as Pending on the bitcoin network and you would like to attempt to get the transaction confirmed quicker you may be able to complete a CPFP (Child Pays For Parent) transaction. A CPFP transaction is a high-fee transaction you send to yourself containing an output from the pending transaction and a higher mining fee.</p><p class=\"no-margin\">This incentivizes the network to confirm your first transaction because the second, high-fee transaction, relies on it. This isn't guaranteed to get your transaction confirmed immediately but it does increase the chance of it getting mined sooner. Note: these steps will not help if your first transaction was a Max Send since there aren't any available outputs to spend.</p><p class=\"no-margin\">The description may sound complex but it's very easy to do:</p><p class=\"no-margin\">1) Copy the receiving address from the same wallet you sent the original transaction from (open the wallet, Receive, copy the address)</p><p class=\"no-margin\">2) Go back and click on Send: paste the address here</p><p class=\"no-margin\">3) Tap on the fee field and Change Mining Fee and set to High</p><p class=\"no-margin\">4) Tap on the amount to send and tap on Max</p><p class=\"no-margin\">5) Then slide to confirm.</p><p class=\"no-margin\">Note, you <b>do not need</b> to follow these steps to get your original transaction confirmed. Most low-fee transactions remain valid for days and will eventually confirm. <b>CPFP transactions are only intended to help</b><b> you get the original transaction confirmed </b><b>sooner</b> by incentivizing the network with higher fees than the first transaction offered.</p><p class=\"no-margin\">Please be aware that this may cost quite a lot in mining fees as it will spend your entire wallet balance back to yourself. Before sending this transaction, please take note of the mining fee included and be sure that you are comfortable sending this transaction with the given fee.</p><p class=\"no-margin\">Lastly, we are not responsible if the higher transaction fee receives delayed confirmations, so please proceed at your own risk.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222712,
+  "updated_at": 1772222713,
+  "url": "https://support.edge.app/en/articles/13892332-how-do-i-get-my-pending-transaction-to-confirm-faster-using-cpfp-or-child-pays-for-parent"
+}

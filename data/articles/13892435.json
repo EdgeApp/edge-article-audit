@@ -1,0 +1,154 @@
+{
+  "id": "13892435",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268750",
+        "name": "content-tag:Decentralized Exchange",
+        "applied_at": 1772222878,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268781",
+        "name": "label:eth",
+        "applied_at": 1772222878,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222878,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222878,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268843",
+        "name": "label:swap",
+        "applied_at": 1772222878,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268856",
+        "name": "label:DEX",
+        "applied_at": 1772222878,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268857",
+        "name": "label:Decentralized Exchange",
+        "applied_at": 1772222878,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268883",
+        "name": "label:0x Gasless Swap",
+        "applied_at": 1772222878,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268884",
+        "name": "label:Gasless Swap",
+        "applied_at": 1772222878,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268886",
+        "name": "label:Ethereum",
+        "applied_at": 1772222878,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268887",
+        "name": "label:Ethereum Gas",
+        "applied_at": 1772222878,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268888",
+        "name": "label:Ether",
+        "applied_at": 1772222878,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268889",
+        "name": "label:0x Gasless",
+        "applied_at": 1772222878,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136159",
+  "title": "0x Gasless Swap – Exchange Integration in Edge Wallet",
+  "description": "Type: Decentralized Exchange (DEX) Does not have limits or require Know Your Customer (KYC)\nOverview: 0x Gasless Swap is an Ethereum-based...",
+  "body": "<p class=\"no-margin\"><b>Type:</b> Decentralized Exchange (DEX) Does not have limits or require Know Your Customer (KYC)</p><p class=\"no-margin\"><b>Overview:</b> 0x Gasless Swap is an Ethereum-based DEX aggregator that allows users to trade tokens without paying gas fees directly. It uses meta-transactions to streamline the swap process, making it ideal for users seeking low-cost, fast trades.</p><h1 id=\"h_01JSF9QA69JD5WG768656PNNW4\">How to Manage Exchange Settings in Edge</h1><p class=\"no-margin\">To access your exchange settings in Edge Wallet:</p><ol><li><p class=\"no-margin\">Tap the <b>three lines</b> in the upper right-hand corner</p></li><li><p class=\"no-margin\">Tap on <b>Settings</b></p></li><li><p class=\"no-margin\">Tap <b>Exchange Settings</b></p></li><li><p class=\"no-margin\">Here, you can turn exchange partners <b>on or off</b>, and customize your preferences. When multiple exchanges can fill an order, you can also choose to automatically select the best price or prioritize a preferred exchange.</p></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222878,
+  "updated_at": 1772222879,
+  "url": "https://support.edge.app/en/articles/13892435-0x-gasless-swap-exchange-integration-in-edge-wallet"
+}

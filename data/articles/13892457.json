@@ -1,0 +1,104 @@
+{
+  "id": "13892457",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268681",
+        "name": "content-tag:Partner",
+        "applied_at": 1772222920,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268682",
+        "name": "content-tag:Payment Method",
+        "applied_at": 1772222920,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268692",
+        "name": "content-tag:Troubleshooting",
+        "applied_at": 1772222920,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268792",
+        "name": "content-tag:transaction",
+        "applied_at": 1772222920,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222920,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222920,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268944",
+        "name": "label:Paypal",
+        "applied_at": 1772222920,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269005",
+        "name": "label:PayPal (via MoonPay)",
+        "applied_at": 1772222920,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136182",
+  "title": "PayPal (via MoonPay) Transactions Issues",
+  "description": "Why Was My MoonPay Transaction Declined When Using PayPal?\nIf you're using PayPal through MoonPay and the transaction fails, it's usually ...",
+  "body": "<p class=\"no-margin\"><b>Why Was My MoonPay Transaction Declined When Using PayPal?</b></p><p class=\"no-margin\">If you're using PayPal through MoonPay and the transaction fails, it's usually due to payment authorization issues, verification problems, or purchase limits. Here's how to troubleshoot it:</p><p class=\"no-margin\"><b>Common Reasons</b></p><ol><li><p class=\"no-margin\"><b>Insufficient Funds:</b> Your PayPal balance or linked funding source is too low</p></li><li><p class=\"no-margin\"><b>Verification Incomplete:</b> Missing ID verification in either PayPal or MoonPay</p></li><li><p class=\"no-margin\"><b>Payment Authorization Failed:</b> PayPal may block certain crypto-related payments</p></li><li><p class=\"no-margin\"><b>Transaction Limits:</b> You may have reached daily or purchase limits imposed by PayPal or MoonPay</p></li><li><p class=\"no-margin\"><b>Security Review:</b> Transaction flagged by PayPal or MoonPay as suspicious</p></li></ol><p class=\"no-margin\"><b>Recommended Actions</b></p><ol><li><p class=\"no-margin\">Make sure your PayPal account is fully verified and funded</p></li><li><p class=\"no-margin\">Check your linked card or bank inside PayPal for restrictions</p></li><li><p class=\"no-margin\">Ensure you haven’t exceeded PayPal or MoonPay spending limits</p></li><li><p class=\"no-margin\">Monitor your inbox for alerts from MoonPay or PayPal</p></li><li><p class=\"no-margin\">Retry using a different PayPal funding source if possible</p></li></ol><p class=\"no-margin\"><a href=\"https://support.moonpay.com/\" target=\"_blank\" class=\"intercom-content-link\"> <b>Contact MoonPay Support</b></a><b>: https://support.moonpay.com/</b></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222919,
+  "updated_at": 1772222920,
+  "url": "https://support.edge.app/en/articles/13892457-paypal-via-moonpay-transactions-issues"
+}

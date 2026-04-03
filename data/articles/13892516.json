@@ -1,0 +1,164 @@
+{
+  "id": "13892516",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772223025,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772223025,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268638",
+        "name": "label:sending fees",
+        "applied_at": 1772223025,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772223025,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223025,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223025,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772223025,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772223025,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772223025,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269157",
+        "name": "label:Sending Fee",
+        "applied_at": 1772223025,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269215",
+        "name": "label:Arbitrum",
+        "applied_at": 1772223025,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269216",
+        "name": "label:Arbitrum Network Fees",
+        "applied_at": 1772223025,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269217",
+        "name": "label:Arbitrum Network Fee",
+        "applied_at": 1772223025,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269218",
+        "name": "label:Arbitrum Network",
+        "applied_at": 1772223025,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136243",
+  "title": "Arbitrum Network Fees",
+  "description": "Arbitrum Network – Fast, Scalable Ethereum\nArbitrum brings cheaper, faster transactions to Ethereum by batching them off-chain and settlin...",
+  "body": "<h1 id=\"h_01JSYZ7EZJ92MRPHEKB7JEYCNZ\">Arbitrum Network – Fast, Scalable Ethereum</h1><p class=\"no-margin\">Arbitrum brings cheaper, faster transactions to Ethereum by batching them off-chain and settling on Ethereum mainnet. Fees are paid in ETH, but they’re a fraction of the cost of L1 Ethereum.</p><h2 id=\"h_01JSYZ7EZK5KENEMP48SK960QA\">How Arbitrum Fees Work</h2><p class=\"no-margin\">Fees depend on:</p><ul><li><p class=\"no-margin\"><b>Gas usage (in gwei)</b> per transaction</p></li><li><p class=\"no-margin\"><b>Network congestion</b></p></li></ul><p class=\"no-margin\">Edge automatically calculates a smart gas price for you, using live Arbitrum network conditions.</p><hr><h2 id=\"h_01JSYZ7EZK50YS98RCYQ46GFPG\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>High</b> – Fastest inclusion</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Smart balance of cost and speed</p></li><li><p class=\"no-margin\"><b>Low</b> – Cheapest, slower confirmation</p></li><li><p class=\"no-margin\"><b>Custom</b> – Full manual control</p></li></ul><p class=\"no-margin\"><b>To customize:</b> Start send → Tap <b>fee settings gear</b> → Choose your speed or set custom gas.</p><hr><h2 id=\"h_01JSYZ7EZK0E8C6M42RJZZSHWQ\">Average Cost</h2><p class=\"no-margin\">Around <b>$0.02 to $0.10 USD</b> depending on congestion.</p><hr><h2 id=\"h_01JSYZ7EZKETQ1C5V7HE2H72VG\">Why It Matters</h2><p class=\"no-margin\">Arbitrum lets you use Ethereum dApps and assets for pennies instead of dollars. Edge makes fee management easy so you stay fast and cost-effective.</p><hr>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223024,
+  "updated_at": 1772223026,
+  "url": "https://support.edge.app/en/articles/13892516-arbitrum-network-fees"
+}

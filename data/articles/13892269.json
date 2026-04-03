@@ -1,0 +1,64 @@
+{
+  "id": "13892269",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727251
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222626,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268654",
+        "name": "section:Edge Wallet Features",
+        "applied_at": 1772222626,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268659",
+        "name": "label:Login new device",
+        "applied_at": 1772222626,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268661",
+        "name": "label:Multiple devices",
+        "applied_at": 1772222626,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135983",
+  "title": "Using Edge on Multiple Devices",
+  "description": "How to Use Edge on Multiple Devices:\n\nThere are two convenient ways to access your existing Edge account on a new device:\n1. Using Your Us...",
+  "body": "<h1 id=\"h_01JSFSD66T9Z7WWCJ9WSJQESKH\">How to Use Edge on Multiple Devices:</h1><p class=\"no-margin\">There are two convenient ways to access your existing Edge account on a new device:</p><p class=\"no-margin\"><b>1. </b><b>Using Your Username and Password:</b></p><p class=\"no-margin\">This is the traditional method and works seamlessly across all platforms.</p><ul><li><p class=\"no-margin\"><b>On the New Device:</b></p><ol><li><p class=\"no-margin\"><b>Install Edge:</b> Download and install the official Edge application from your device's app store (available on <a href=\"https://www.edge.app/\" target=\"_blank\" class=\"intercom-content-link\">www.edge.app </a>.</p></li><li><p class=\"no-margin\"><b>Open Edge:</b> Launch the Edge app.</p></li><li><p class=\"no-margin\"><b>Tap \"Already have an account? Sign in\":</b> This option is located at the bottom of the screen on the initial app opening. Tap it.</p></li><li><p class=\"no-margin\"><b>Enter Your Credentials:</b> Carefully enter the <b>exact same username and password</b> you use for your existing Edge account.</p></li><li><p class=\"no-margin\"><b>Tap \"Sign In\"</b> (or the equivalent button).</p></li><li><p class=\"no-margin\">Approve the login from your logged in device. You will receive a notification that a device is attempting to access your account. Tap to approve.</p></li></ol><p class=\"no-margin\">You're all set! Your Edge account will now be accessible on this new device.</p></li></ul><p class=\"no-margin\"><b>2. </b><b>Using the Scan to Login Feature (For a quick and easy connection from a logged-in device):</b></p><p class=\"no-margin\">If you already have Edge open and logged in on another device, this method offers a super-fast way to connect.</p><ul><li><p class=\"no-margin\"><b>Learn More:</b> For detailed steps on using this incredibly convenient feature, please refer to our dedicated article: <a href=\"https://support.edge.app/hc/en-us/articles/36235155784475\" target=\"_blank\" class=\"intercom-content-link\">Edge Scan to Login Feature</a></p></li></ul><p class=\"no-margin\"><b>Important Note:</b></p><ul><li><p class=\"no-margin\">As long as you use the same username and password, all your devices will be linked to the same Edge account</p></li><li><p class=\"no-margin\">Need to create an account for the first time? Click here to learn how: <a href=\"https://support.edge.app/hc/en-us/articles/7019038717339\" target=\"_blank\" class=\"intercom-content-link\">How do I create an account?</a></p></li></ul><p class=\"no-margin\">With Edge, managing your digital assets across multiple devices has never been easier. Enjoy the freedom and flexibility!</p><p class=\"no-margin\"><b>Security notice: Only approve login requests on your logged-in device if you initiated them and recognize the new device.</b></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222625,
+  "updated_at": 1772222626,
+  "url": "https://support.edge.app/en/articles/13892269-using-edge-on-multiple-devices"
+}

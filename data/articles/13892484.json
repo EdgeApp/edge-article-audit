@@ -1,0 +1,164 @@
+{
+  "id": "13892484",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772222969,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772222969,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772222969,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772222969,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222969,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222969,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772222969,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269058",
+        "name": "label:Fee",
+        "applied_at": 1772222969,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772222969,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772222969,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269088",
+        "name": "label:Celo CELO Network Fees",
+        "applied_at": 1772222969,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269089",
+        "name": "label:Celo CELO Network",
+        "applied_at": 1772222969,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269090",
+        "name": "label:Celo Network Fees",
+        "applied_at": 1772222969,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269091",
+        "name": "label:Celo Network",
+        "applied_at": 1772222969,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136209",
+  "title": "Celo Network Fees",
+  "description": "Celo (CELO) Network – Fast Mobile-Friendly Blockchain\nCelo focuses on bringing blockchain to mobile users with extremely low fees and fast...",
+  "body": "<h1 id=\"h_01JSZ64SYVYP75WF2QWHH81D0Y\">Celo (CELO) Network – Fast Mobile-Friendly Blockchain</h1><p class=\"no-margin\">Celo focuses on bringing blockchain to mobile users with extremely low fees and fast transactions.</p><h2 id=\"h_01JSZ64SYVCCTZEQG27YJRATP6\">How CELO Fees Work</h2><ul><li><p class=\"no-margin\"><b>Gas fees (gwei x gas limit)</b> paid in <b>CELO</b> tokens.</p></li><li><p class=\"no-margin\">Like Ethereum, but much cheaper and optimized for fast confirmations.</p></li></ul><p class=\"no-margin\">Edge Wallet auto-calculates the best gas price based on current Celo network conditions.</p><hr><h2 id=\"h_01JSZ64SYV0E9MNRWS3E0A4JWH\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>High</b> – Fastest confirmation</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Balanced</p></li><li><p class=\"no-margin\"><b>Low</b> – Cheapest option</p></li><li><p class=\"no-margin\"><b>Custom</b> – Full manual setting available</p></li></ul><hr><h2 id=\"h_01JSZ64SYV7HM0KDC0H2MXAWA3\">Average Cost</h2><p class=\"no-margin\">Usually <b>$0.001 to $0.005 USD</b> per transaction.</p><hr><h2 id=\"h_01JSZ64SYVZ9J5ZM985Z2J4YGT\">Why It Matters</h2><p class=\"no-margin\">Celo brings blockchain to smartphones at incredible speeds and costs. Edge handles fee optimization automatically so you get the best price without lifting a finger.</p><hr>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222968,
+  "updated_at": 1772222970,
+  "url": "https://support.edge.app/en/articles/13892484-celo-network-fees"
+}

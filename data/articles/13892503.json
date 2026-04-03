@@ -1,0 +1,154 @@
+{
+  "id": "13892503",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772222999,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772222999,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268638",
+        "name": "label:sending fees",
+        "applied_at": 1772222999,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772222999,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222999,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222999,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772223000,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772223000,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772223000,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269157",
+        "name": "label:Sending Fee",
+        "applied_at": 1772223000,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269158",
+        "name": "label:Monero (XMR) Network Fees",
+        "applied_at": 1772223000,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269159",
+        "name": "label:Monero (XMR) Network",
+        "applied_at": 1772223000,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269160",
+        "name": "label:XMR",
+        "applied_at": 1772223000,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136230",
+  "title": "Monero XMR Network Fees",
+  "description": "Monero (XMR) Network – Private and Secure\nMonero is the leading privacy coin, with every transaction shielded to protect sender, receiver,...",
+  "body": "<h1 id=\"h_01JSZ32G55KC9RFQ46YC3F1EJ3\">Monero (XMR) Network – Private and Secure</h1><p class=\"no-margin\">Monero is the leading privacy coin, with every transaction shielded to protect sender, receiver, and amount details.</p><h2 id=\"h_01JSZ32G5552FDPEYH08CTJK8T\">How Monero Fees Work</h2><p class=\"no-margin\">Fees depend on:</p><ul><li><p class=\"no-margin\"><b>Transaction size</b></p></li><li><p class=\"no-margin\"><b>Privacy level</b></p></li><li><p class=\"no-margin\"><b>Network congestion</b><br>Fees are paid in <b>XMR</b>.</p></li></ul><p class=\"no-margin\">Edge calculates fees based on Monero’s real-time blockchain status.</p><hr><h2 id=\"h_01JSZ32G555DBEMGBA9BDH07DE\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>High</b> – Prioritize speed</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Balanced for most users</p></li><li><p class=\"no-margin\"><b>Low</b> – Cheaper, slower</p></li><li><p class=\"no-margin\"><b>Custom</b> – Manually adjust advanced settings</p></li></ul><hr><h2 id=\"h_01JSZ32G551VE8EDHZKE0DB0EG\">Average Cost</h2><p class=\"no-margin\">Sending Monero usually costs <b>$0.02 to $0.20 USD</b>, depending on privacy complexity.</p><hr><h2 id=\"h_01JSZ32G55XXF8YZ5426B2PAJZ\">Why It Matters</h2><p class=\"no-margin\">Monero’s privacy comes with slightly higher transaction data, but Edge Wallet simplifies fee choices while keeping your privacy intact.</p><hr>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222999,
+  "updated_at": 1772223000,
+  "url": "https://support.edge.app/en/articles/13892503-monero-xmr-network-fees"
+}

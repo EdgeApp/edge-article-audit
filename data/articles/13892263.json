@@ -1,0 +1,44 @@
+{
+  "id": "13892263",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727250
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222617,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268612",
+        "name": "section:Basics",
+        "applied_at": 1772222617,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135977",
+  "title": "How do I install Edge?",
+  "description": "Edge can be installed on iOS or Android devices with iOS 13 or Android 9. \nYou can visit www.edge.app to find links to the store pages or ...",
+  "body": "<p class=\"no-margin\">Edge can be installed on iOS or Android devices with iOS 13 or Android 9.</p><p class=\"no-margin\">You can visit <a href=\"http://www.edge.app\" target=\"_blank\" class=\"intercom-content-link\">www.edge.app</a> to find links to the store pages or for Android users download the APK.</p><p class=\"no-margin\">Additionally you can use the following links:</p><p class=\"no-margin\">Android users click <a href=\"https://play.google.com/store/apps/details?id=co.edgesecure.app&amp;hl=en_US\" target=\"_blank\" class=\"intercom-content-link\">here</a></p><p class=\"no-margin\">iOS users click <a href=\"https://itunes.apple.com/us/app/edge-bitcoin-wallet/id1344400091\" target=\"_blank\" class=\"intercom-content-link\">here</a></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222616,
+  "updated_at": 1772222617,
+  "url": "https://support.edge.app/en/articles/13892263-how-do-i-install-edge"
+}

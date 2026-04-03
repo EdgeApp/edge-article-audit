@@ -1,0 +1,44 @@
+{
+  "id": "13892544",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727262
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223072,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269278",
+        "name": "section:Announcements ",
+        "applied_at": 1772223072,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136273",
+  "title": "Be a part of our program!",
+  "description": "Edge User Research\n\nOur users are at the core of everything we engineer. From the crypto newbie to the industry vet, our goal is to make o...",
+  "body": "<p class=\"no-margin\">Edge User Research</p><p class=\"no-margin\">Our users are at the core of everything we engineer. From the crypto newbie to the industry vet, our goal is to make our application one that users at any level of experience can trust. Although we don’t collect any customer data, we are constantly looking to improve our product from the feedback we receive on our support calls, at live industry events, via feedback forms on our webpage, and through voluntary research provided by our existing and potential customers alike.</p><p class=\"no-margin\">Whether you’re a current user that loves our app, a current user that’s not so happy, or someone that’s hesitant to try us at all, we want to hear from you. If you’re interested and willing to participate in shaping the Edge product both now and into the future, continue reading below!</p><p class=\"no-margin\">How do I participate?</p><p class=\"no-margin\">Look out for emails or pop-up communications on our site frequently for opportunities.</p><p class=\"no-margin\">If you are interested in automatically being considered for all user research opportunities, sign up by emailing support@edge.app.</p><h1 id=\"h_f512a08fa9\">What kind of research do you do?</h1><p class=\"no-margin\">Surveys, phone calls, video chat - the sky's the limit! We encourage you to participate in the research format that you feel most comfortable with.</p><p class=\"no-margin\">Your feedback is incredibly valuable to Edge when it comes to developing and improving our product. We are interested in hearing about your experience all the way from signing up with Edge, to making your first purchase of crypto, and sending your first bitcoin transaction. We ask our volunteers for feedback on new feature ideas, new designs and potential design updates, available functionality and features you’d like to see, and overall product evaluations in comparison to other options available on the market -- the list goes on!</p><p class=\"no-margin\">How is my personal information stored?</p><p class=\"no-margin\">We ensure all of our participants' information is never shared outside of Edge. You can trust that your information is stored anonymously, using a firewall, and only accessed for research purposes. We rarely ask for P.I. (personal information) and will only ask to capture this when we are ready to compensate you for your feedback.</p><p class=\"no-margin\">NOTE: Edge will never ask for private keys or passwords.</p><h1 id=\"h_fc26c3a438\">Will I get paid for participating?</h1><p class=\"no-margin\">Let’s face it, research and interviews can be dry and your time is valuable. We can make a couple of promises:<br><br>1. We’re not your average research team, we’re a fun research team (you’ll just have to take our word for this one)<br>2. If it’s not a paid research opportunity, you’ll often have a chance to win company swag as compensation (think: t-shirts, pens, stickers, etc.)</p><p class=\"no-margin\">Payment based on type of research:<br><br>- Online Surveys / User Panels: limited to no compensation</p><p class=\"no-margin\">- One-on-one Video Chats / Calls: crypto and/or company swag as compensation</p><h1 id=\"h_49bf2a97a7\">Whom can I contact for further information?</h1><p class=\"no-margin\">For further questions, you may contact the Edge Support team by emailing support@edge.app.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223072,
+  "updated_at": 1772223073,
+  "url": "https://support.edge.app/en/articles/13892544-be-a-part-of-our-program"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "13892555",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727266
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13269295",
+        "name": "category:FAQ",
+        "applied_at": 1772223089,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269300",
+        "name": "section:Blockchain Basics",
+        "applied_at": 1772223089,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269306",
+        "name": "label:Cold Wallet",
+        "applied_at": 1772223089,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269307",
+        "name": "label:Is Edge a Cold Wallet?",
+        "applied_at": 1772223089,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269308",
+        "name": "label:Cold Wallet VS Hot Wallet",
+        "applied_at": 1772223089,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136285",
+  "title": "Is Edge a Cold Wallet?",
+  "description": "Short Answer: No, Edge is not a cold wallet. It is a hot wallet, meaning it is connected to the internet and designed for quick access to ...",
+  "body": "<p class=\"no-margin\"><b>Short Answer:</b> No, Edge is not a cold wallet. It is a <b>hot wallet</b>, meaning it is connected to the internet and designed for quick access to your crypto funds on mobile devices.</p><hr><h1 id=\"h_01JSJA5VQ82AP5FE3B6CNR0TYZ\">What is a Cold Wallet?</h1><p class=\"no-margin\">A cold wallet refers to a crypto wallet that is <b>completely offline</b>, such as:</p><ul><li><p class=\"no-margin\">Hardware wallets (e.g., Ledger, Trezor)</p></li><li><p class=\"no-margin\">Paper wallets (printed private keys)</p></li><li><p class=\"no-margin\">Air-gapped devices (no network connection)</p></li></ul><p class=\"no-margin\">These are considered the most secure option for long-term storage since they are not vulnerable to online attacks.</p><h1 id=\"h_01JSJA5VQ9QW642RC0J09ZH7QE\">What is Edge Wallet?</h1><p class=\"no-margin\">Edge is a <b>non-custodial hot wallet</b> that prioritizes:</p><ul><li><p class=\"no-margin\"><b>User-controlled private keys</b></p></li><li><p class=\"no-margin\"><b>Client-side encryption</b></p></li><li><p class=\"no-margin\"><b>No third-party access to funds or data</b></p></li></ul><p class=\"no-margin\">Your crypto keys are stored locally and encrypted on your device, not on a centralized server. Edge does not have access to your keys or assets.</p><h1 id=\"h_01JSJA5VQ9BVVX3FYYY6FB83H8\">Security Features</h1><p class=\"no-margin\">While Edge is a hot wallet, it provides strong security through:</p><ul><li><p class=\"no-margin\">Auto-encrypted backups</p></li><li><p class=\"no-margin\">Biometric and PIN protection</p></li><li><p class=\"no-margin\">Support for 2FA on login</p></li><li><p class=\"no-margin\">Open-source codebase for transparency</p></li></ul><h1 id=\"h_01JSJA5VQ91VWYVQQVY3V8DRY9\">Summary</h1><p class=\"no-margin\">If you're looking for a convenient mobile wallet that gives you full control of your assets with strong privacy and security—Edge is ideal.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223088,
+  "updated_at": 1772223089,
+  "url": "https://support.edge.app/en/articles/13892555-is-edge-a-cold-wallet"
+}

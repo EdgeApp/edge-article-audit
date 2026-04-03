@@ -1,0 +1,94 @@
+{
+  "id": "13892333",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268650",
+        "name": "label:edge",
+        "applied_at": 1772222714,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268651",
+        "name": "label:support",
+        "applied_at": 1772222714,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268652",
+        "name": "label:contact",
+        "applied_at": 1772222714,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268653",
+        "name": "label:support@edge.app",
+        "applied_at": 1772222714,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222714,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222714,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268753",
+        "name": "label:partnership",
+        "applied_at": 1772222714,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136054",
+  "title": "How do I contact the team?",
+  "description": "The Edge support team can be reached by visiting our website https://edge.app/support/ which will give access to our articles, support tic...",
+  "body": "<p class=\"no-margin\">The Edge support team can be reached by visiting our website <a href=\"https://edge.app/support/\" target=\"_blank\" class=\"intercom-content-link\">https://edge.app/support/</a> which will give access to our articles, support tickets, and chat.</p><p class=\"no-margin\">You can also open Edge and tap Help for options to reach our support team such as submit a ticket, call, etc.</p><p class=\"no-margin\">If for any reason you do not have access to the app you are always welcome to contact</p><p class=\"no-margin\">By sending an email to <a href=\"mailto:support@edge.app\" target=\"_blank\" class=\"intercom-content-link\">support@edge.app</a>, or by calling <a target=\"_blank\" class=\"intercom-content-link\">1-619-777-5688</a></p><p class=\"no-margin\">For partnership and business inquiries please reach out to <a href=\"mailto:marketing@edge.app\" target=\"_blank\" class=\"intercom-content-link\">marketing@edge.app</a>.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222714,
+  "updated_at": 1772222714,
+  "url": "https://support.edge.app/en/articles/13892333-how-do-i-contact-the-team"
+}

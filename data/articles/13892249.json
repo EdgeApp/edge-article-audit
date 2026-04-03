@@ -1,0 +1,44 @@
+{
+  "id": "13892249",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727250
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222598,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268612",
+        "name": "section:Basics",
+        "applied_at": 1772222598,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135961",
+  "title": "Is my Edge account tied to an email address?",
+  "description": "When you create an Edge account, no personal information is tied to the account. Edge does not ask for an email, phone number, address etc...",
+  "body": "<p class=\"no-margin\">When you create an Edge account, no personal information is tied to the account. Edge does not ask for an email, phone number, address etc. However, separate 3rd party services or plugins within Edge may ask that information in order to use their service.</p><p class=\"no-margin\">Lastly, Password Recovery does ask for an email, but the account is still not tied to an email address. This is because the recovery link that is emailed is actually emailed by you, from the mail client on your device, and not by Edge. This means that the recovery link used to initiate the recovery questions is not known by Edge, since you are emailing the content directly from your own email account.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222598,
+  "updated_at": 1772222598,
+  "url": "https://support.edge.app/en/articles/13892249-is-my-edge-account-tied-to-an-email-address"
+}

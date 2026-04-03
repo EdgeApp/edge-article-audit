@@ -1,0 +1,154 @@
+{
+  "id": "13892244",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727250
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222590,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268612",
+        "name": "section:Basics",
+        "applied_at": 1772222590,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772222590,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268631",
+        "name": "label:send",
+        "applied_at": 1772222590,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268632",
+        "name": "label:cost",
+        "applied_at": 1772222590,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772222590,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772222590,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268635",
+        "name": "label:gas",
+        "applied_at": 1772222590,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268636",
+        "name": "label:gwei",
+        "applied_at": 1772222590,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268637",
+        "name": "label:cost to send",
+        "applied_at": 1772222590,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268638",
+        "name": "label:sending fees",
+        "applied_at": 1772222590,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268639",
+        "name": "content-tag:Transaction Fees",
+        "applied_at": 1772222590,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772222590,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135956",
+  "title": "How Does Edge Wallet Calculate Network Fees?",
+  "description": "Edge Wallet uses real-time network data to calculate transaction fees dynamically, ensuring users get the best balance between transaction...",
+  "body": "<p class=\"no-margin\">Edge Wallet uses real-time network data to calculate transaction fees dynamically, ensuring users get the best balance between transaction speed and cost. The fee structure adapts to each blockchain’s unique mechanics, keeping transactions efficient even during fluctuating network activity.</p><hr><h1 id=\"h_01JSMQZRXA8BV6GAG41G969A4Z\">Dynamic Fee Adjustment</h1><p class=\"no-margin\">Edge monitors the blockchain’s current conditions—like congestion and transaction volume—and adjusts fees accordingly. For instance, during high traffic periods, fees increase to ensure timely confirmation. In quieter times, fees are lowered to save users money.</p><p class=\"no-margin\"><i>*Example:</i> A transaction during a network surge might cost $2.50, while the same transaction could cost just $0.50 during off-peak hours.</p><hr><h1 id=\"h_01JSMQZRXAH264AE2M4RX75TWJ\">Real-Time Updates</h1><p class=\"no-margin\">Recommended fees aren’t static—they update automatically as the network changes. This helps users avoid overpaying during slow periods or underpaying and getting stuck during traffic spikes.</p><p class=\"no-margin\"><i>*Think of it like surge pricing for ride shares: Edge helps you dodge peak prices unless speed really matters.</i></p><hr><h1 id=\"h_01JSMQZRXA742NSYRBS3EMQ1PM\">Customization Options</h1><p class=\"no-margin\">Most blockchains within Edge Wallet offer three standard presets: <b>Low</b>, <b>Optimal</b>, and <b>High</b>. Users can also enter a custom fee amount if they prefer more control.</p><ul><li><p class=\"no-margin\"><b>Low</b>: Best for low-priority transfers</p></li><li><p class=\"no-margin\"><b>Optimal</b>: Balanced for cost and speed</p></li><li><p class=\"no-margin\"><b>High</b>: Fastest confirmation for time-sensitive transfers</p></li></ul><p class=\"no-margin\"><i>*Advanced users can fine-tune fees to match their specific needs, whether optimizing for speed, cost, or confirmation reliability.</i></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222589,
+  "updated_at": 1772222590,
+  "url": "https://support.edge.app/en/articles/13892244-how-does-edge-wallet-calculate-network-fees"
+}

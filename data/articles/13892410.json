@@ -1,0 +1,94 @@
+{
+  "id": "13892410",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727258
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268608",
+        "name": "label:Binance",
+        "applied_at": 1772222835,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222835,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268817",
+        "name": "section:In-App Warning Cards",
+        "applied_at": 1772222836,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268823",
+        "name": "label:bnb",
+        "applied_at": 1772222836,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268824",
+        "name": "label:disabled",
+        "applied_at": 1772222836,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268825",
+        "name": "label:wallet disabled",
+        "applied_at": 1772222836,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268826",
+        "name": "content-tag:BNB",
+        "applied_at": 1772222836,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136133",
+  "title": "BNB Beacon Chain Sunsetted: Asset Recovery Steps",
+  "description": "The BNB Beacon Chain was deprecated by Binance in an effort to consolidate their brand into one chain, the BNB Smart Chain. The migration ...",
+  "body": "<p class=\"no-margin\">The BNB Beacon Chain was deprecated by Binance in an effort to consolidate their brand into one chain, the BNB Smart Chain. The migration period, called <a href=\"https://www.bnbchain.org/en/bnb-chain-fusion\" target=\"_blank\" class=\"intercom-content-link\"><i>BNB Chain Fusion</i></a>, was completed in 2024, and now no more transactions are processing, as the beacon chain is completely turned off. If you have a BNB beacon chain wallet in Edge, you will see it's dimmed with text showing 'Wallet Disabled'.</p><p class=\"no-margin\">Fortunately, you may still be able to use Binance’s <a href=\"https://docs.bnbchain.org/bc-fusion/post-fusion/token-recovery/\" target=\"_blank\" class=\"intercom-content-link\"><i>Token Recovery dApp</i></a> to migrate any frozen BNB assets on the beacon chain onto BNB Smart Chain. This official guide is worth a read, but you may also want to use the steps below for specifically dealing with any disabled BNB wallet in Edge.</p><p class=\"no-margin\">Take it step-by-step, and you’ll find the process is pretty straight forward. Binance made this migration tool very easy to use; however, the process cannot be completed from a mobile device alone. The first 3-steps can be completed from your phone with a piece of paper, and the final 2-steps will require:</p><ul><li><p class=\"no-margin\">A laptop or desktop computer</p></li><li><p class=\"no-margin\">Chrome (or any Chromium based) web browser</p></li><li><p class=\"no-margin\">The Trust wallet browser extension (linked below)</p></li></ul><p class=\"no-margin\">Here are the steps:</p><ol><li><p class=\"no-margin\"><b>Extract the Master Private Key for your BNB wallet</b></p><ol><li><p class=\"no-margin\">Log into Edge, navigate to Assets and locate the BNB wallet</p></li><li><p class=\"no-margin\">Long-press on it, or tap into it and use the (⋮) vertical dots, to launch this asset’s menu</p></li><li><p class=\"no-margin\">Select View Master Private Key and enter your password</p></li><li><p class=\"no-margin\">Write these 24 words down carefully. Keep them very safe.<br><i>(No one should ever know this information but you!)</i></p></li></ol></li><li><p class=\"no-margin\"><b>Create a new BNB (Smart Chain) wallet with the same seed phrase</b></p><ol><li><p class=\"no-margin\">Go back to the top of your Assets page, and tap on the light green ‘+’ button</p></li><li><p class=\"no-margin\">Search for BNB, select BNB (Smart Chain), and tap Next</p></li><li><p class=\"no-margin\">Here, you may rename the wallet if desired, then proceed to ‘Import Wallet’</p></li><li><p class=\"no-margin\">Carefully type in the same Master Private Key from your BNB beacon chain wallet</p></li></ol></li><li><p class=\"no-margin\"><b>Fund the new BNB Smart Chain wallet with at least $1 worth of BNB</b></p><ol><li><p class=\"no-margin\">Needed to broadcast claim of wallet ownership on BSC in the final step</p></li><li><p class=\"no-margin\">To accomplish this, you could receive some BNB into your new <i>0x…</i> address from another source, or Buy a small amount from any of our integrated on-ramps, or Exchange into some BNB from another crypto that’s already in your account</p></li></ol></li><li><p class=\"no-margin\"><b>On a computer, install the Trust extension and import your BNB wallet</b></p><ol><li><p class=\"no-margin\">Navigate to: <a href=\"https://chromewebstore.google.com/detail/trust-wallet/egjidjbpglichdcondbcbdnbeeppgdph\" target=\"_blank\" class=\"intercom-content-link\"><i>Trust Wallet - Chrome Web Store</i></a></p></li><li><p class=\"no-margin\">Install the extension and click the green ‘<i>I already have a wallet</i>’ button</p></li><li><p class=\"no-margin\">Carefully input your 24 seed words again</p><ol><li><p class=\"no-margin\"><i>You will only need temporary access to your wallet within this extension, so you may delete/uninstall it after the last step of this guide, and your BNB will also automatically appear in Edge because of step 2 in this procedure</i></p></li></ol></li></ol></li><li><p class=\"no-margin\"><b>Interact with the </b><a href=\"https://www.bnbchain.org/en/token-recovery\" target=\"_blank\" class=\"intercom-content-link\"><i><b>BNB Beacon Chain Token Recovery Tool</b></i></a></p><ol><li><p class=\"no-margin\">Navigate to this dApp and click on Connect Wallet &gt; Trust Wallet</p></li><li><p class=\"no-margin\">Follow through the steps to connect wallet with beacon chain address, and then switch network to broadcast claim of wallet ownership on BSC</p><ol><li><p class=\"no-margin\"><i>Verify that you are claiming assets to the same 0x… address that you created in step 2 within your Edge account (same seed = same address)</i></p></li></ol></li><li><p class=\"no-margin\">Wait 7-days for their manual review process. And you’re done!</p></li></ol></li></ol><p class=\"no-margin\"><b>New BNB on the Smart Chain will be </b><i><b>automatically</b></i><b> airdropped into your wallet! 🥳</b></p><p class=\"no-margin\">Wrap-up: <br>You may safely uninstall the extension at this point to remove your seed words from your browser. If you are concerned at all about seed exposure, then once funds are received, you may consider migrating them into another fresh BNB wallet within your Edge account. Any new wallet you create in your Edge account will have a new, unexposed 24-word seed phrase, so to maximize security going forward, you can take these additional steps -- add a BNB wallet '+', go into the funded BNB wallet, tap Send, tap Myself, tap your newest BNB wallet, tap Enter Value, tap MAX, Slide to Confirm. Done. You can now go back, and remove any old or unused BNB wallets from your list by holding down on them to quickly launch the asset menu and find the yellow option to Archive Wallet.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222835,
+  "updated_at": 1772222836,
+  "url": "https://support.edge.app/en/articles/13892410-bnb-beacon-chain-sunsetted-asset-recovery-steps"
+}

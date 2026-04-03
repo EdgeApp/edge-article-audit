@@ -1,0 +1,154 @@
+{
+  "id": "13892451",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268681",
+        "name": "content-tag:Partner",
+        "applied_at": 1772222906,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268789",
+        "name": "label:transaction",
+        "applied_at": 1772222906,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222906,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222906,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268892",
+        "name": "label:Payment",
+        "applied_at": 1772222906,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268893",
+        "name": "label:Payment issue",
+        "applied_at": 1772222906,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268918",
+        "name": "label:KADO",
+        "applied_at": 1772222906,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268921",
+        "name": "label:Bank ACH",
+        "applied_at": 1772222906,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268922",
+        "name": "label:ACH Transfer",
+        "applied_at": 1772222906,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268923",
+        "name": "label:Wire Transfer",
+        "applied_at": 1772222906,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268924",
+        "name": "label:Bank Wire Transfer",
+        "applied_at": 1772222906,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268952",
+        "name": "label:Transaction Declined",
+        "applied_at": 1772222906,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268974",
+        "name": "label:payment declined",
+        "applied_at": 1772222906,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136176",
+  "title": "Kado Transaction Issues",
+  "description": "Why Was My Kado ACH or Bank Wire Transfer Transaction Declined?\nIf your Kado transaction was declined, it’s often due to bank restrictions...",
+  "body": "<p class=\"no-margin\"><b>Why Was My Kado ACH or Bank Wire Transfer Transaction Declined?</b></p><p class=\"no-margin\">If your Kado transaction was declined, it’s often due to bank restrictions, verification issues, or incorrect account information. Here's a quick overview of common causes and how to resolve them:</p><p class=\"no-margin\"><b>Common Reasons</b></p><ol><li><p class=\"no-margin\"><b>Bank Restrictions:</b> Some banks block or delay ACH and wire transfers related to crypto</p></li><li><p class=\"no-margin\"><b>Insufficient Funds:</b> Your bank account doesn't have enough balance to cover the transaction</p></li><li><p class=\"no-margin\"><b>Incorrect Bank Details:</b> Mistyped routing or account numbers can cause a failure</p></li><li><p class=\"no-margin\"><b>Verification Incomplete:</b> Missing or unverified identity documents or bank info</p></li><li><p class=\"no-margin\"><b>Security Review:</b> Transactions may be auto-declined if flagged as suspicious</p></li></ol><p class=\"no-margin\"><b>Recommended Actions</b></p><ol><li><p class=\"no-margin\">Confirm your bank allows ACH/wire crypto transfers</p></li><li><p class=\"no-margin\">Double-check all bank account and routing details</p></li><li><p class=\"no-margin\">Complete any pending KYC verification steps</p></li><li><p class=\"no-margin\">Check your email (including spam) for messages from Kado</p></li><li><p class=\"no-margin\">Retry after 24 hours in case of temporary declines</p></li><li><p class=\"no-margin\"><a href=\"https://faq.kado.money/en/article/contact-kado-support-jpixds/\" target=\"_blank\" class=\"intercom-content-link\"><b>Contact Kado Support</b></a><b>: </b><b>https://faq.kado.money/en/article/contact-kado-support-jpixds/</b></p></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222906,
+  "updated_at": 1772222907,
+  "url": "https://support.edge.app/en/articles/13892451-kado-transaction-issues"
+}

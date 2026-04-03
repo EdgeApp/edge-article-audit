@@ -1,0 +1,204 @@
+{
+  "id": "13892517",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268638",
+        "name": "label:sending fees",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269058",
+        "name": "label:Fee",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269157",
+        "name": "label:Sending Fee",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269219",
+        "name": "label:DigiByte (DGB) Network Fees",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269220",
+        "name": "label:DigiByte (DGB) Network Fee",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269221",
+        "name": "label:DigiByte (DGB) Network",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269222",
+        "name": "label:DigiByte",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269223",
+        "name": "label:DigiByte (DGB)",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269224",
+        "name": "label:DGB",
+        "applied_at": 1772223027,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136244",
+  "title": "DigiByte (DGB) Network Fees",
+  "description": "DigiByte (DGB) Network – Fast and Ultra-Affordable\nDigiByte is known for fast block times and very low fees — one of the quickest and chea...",
+  "body": "<h1 id=\"h_01JSYYT52JRTP0MB003J7Y2J96\">DigiByte (DGB) Network – Fast and Ultra-Affordable</h1><p class=\"no-margin\">DigiByte is known for <b>fast block times</b> and <b>very low fees</b> — one of the quickest and cheapest UTXO blockchains.</p><h2 id=\"h_01JSYYT52J5W8AX8KXWERE1YBX\">How DigiByte Fees Work</h2><p class=\"no-margin\">Fees depend on:</p><ul><li><p class=\"no-margin\"><b>Transaction size in bytes</b></p></li><li><p class=\"no-margin\"><b>Network congestion</b></p></li></ul><p class=\"no-margin\">Edge uses public DigiByte nodes to suggest the best fee based on current conditions.</p><p class=\"no-margin\"><b>DigiByte blocks are mined every ~15 seconds</b>, meaning confirmations are fast even with a low fee.</p><hr><h2 id=\"h_01JSYYT52JSME6ZPNRFM55BTJD\">Fee Options You Can Choose</h2><ul><li><p class=\"no-margin\"><b>High</b> – Very fast confirmation</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Smooth balance</p></li><li><p class=\"no-margin\"><b>Low</b> – Slowest but cheapest</p></li><li><p class=\"no-margin\"><b>Custom</b> – Set your own fee manually</p></li></ul><p class=\"no-margin\">To adjust: Start a send → Tap <b>fee settings gear</b> → Pick or set a custom fee.</p><hr><h2 id=\"h_01JSYYT52JSZT747ZYDM8G1EZH\">Average Cost</h2><p class=\"no-margin\">A DGB transaction typically costs <b>less than $0.001 USD</b> — often fractions of a cent!</p><hr><h2 id=\"h_01JSYYT52JNCAWGB81GRYX3FEB\">Why It Matters</h2><p class=\"no-margin\">DigiByte is built for speed and affordability. Edge Wallet helps you pick the best fee with no technical headache—perfect for daily payments or quick moves.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223027,
+  "updated_at": 1772223028,
+  "url": "https://support.edge.app/en/articles/13892517-digibyte-dgb-network-fees"
+}

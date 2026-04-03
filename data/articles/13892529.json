@@ -1,0 +1,144 @@
+{
+  "id": "13892529",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772223048,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772223048,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268638",
+        "name": "label:sending fees",
+        "applied_at": 1772223048,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268743",
+        "name": "label:Bitcoin",
+        "applied_at": 1772223048,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223048,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223048,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772223048,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269254",
+        "name": "label:Bitcoin Transaction Fees",
+        "applied_at": 1772223048,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269255",
+        "name": "label:Bitcoin Fees",
+        "applied_at": 1772223048,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269256",
+        "name": "label:network cost",
+        "applied_at": 1772223048,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269257",
+        "name": "label:Miner Fees",
+        "applied_at": 1772223048,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269258",
+        "name": "label:Network",
+        "applied_at": 1772223048,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136258",
+  "title": "Bitcoin Network Fees",
+  "description": "Bitcoin Fee Calculation – What You’re Really Paying For\nBitcoin is the original blockchain—and it's still going strong. But unlike some ne...",
+  "body": "<h1 id=\"h_01JSN0XCAV7AHJXA9PVH1AQKEV\">Bitcoin Fee Calculation – What You’re Really Paying For</h1><p class=\"no-margin\">Bitcoin is the original blockchain—and it's still going strong. But unlike some newer networks, Bitcoin's transaction fees aren’t based on how much BTC you're sending. Instead, they’re based on <b>how much space your transaction takes up in a block</b>.</p><p class=\"no-margin\">Sounds technical? Don’t worry. Edge Wallet handles the complex part and gives you simple, helpful options.</p><h2 id=\"h_01JSN0XCAVTWCGJZ7QP0FSNBKN\">How Bitcoin Fees Work</h2><p class=\"no-margin\">When you send BTC, your fee is calculated by:</p><ul><li><p class=\"no-margin\">The <b>size of the transaction</b> (measured in bytes)</p></li><li><p class=\"no-margin\">The <b>current network congestion</b></p></li></ul><p class=\"no-margin\">Edge talks to multiple public Bitcoin nodes to check how busy the network is and how much people are paying per byte of data—measured in <b>satoshis per byte</b> (satoshis are the smallest unit of BTC).</p><p class=\"no-margin\"><b>Example:</b> A transaction with many inputs/outputs is larger and will cost more, even if you're sending the same BTC amount as a smaller transaction.</p><h2 id=\"h_01JSN0XCAVDSFQP9EA77Z6Y5DQ\">Fee Options You Can Choose</h2><p class=\"no-margin\">Edge offers four preset speed options, based on how quickly you want your transaction confirmed:</p><ul><li><p class=\"no-margin\"><b>High</b> – Targets confirmation in about 3 blocks (~30 minutes), ideal during busy times</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Aims for 5–30 blocks (~50 mins to 5 hours), works well for most transfers</p></li><li><p class=\"no-margin\"><b>Low</b> – Accepts a wait of up to 200 blocks (could take over 24 hours), great for non-urgent sends</p></li><li><p class=\"no-margin\"><b>Custom</b> – Set your own sat/byte rate if you’re advanced or want exact control</p></li></ul><p class=\"no-margin\"><b>Tip:</b> Bitcoin blocks are mined every ~10 minutes. So if you select High, expect a ~30-minute confirmation. Low could mean waiting all day if the network is busy.</p><p class=\"no-margin\">To adjust: Just start a send → tap the <b>fee settings gear</b> → and pick your preferred speed or enter a custom rate.</p><h2 id=\"h_01JSN0XCAV1ND6BGBSC9DTEV9Z\">What’s the Average Cost?</h2><p class=\"no-margin\">Right now, the typical Bitcoin transaction fee is about <b>$1.09 USD</b>. It varies based on the size of your transaction and how crowded the network is.</p><h2 id=\"h_01JSN0XCAVR29EHP5J7ZDFK1H8\">Why It Matters</h2><p class=\"no-margin\">Fees on Bitcoin can spike fast when the network gets busy—especially during hype or high activity. Edge Wallet helps you stay ahead of that with smart fee suggestions and full customization, so you never pay more than you need to (or wait longer than you want).</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223048,
+  "updated_at": 1772223049,
+  "url": "https://support.edge.app/en/articles/13892529-bitcoin-network-fees"
+}

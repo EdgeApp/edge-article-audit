@@ -1,0 +1,44 @@
+{
+  "id": "13892339",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222723,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222723,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136060",
+  "title": "How to recover bitcoin (BTC) I accidentally sent to a FTC wallet?",
+  "description": "If you sent BTC to an FTC address, you may be able to recover them. Send this guide to the receiver and they will have to follow these ste...",
+  "body": "<p class=\"no-margin\">If you sent BTC to an FTC address, you may be able to recover them. Send this guide to the receiver and they will have to follow these steps.</p><p class=\"no-margin\">For the receiver, you will need:</p><p class=\"no-margin\">1. The master private key of your FTC wallet</p><p class=\"no-margin\">2. A tool useful to find the private key of the receiver wallet</p><p class=\"no-margin\">3. Sweep the funds from that private key</p><p class=\"no-margin\">1.To view the Private Seed of your FTC wallet, as well as other types of cryptocurrency wallets, simply press and hold the wallet's name at the Wallets list screen.</p><p class=\"no-margin\"><b>WARNING: Exposing your private keys can be risky if you do not take the right precautions. Using a private browser or opening the derivation tool on an air-gapped PC will help prevent malicious software from stealing your keys. Remember to close the notepad once done.</b></p><p class=\"no-margin\">Next, tap on Master Private Key. You will be prompted for your password. Enter your password.</p><p class=\"no-margin\">After entering your password you will be able to view your Private Seed. Each type of cryptocurrency wallet will have its own unique private seed.</p><p class=\"no-margin\">The Private Seed cannot be copied, in order to prevent users from accidentally pasting this sensitive information into an unintended location.</p><p class=\"no-margin\">We urge users to never share their Private Seed with anyone, as anyone that gains knowledge of the Private Seed will be able to sweep the funds out of the wallet.</p><p class=\"no-margin\"><br>2. Now you need to derive the individual private keys: we recommend using Ian Coleman's tool <a href=\"https://iancoleman.io/bip39/\" target=\"_blank\" class=\"intercom-content-link\">https://iancoleman.io/bip39/</a>. All bitcoin-related currencies in Edge can be derived using this tool.<br><br>Generally, the process to derive private keys is the same for each currency and involves these three steps:<br>-Enter private seed (24 word phrase) into the \"BIP39 Mnemonic\" field<br>-Change the Coin<br>-Select a derivation path &lt;-- This step may be different depending on the coin and which type of address you are attempting to derive a private key for.</p><p class=\"no-margin\">But in your case you will need:</p><ul><li><p class=\"no-margin\">keep the coin field on Bitcoin</p></li><li><p class=\"no-margin\">Select Bip 141</p></li><li><p class=\"no-margin\">Enter the custom derivation path m/49'/8'/0'/0</p></li></ul><p class=\"no-margin\">Search for the address you accidentally sent BTC to. If you find it, on the right you'll see its private key.</p><p class=\"no-margin\">3. Open Edge, go to Assets, BTC (Segwit) wallet. From here you will Sweep the Private Key: click Send, paste that private key or scan the QR Code, select Import and wait for the funds to be transferred into your BTC wallet.<br>A BTC transaction will be created, then you will pay a variable fee depending on the conditions of the Bitcoin network.</p><p class=\"no-margin\">Please let me know if you are able to recover your funds using this guide.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222722,
+  "updated_at": 1772222723,
+  "url": "https://support.edge.app/en/articles/13892339-how-to-recover-bitcoin-btc-i-accidentally-sent-to-a-ftc-wallet"
+}

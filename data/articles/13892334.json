@@ -1,0 +1,54 @@
+{
+  "id": "13892334",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222716,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222716,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268741",
+        "name": "label:BSV",
+        "applied_at": 1772222716,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136055",
+  "title": "How do I access Bitcoin Satoshi Vision (BSV)?",
+  "description": "We have created a simple mechanism to safely split and replay protect BSV from your BCH. When you initiate the split, Edge will create a n...",
+  "body": "<p class=\"no-margin\">We have created a simple mechanism to safely split and replay protect BSV from your BCH. When you initiate the split, Edge will create a new BSV wallet in your account and fund it with all the BSV in your BCH wallet. Then, Edge will create a max send BCH transaction to yourself that replay protects those funds. Moving forward, your BSV and BCH can be stored and sent separately.</p><p class=\"no-margin\">If you have funds in another wallet that have not been split, you can send them to Edge and still claim your BSV. That's because the transaction will be valid on both chains and you'll be able to split them in Edge.</p><p class=\"no-margin\">Here are the steps:</p><ol><li><p class=\"no-margin\">If you haven't already, send BCH to your Edge wallet</p></li><li><p class=\"no-margin\">Tap and hold on your BCH wallet until a menu appears.</p></li><li><p class=\"no-margin\">Tap \"Split Bitcoin SV\"</p></li><li><p class=\"no-margin\">Review the prompt and tap Split when ready</p></li></ol><p class=\"no-margin\">We HIGHLY recommend waiting for the splitting transactions to confirm before sending funds on either chain.</p><p class=\"no-margin\">Note two misconceptions on splitting.</p><ol><li><p class=\"no-margin\">Edge can only split funds if it received money before the fork or if the sending wallet sent both BCH and BSV into Edge. Exchanges are likely to only send out one of the coins. Also, if your wallet received some pure BCH before sending to Edge, that would taint the wallet and likely cause it to only send BCH to Edge.</p></li><li><p class=\"no-margin\">After splitting, only funds that are already in the Edge are replay protected. New incoming transactions that have both BCH and BSV are not replay protected. As long as you have some split funds in Edge, you can replay protect future incoming funds by spending your full balance back to yourself from Edge to Edge.</p></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222715,
+  "updated_at": 1772222716,
+  "url": "https://support.edge.app/en/articles/13892334-how-do-i-access-bitcoin-satoshi-vision-bsv"
+}

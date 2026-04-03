@@ -1,0 +1,44 @@
+{
+  "id": "13892380",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727255
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222786,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268761",
+        "name": "section:Common Issues",
+        "applied_at": 1772222786,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136103",
+  "title": "Pending Transaction ID Not Found in Block Explorer",
+  "description": "Issue:\n\n\nUsers may experience a prolonged \"pending\" status for outgoing transactions.\nUsers may not find their transaction ID (TXID) when ...",
+  "body": "<p class=\"no-margin\"><b>Issue:</b></p><ul><li><p class=\"no-margin\">Users may experience a prolonged \"pending\" status for outgoing transactions.</p></li><li><p class=\"no-margin\">Users may not find their transaction ID (TXID) when searching on a block explorer.</p></li></ul><p class=\"no-margin\"><b>Explanation:</b></p><ul><li><p class=\"no-margin\">A \"pending\" transaction indicates that the transaction is waiting for confirmation on the blockchain.</p></li><li><p class=\"no-margin\">If a transaction remains pending for an extended period, it's possible the network dropped it.</p></li><li><p class=\"no-margin\">When a transaction is dropped, it will not be found on a block explorer.</p></li></ul><p class=\"no-margin\"><b>Troubleshooting Steps:</b></p><ol><li><p class=\"no-margin\"><b>Check Transaction Status via Block Explorer:</b></p><ul><li><p class=\"no-margin\">In the Edge app, navigate to your transaction history.</p></li><li><p class=\"no-margin\">Tap on the pending transaction.</p></li><li><p class=\"no-margin\">Select \"View advanced transaction data.\"</p></li><li><p class=\"no-margin\">Choose \"Show in Block Explorer.\"</p></li><li><p class=\"no-margin\"><b>If the block explorer finds the transaction:</b></p><ul><li><p class=\"no-margin\">The transaction is still pending confirmation.</p></li><li><p class=\"no-margin\">Users should wait for further confirmation.</p></li></ul></li><li><p class=\"no-margin\"><b>If the block explorer cannot find the transaction (e.g., 404 error, \"transaction not found\"):</b></p><ul><li><p class=\"no-margin\">The transaction has likely been dropped by the network.</p></li></ul></li></ul></li><li><p class=\"no-margin\"><b>Resync the Wallet:</b></p><ul><li><p class=\"no-margin\">To resolve a dropped transaction, perform a wallet resync.</p></li><li><p class=\"no-margin\">On the asset screen, locate the affected wallet.</p></li><li><p class=\"no-margin\">Tap and hold (or long-press) on the wallet.</p></li><li><p class=\"no-margin\">Select \"Resync.\"</p></li><li><p class=\"no-margin\">This will cause the wallet to rescan the blockchain for transactions.</p></li></ul></li><li><p class=\"no-margin\"><b>Accelerate the transaction:</b></p><ol><li><p class=\"no-margin\"><a href=\"https://support.edge.app/hc/en-us/articles/20865438122011\" target=\"_blank\" class=\"intercom-content-link\">Edge RBF - How to accelerate a transaction</a></p></li></ol></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222786,
+  "updated_at": 1772222786,
+  "url": "https://support.edge.app/en/articles/13892380-pending-transaction-id-not-found-in-block-explorer"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "13892526",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772223042,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772223042,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772223042,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268639",
+        "name": "content-tag:Transaction Fees",
+        "applied_at": 1772223042,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772223042,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223042,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223042,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269240",
+        "name": "label:Send Fees",
+        "applied_at": 1772223042,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269245",
+        "name": "label:BNB Network Fees",
+        "applied_at": 1772223042,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269246",
+        "name": "label:BNB Fees",
+        "applied_at": 1772223042,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136255",
+  "title": "BNB Network Fees",
+  "description": "BNB Chain Fee Calculation – What You Need to Know\nWhen sending transactions on the BNB Chain using Edge Wallet, your fee is based on the g...",
+  "body": "<h1 id=\"h_01JSN0BCC24YCBC7SV16W9S29B\">BNB Chain Fee Calculation – What You Need to Know</h1><p class=\"no-margin\">When sending transactions on the BNB Chain using Edge Wallet, your fee is based on the <b>gas price</b>, which is measured in something called <b>gwei</b> (a tiny fraction of BNB, the native token of the network). Don’t worry—Edge handles all the math behind the scenes so you can focus on getting your transaction through quickly and affordably.</p><h2 id=\"h_01JSN0BCC2X4XR71EW5DZ011F2\">How Fees Are Set</h2><p class=\"no-margin\">Just like Ethereum, Edge uses real-time network data to estimate the most efficient fee. It looks at how busy the BNB network is and recommends a gas price that balances cost and speed.</p><h2 id=\"h_01JSN0BCC298H8DWDC3CKYX2DW\">Fee Presets You Can Choose From</h2><p class=\"no-margin\">Edge offers four preset options:</p><ul><li><p class=\"no-margin\"><b>Low</b> – Save on fees, but your transaction might take a little longer</p></li><li><p class=\"no-margin\"><b>Optimal</b> – A good balance for most situations</p></li><li><p class=\"no-margin\"><b>High</b> – Pay more for faster confirmation</p></li><li><p class=\"no-margin\"><b>Custom</b> – For advanced users who want full control</p></li></ul><p class=\"no-margin\">You can switch between these options depending on how fast you want your transaction to go through.</p><h2 id=\"h_01JSN0BCC2SC8S45V1V5CTWE3W\">What’s the Average Cost?</h2><p class=\"no-margin\">On average, sending a transaction on BNB Chain costs around <b>$0.12 USD</b>. That’s fast and cheap—especially compared to other networks where fees can shoot up during busy times.</p><h2 id=\"h_01JSN0BCC286FFKYF2PKZ5X5D1\">Why This Matters to You</h2><p class=\"no-margin\">Knowing how fees work—and that Edge Wallet helps manage them automatically—means you can use the BNB Chain confidently without overpaying or getting stuck in slow transaction queues. Whether you're swapping tokens, sending crypto to a friend, or interacting with a dApp, you'll know your transaction fee is fair and efficient.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223042,
+  "updated_at": 1772223043,
+  "url": "https://support.edge.app/en/articles/13892526-bnb-network-fees"
+}

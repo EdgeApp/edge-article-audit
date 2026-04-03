@@ -1,0 +1,44 @@
+{
+  "id": "13892406",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727258
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222829,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268817",
+        "name": "section:In-App Warning Cards",
+        "applied_at": 1772222829,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136129",
+  "title": "EOS will not sync",
+  "description": "Steps coming soon. ",
+  "body": "<p class=\"no-margin\">Steps coming soon.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222829,
+  "updated_at": 1772222830,
+  "url": "https://support.edge.app/en/articles/13892406-eos-will-not-sync"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "13892488",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269058",
+        "name": "label:Fee",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269105",
+        "name": "label:Cardano ADA",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269106",
+        "name": "label:Cardano",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269107",
+        "name": "label:Cardano ADA Network Fees",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269108",
+        "name": "label:Cardano ADA Network",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269109",
+        "name": "label:ADA",
+        "applied_at": 1772222978,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136213",
+  "title": "Cardano ADA Network Fees",
+  "description": "Cardano (ADA) Network – Stable and Predictable\nCardano aims for reliability and stability, using a unique transaction fee formula.\nHow ADA...",
+  "body": "<h1 id=\"h_01JSZ535HYDBF00N7982SF5RNT\">Cardano (ADA) Network – Stable and Predictable</h1><p class=\"no-margin\">Cardano aims for reliability and stability, using a unique transaction fee formula.</p><h2 id=\"h_01JSZ535HYCCA5WS8X8MPACDGG\">How ADA Fees Work</h2><ul><li><p class=\"no-margin\"><b>Fixed minimum fee + size-based fee</b><br>Paid in <b>ADA tokens</b>.</p></li></ul><p class=\"no-margin\">Edge handles the calculation behind the scenes for you.</p><hr><h2 id=\"h_01JSZ535HYFA56M8Q5WN7TEBMS\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>Automatic calculation</b> — No manual settings needed.</p></li></ul><hr><h2 id=\"h_01JSZ535HYWFV9VA6F247RHKXM\">Average Cost</h2><p class=\"no-margin\">Usually <b>$0.10 to $0.20 USD</b> per transaction.</p><hr><h2 id=\"h_01JSZ535HZH43Z80T9Z91DHK1H\">Why It Matters</h2><p class=\"no-margin\">Cardano keeps fees predictable even as the network grows. Edge ensures your ADA transactions are fast and cost-effective without any complicated settings.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222977,
+  "updated_at": 1772222979,
+  "url": "https://support.edge.app/en/articles/13892488-cardano-ada-network-fees"
+}

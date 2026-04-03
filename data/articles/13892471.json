@@ -1,0 +1,74 @@
+{
+  "id": "13892471",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222943,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222943,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269025",
+        "name": "label:contact biz dev",
+        "applied_at": 1772222943,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269026",
+        "name": "label:bizdev",
+        "applied_at": 1772222943,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269027",
+        "name": "content-tag:Business Development",
+        "applied_at": 1772222943,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136196",
+  "title": "How to contact Business Development",
+  "description": "To contact the Edge Business Development Team regarding inquiries, please follow these steps:\n\nPrepare a clear and concise summary of your...",
+  "body": "<p class=\"no-margin\">To contact the Edge Business Development Team regarding inquiries, please follow these steps:</p><ul><li><p class=\"no-margin\">Prepare a clear and concise summary of your business development inquiry or proposal, such as initiatives for growth or collaborative opportunities.</p></li><li><p class=\"no-margin\">Send your correspondence to <a href=\"mailto:info@edge.app\" target=\"_blank\" class=\"intercom-content-link\">info@edge.app</a>, including a subject line such as \"Business Development Inquiry\" to ensure prompt recognition.</p></li></ul><p class=\"no-margin\">The Edge Business Development Team will review your submission and respond within a few business days, depending on the volume of inquiries received.</p><p class=\"no-margin\">For all business development matters, please direct your inquiries to <a href=\"mailto:info@edge.app\" target=\"_blank\" class=\"intercom-content-link\">info@edge.app</a>, the primary contact point.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222943,
+  "updated_at": 1772222944,
+  "url": "https://support.edge.app/en/articles/13892471-how-to-contact-business-development"
+}

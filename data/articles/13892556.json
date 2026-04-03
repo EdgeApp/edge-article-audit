@@ -1,0 +1,124 @@
+{
+  "id": "13892556",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727266
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268613",
+        "name": "content-tag:basics",
+        "applied_at": 1772223090,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268624",
+        "name": "label:SOL",
+        "applied_at": 1772223090,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268774",
+        "name": "label:Solana",
+        "applied_at": 1772223090,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269295",
+        "name": "category:FAQ",
+        "applied_at": 1772223090,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269300",
+        "name": "section:Blockchain Basics",
+        "applied_at": 1772223090,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269309",
+        "name": "label:Rent",
+        "applied_at": 1772223090,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269310",
+        "name": "label:Sol Rent",
+        "applied_at": 1772223090,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269311",
+        "name": "label:Solana Rent",
+        "applied_at": 1772223090,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269312",
+        "name": "label:Wallet Rent",
+        "applied_at": 1772223090,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269313",
+        "name": "label:Locked Funds",
+        "applied_at": 1772223091,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136286",
+  "title": "Understanding Solana Rent: Why Is Some SOL \"Locked\" in My Wallet?",
+  "description": "If you're new to Solana, you might notice a small amount of SOL that appears locked or unavailable in your wallet. This is due to Solana’s...",
+  "body": "<p class=\"no-margin\">If you're new to Solana, you might notice a <b>small amount of SOL that appears locked or unavailable</b> in your wallet. This is due to <b>Solana’s Rent Mechanism</b>, which ensures efficient storage on the blockchain.</p><p class=\"no-margin\"><b>What Is Solana Rent?</b></p><p class=\"no-margin\">Solana requires <b>a small deposit of SOL to store data</b> on the blockchain. This is called a <b>rent-exempt balance</b>, meaning your wallet needs to <b>hold a minimum amount of SOL to remain active</b> and store assets like tokens and NFTs.</p><p class=\"no-margin\"><b>Why Does Solana Use Rent?</b></p><p class=\"no-margin\">This system prevents <b>spam and unnecessary blockchain storage</b>, keeping the network <b>fast and efficient</b>.</p><p class=\"no-margin\"><b>How Much SOL Is Locked?</b></p><p class=\"no-margin\">The amount varies depending on:</p><ol><li><p class=\"no-margin\"><b>Your wallet account itself</b> (about <b>0.002 SOL</b>).</p></li><li><p class=\"no-margin\"><b>Each additional token or NFT held</b> (<b>~0.002 SOL per token account</b>).</p></li></ol><p class=\"no-margin\"><b>NOTE:</b> EDGE does not currently support closing Solana accounts, your .002 will remain locked.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223090,
+  "updated_at": 1772223091,
+  "url": "https://support.edge.app/en/articles/13892556-understanding-solana-rent-why-is-some-sol-locked-in-my-wallet"
+}

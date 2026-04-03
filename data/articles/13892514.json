@@ -1,0 +1,174 @@
+{
+  "id": "13892514",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772223020,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772223020,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772223020,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772223020,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223020,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223021,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772223021,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772223021,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772223021,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269205",
+        "name": "label:POL",
+        "applied_at": 1772223021,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269206",
+        "name": "label:Polygon (Matic) Network Fees",
+        "applied_at": 1772223021,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269207",
+        "name": "label:Polygon (Matic) Network",
+        "applied_at": 1772223021,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269208",
+        "name": "label:Polygon (Matic)",
+        "applied_at": 1772223021,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269209",
+        "name": "label:Polygon",
+        "applied_at": 1772223021,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269210",
+        "name": "label:Send Fee",
+        "applied_at": 1772223021,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136241",
+  "title": "Polygon POL Network Fees",
+  "description": "POL Polygon (Matic) Network – Ultra-Cheap and Fast\nPolygon is a highly popular Ethereum-compatible network with extremely low fees and ver...",
+  "body": "<h1 id=\"h_01JSZ1HY8S77AK3QTH3QFX95BJ\">POL Polygon (Matic) Network – Ultra-Cheap and Fast</h1><p class=\"no-margin\">Polygon is a highly popular Ethereum-compatible network with extremely low fees and very fast block times.</p><h2 id=\"h_01JSZ1HY8SQ7CAPAA7R15N9PRC\">How Polygon Fees Work</h2><ul><li><p class=\"no-margin\"><b>Gas price (in gwei)</b></p></li><li><p class=\"no-margin\"><b>Network congestion</b></p></li></ul><p class=\"no-margin\">Fees are still paid in MATIC token but are much cheaper than Ethereum.</p><hr><h2 id=\"h_01JSZ1HY8S6GA26QRQP18BHKT3\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>High</b> – Fastest confirmation</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Smart middle ground</p></li><li><p class=\"no-margin\"><b>Low</b> – Cheapest, slow confirmation</p></li><li><p class=\"no-margin\"><b>Custom</b> – Full control over gas settings</p></li></ul><hr><h2 id=\"h_01JSZ1HY8ST5EFD3EHGV6MPXJ9\">Average Cost</h2><p class=\"no-margin\">Typically around <b>$0.002 to $0.01 USD</b> per transaction — fractions of a cent!</p><hr><h2 id=\"h_01JSZ1HY8SXGM54Z9R4ZC9SXWV\">Why It Matters</h2><p class=\"no-margin\">Polygon is perfect for cheap everyday use, gaming, NFTs, and DeFi. Edge Wallet simplifies picking the right fee so you stay fast without overpaying.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223020,
+  "updated_at": 1772223021,
+  "url": "https://support.edge.app/en/articles/13892514-polygon-pol-network-fees"
+}

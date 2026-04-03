@@ -1,0 +1,194 @@
+{
+  "id": "13892506",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772223006,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772223006,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772223006,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268638",
+        "name": "label:sending fees",
+        "applied_at": 1772223006,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772223006,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223006,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223006,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772223006,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269058",
+        "name": "label:Fee",
+        "applied_at": 1772223006,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772223006,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772223006,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269157",
+        "name": "label:Sending Fee",
+        "applied_at": 1772223006,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269171",
+        "name": "label:Stellar (XLM) Network Fees",
+        "applied_at": 1772223007,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269172",
+        "name": "label:Stellar",
+        "applied_at": 1772223007,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269173",
+        "name": "label:Stellar (XLM) Network",
+        "applied_at": 1772223007,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269174",
+        "name": "label:Stellar (XLM)",
+        "applied_at": 1772223007,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269175",
+        "name": "label:XLM",
+        "applied_at": 1772223007,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136233",
+  "title": "Stellar XLM Network Fees",
+  "description": "Stellar (XLM) Network – Ultra-Low and Instant\nStellar is optimized for fast, cheap payments across borders, with one of the lowest fee str...",
+  "body": "<h1 id=\"h_01JSZ2QV8W7CC0PXMZPV2VE1GJ\">Stellar (XLM) Network – Ultra-Low and Instant</h1><p class=\"no-margin\">Stellar is optimized for fast, cheap payments across borders, with one of the lowest fee structures in the crypto space.</p><h2 id=\"h_01JSZ2QV8W8CBNMAWJKC7ERS3Y\">How XLM Fees Work</h2><p class=\"no-margin\">Fees are:</p><ul><li><p class=\"no-margin\"><b>Flat and minimal</b></p></li><li><p class=\"no-margin\"><b>Based on a tiny fixed base fee</b> (currently 0.00001 XLM)<br>Paid in <b>XLM</b>.</p></li></ul><p class=\"no-margin\">Edge handles fee estimation automatically—you barely notice the cost.</p><hr><h2 id=\"h_01JSZ2QV8WFTX1KGYX9W3P1NF2\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>One setting</b> – Stellar’s network design makes multiple presets unnecessary. Fast and cheap by default.</p></li></ul><hr><h2 id=\"h_01JSZ2QV8W1KZN583PY2C24FZA\">Average Cost</h2><p class=\"no-margin\">Usually <b>$0.000001 to $0.000005 USD</b> per transaction—effectively free.</p><hr><h2 id=\"h_01JSZ2QV8WAPYZ3VZB37W1P3JP\">Why It Matters</h2><p class=\"no-margin\">Stellar’s near-free fees are perfect for payments, remittances, and microtransactions. Edge lets you send XLM instantly without worrying about gas prices or surges.</p><hr>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223006,
+  "updated_at": 1772223007,
+  "url": "https://support.edge.app/en/articles/13892506-stellar-xlm-network-fees"
+}

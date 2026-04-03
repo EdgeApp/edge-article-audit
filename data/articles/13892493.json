@@ -1,0 +1,174 @@
+{
+  "id": "13892493",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772222984,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772222984,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772222984,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772222984,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222984,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222984,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772222984,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269058",
+        "name": "label:Fee",
+        "applied_at": 1772222984,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772222984,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772222984,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269120",
+        "name": "label:Hedera HBAR Network Fees",
+        "applied_at": 1772222985,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269121",
+        "name": "label:Hedera HBAR",
+        "applied_at": 1772222985,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269122",
+        "name": "label:Hedera",
+        "applied_at": 1772222985,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269123",
+        "name": "label:Hedera HBAR Network",
+        "applied_at": 1772222985,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269124",
+        "name": "label:HBAR",
+        "applied_at": 1772222985,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136219",
+  "title": "Hedera HBAR Network Fees",
+  "description": "Hedera (HBAR) Network – Enterprise-Grade Efficiency\nHedera is a fast, energy-efficient network for both crypto and real-world applications...",
+  "body": "<h1 id=\"h_01JSZ4RQN8VK2F5WN04G68TRQC\">Hedera (HBAR) Network – Enterprise-Grade Efficiency</h1><p class=\"no-margin\">Hedera is a fast, energy-efficient network for both crypto and real-world applications.</p><h2 id=\"h_01JSZ4RQN8QV0NEF4WR6M4KFPT\">How HBAR Fees Work</h2><ul><li><p class=\"no-margin\"><b>Flat fee model</b> based on transaction type</p></li><li><p class=\"no-margin\">Paid in <b>HBAR</b>.</p></li></ul><p class=\"no-margin\">Edge handles the fee automatically without requiring user customization.</p><hr><h2 id=\"h_01JSZ4RQN8236TMQEVK5RR5Z8T\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>Flat, predictable fee</b>.</p></li></ul><hr><h2 id=\"h_01JSZ4RQN8DKE6G4WQ8XBQA2RF\">Average Cost</h2><p class=\"no-margin\">Generally around <b>$0.001 to $0.003 USD</b>.</p><hr><h2 id=\"h_01JSZ4RQN82APENGRGEWFSVV12\">Why It Matters</h2><p class=\"no-margin\">HBAR is ultra-fast with flat low fees—ideal for microtransactions, NFT transfers, and enterprise needs. Edge Wallet makes sending HBAR simple and cheap.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222984,
+  "updated_at": 1772222985,
+  "url": "https://support.edge.app/en/articles/13892493-hedera-hbar-network-fees"
+}

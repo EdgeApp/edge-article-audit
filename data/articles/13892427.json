@@ -1,0 +1,114 @@
+{
+  "id": "13892427",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268611",
+        "name": "label:exchange",
+        "applied_at": 1772222864,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222864,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222864,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268843",
+        "name": "label:swap",
+        "applied_at": 1772222864,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268856",
+        "name": "label:DEX",
+        "applied_at": 1772222864,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268857",
+        "name": "label:Decentralized Exchange",
+        "applied_at": 1772222864,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268866",
+        "name": "label:Optimism",
+        "applied_at": 1772222864,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268867",
+        "name": "label:Velodrome",
+        "applied_at": 1772222864,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268868",
+        "name": "label:Velodrome Exchange",
+        "applied_at": 1772222864,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136151",
+  "title": "Velodrome – Exchange Integration in Edge Wallet",
+  "description": " \nType: Decentralized Exchange (DEX) Does not have limits or require Know Your Customer (KYC)\nOverview: Velodrome is an AMM-based DEX on t...",
+  "body": "<p class=\"no-margin\"><b>Type:</b> Decentralized Exchange (DEX) Does not have limits or require Know Your Customer (KYC)</p><p class=\"no-margin\"><b>Overview:</b> Velodrome is an AMM-based DEX on the Optimism Layer 2 network. It combines low fees, deep liquidity, and incentivized trading pairs to create an efficient and fast DeFi experience.</p><h2 id=\"h_01JSFP8HE72Q54WRCJQ7VS9847\">How to Manage Exchange Settings in Edge</h2><p class=\"no-margin\">To access your exchange settings in Edge Wallet:</p><ol><li><p class=\"no-margin\">Tap the <b>three lines</b> in the upper right-hand corner</p></li><li><p class=\"no-margin\">Tap on <b>Settings</b></p></li><li><p class=\"no-margin\">Tap <b>Exchange Settings</b></p></li><li><p class=\"no-margin\">Here, you can turn exchange partners <b>on or off</b>, and customize your preferences. When multiple exchanges can fill an order, you can also choose to automatically select the best price or prioritize a preferred exchange.</p></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222864,
+  "updated_at": 1772222865,
+  "url": "https://support.edge.app/en/articles/13892427-velodrome-exchange-integration-in-edge-wallet"
+}

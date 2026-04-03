@@ -1,0 +1,124 @@
+{
+  "id": "13892275",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727251
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222632,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268626",
+        "name": "content-tag:account",
+        "applied_at": 1772222632,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268654",
+        "name": "section:Edge Wallet Features",
+        "applied_at": 1772222632,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268666",
+        "name": "label:Wallet Connect",
+        "applied_at": 1772222632,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268667",
+        "name": "label:mac",
+        "applied_at": 1772222632,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268668",
+        "name": "label:computer",
+        "applied_at": 1772222632,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268669",
+        "name": "label:macbook",
+        "applied_at": 1772222632,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268670",
+        "name": "label:m1",
+        "applied_at": 1772222632,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268671",
+        "name": "label:m2",
+        "applied_at": 1772222632,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268672",
+        "name": "label:m3",
+        "applied_at": 1772222632,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135990",
+  "title": "Install Edge on your Macbook",
+  "description": "Edge - Crypto &amp; Bitcoin Wallet can also be downloaded from the Apple App Store onto your MacBook or iMac with any M-series chip if you...",
+  "body": "<p class=\"no-margin\"><a href=\"https://apps.apple.com/us/app/edge-crypto-bitcoin-wallet/id1344400091\" target=\"_blank\" class=\"intercom-content-link\">Edge - Crypto &amp; Bitcoin Wallet</a> can also be downloaded from the Apple App Store onto your MacBook or iMac with any M-series chip if you want to run the app from your desktop. Edge is primarily focused on creating the best mobile experience, and all of our cutting-edge security protocols, such as biometric authentication and a robust <a href=\"https://support.edge.app/hc/en-us/articles/7018106439579\" target=\"_blank\" class=\"intercom-content-link\">IP Validation and 2FA</a> account system, will still function perfectly from your personal Mac.</p><p class=\"no-margin\"><i>Operating Edge from a Chromebook or from a mobile phone emulator program on a Windows PC will also work; however, the app may not perform as quickly, and biometric sign-in will be unavailable. </i></p><p class=\"no-margin\"><i>WalletConnect is also available to you within Edge on your mobile device. This would allow you to interact with decentralized apps (dApps) on another device, such as a computer, while securely authorizing or signing transactions from your smartphone.</i></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222631,
+  "updated_at": 1772222632,
+  "url": "https://support.edge.app/en/articles/13892275-install-edge-on-your-macbook"
+}

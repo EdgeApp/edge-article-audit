@@ -1,0 +1,114 @@
+{
+  "id": "13892525",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772223040,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772223040,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772223040,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772223040,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223040,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223040,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269240",
+        "name": "label:Send Fees",
+        "applied_at": 1772223040,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269243",
+        "name": "label:Dogecoin Network Fees",
+        "applied_at": 1772223040,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269244",
+        "name": "label:Doge Coin Network Fees",
+        "applied_at": 1772223040,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136254",
+  "title": "Dogecoin Network Fees",
+  "description": "Dogecoin Fee Calculation – Fast, Fun, and Affordable\nDogecoin isn’t just a meme—it’s also one of the most efficient and low-cost networks ...",
+  "body": "<h1 id=\"h_01JSN0MWTN0S6598ANJX8GQCD3\">Dogecoin Fee Calculation – Fast, Fun, and Affordable</h1><p class=\"no-margin\">Dogecoin isn’t just a meme—it’s also one of the most efficient and low-cost networks out there. When you send DOGE using Edge Wallet, your fee is based on the <b>size of the transaction</b> (in bytes) and how busy the network is at the time. No need to crunch numbers—Edge does all the heavy lifting for you.</p><h2 id=\"h_01JSN0MWTNFYE93J7JYHNBNTEQ\">How Dogecoin Fees Work</h2><p class=\"no-margin\">Unlike some networks that use gas, Dogecoin uses a simple model: the larger the transaction (e.g. more inputs/outputs), the higher the fee. But even then, it stays super cheap.</p><p class=\"no-margin\">Edge watches the Dogecoin network in real time to determine how congested things are, and adjusts the fee recommendations accordingly.</p><h2 id=\"h_01JSN0MWTN3XKEEG0YY7NNTC0H\">Fee Presets You Can Choose From</h2><p class=\"no-margin\">You’ll see four clear options in Edge:</p><ul><li><p class=\"no-margin\"><b>High</b> – Great for urgent transactions that need to confirm quickly</p></li><li><p class=\"no-margin\"><b>Optimal</b> – Balanced for everyday use (this is the default)</p></li><li><p class=\"no-margin\"><b>Low</b> – Save even more, but expect a bit of a delay</p></li><li><p class=\"no-margin\"><b>Custom</b> – Set your own fee if you want total control</p></li></ul><p class=\"no-margin\">Just pick the one that matches your needs. For most people, <b>Optimal</b> works like a charm.</p><h2 id=\"h_01JSN0MWTNX2TTJYEP9GD1ZATR\">What’s the Average Cost?</h2><p class=\"no-margin\">Sending DOGE costs about <b>$0.03 USD on average</b>. That’s one of the lowest fees you’ll find across major blockchains.</p><h2 id=\"h_01JSN0MWTNK0DHCS5PSQ85W2NT\">Why It Matters</h2><p class=\"no-margin\">With Dogecoin, you're getting fast and cheap transactions almost every time. Edge keeps it simple by monitoring the network and helping you pick the right fee—so you don’t overpay or get stuck waiting around. It’s smooth, smart, and very DOGE-friendly.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223040,
+  "updated_at": 1772223041,
+  "url": "https://support.edge.app/en/articles/13892525-dogecoin-network-fees"
+}

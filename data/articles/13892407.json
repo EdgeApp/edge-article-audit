@@ -1,0 +1,54 @@
+{
+  "id": "13892407",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727258
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222831,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268817",
+        "name": "section:In-App Warning Cards",
+        "applied_at": 1772222831,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268821",
+        "name": "label:ARRR",
+        "applied_at": 1772222831,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136130",
+  "title": "ARRR is temporarily disabled (iOS only).",
+  "description": "EDIT: As of 4.23.0 ARRR (Piratechain) iOS will now sync. \n \niOS users will not be able to sync ARRR until a future update that resolves th...",
+  "body": "<p class=\"no-margin\"><b>EDIT: </b>As of 4.23.0 ARRR (Piratechain) iOS will now sync.</p><p class=\"no-margin\">iOS users will not be able to sync ARRR until a future update that resolves the syncing issue. We do not have a timeline for this fix.</p><p class=\"no-margin\">ARRR users can export key their private key by tapping Assets &gt; Tap on the ARRR wallet &gt; Tap on the three vertical dots ( ⋮ ) &gt; Tap on \"Master Private Key.\" You will need to enter your password to unlock the key. NOTE: do not store this digitally as this does grant access to your funds.</p><p class=\"no-margin\">You can enter that private key in the one of the official ARRR wallets found here: <a href=\"https://piratechain.com/wallets/\" target=\"_blank\" class=\"intercom-content-link\">https://piratechain.com/wallets/</a>.</p><p class=\"no-margin\">NOTE: we will have this fixed in the near future these steps are not necessary unless you need immediate access to your funds.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222830,
+  "updated_at": 1772222831,
+  "url": "https://support.edge.app/en/articles/13892407-arrr-is-temporarily-disabled-ios-only"
+}

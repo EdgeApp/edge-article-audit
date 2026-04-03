@@ -1,0 +1,44 @@
+{
+  "id": "13892305",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727251
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222674,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268654",
+        "name": "section:Edge Wallet Features",
+        "applied_at": 1772222674,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136021",
+  "title": "Why doesn’t Edge have a web interface or desktop version for the wallet?",
+  "description": "Edge made a conscious decision to restrict our wallet to native mobile applications. Website infrastructures are notoriously difficult to ...",
+  "body": "<p class=\"no-margin\">Edge made a conscious decision to restrict our wallet to native mobile applications. Website infrastructures are notoriously difficult to secure as there are many different attack vectors allowing hackers access to users’ credentials.</p><p class=\"no-margin\">These include but are not limited to:</p><p class=\"no-margin\">* Javascript injection<br>* Server-side hacks modifying HTML/Javascript<br>* Fake URL phishing attacks<br>* Man-in-the-middle attacks<br>* Rogue browser plug-ins<br>* Keyboard or screen loggers</p><p class=\"no-margin\">Note that with the exception of keyboard or screen loggers, Edge is not susceptible to any of the above attacks. Fully compromised Edge servers or even the network around a user’s device does NOT give an attacker any access to user data or funds. We have carefully designed the client-server architecture with this in mind as we know Bitcoin security is a paramount concern and is critical in achieving mass adoption.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222674,
+  "updated_at": 1772222674,
+  "url": "https://support.edge.app/en/articles/13892305-why-doesn-t-edge-have-a-web-interface-or-desktop-version-for-the-wallet"
+}

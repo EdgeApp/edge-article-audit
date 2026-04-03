@@ -1,0 +1,44 @@
+{
+  "id": "13892405",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727258
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222828,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268817",
+        "name": "section:In-App Warning Cards",
+        "applied_at": 1772222828,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136128",
+  "title": "Hedera (HBAR) Activation issue",
+  "description": "Hedera (HBAR) Wallet Activation UpdateThe activation service for Hedera (HBAR) is no longer operational. As a result, new HBAR wallet addr...",
+  "body": "<p class=\"no-margin\"><b>Hedera (HBAR) Wallet Activation Update</b><br>The activation service for Hedera (HBAR) is no longer operational. As a result, new HBAR wallet addresses require a small deposit—0.01 HBAR or less—to become active. You can send this amount from any HBAR wallet with a balance that supports the address format.</p><p class=\"no-margin\">Note that addresses generated at wallet creation may not be compatible with certain exchanges, such as Coinbase or Kraken. These platforms might require a different address type or a memo for transactions, so please verify their specific requirements before sending funds.</p><p class=\"no-margin\"><b>Need Help?</b><br>If you have questions or need assistance, feel free to contact our support team at <a href=\"mailto:support@edge.app\" target=\"_blank\" class=\"intercom-content-link\">support@edge.app</a> or use the chatbot on our support page.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222827,
+  "updated_at": 1772222828,
+  "url": "https://support.edge.app/en/articles/13892405-hedera-hbar-activation-issue"
+}

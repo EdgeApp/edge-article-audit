@@ -1,0 +1,64 @@
+{
+  "id": "13892437",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268680",
+        "name": "content-tag:buy",
+        "applied_at": 1772222882,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222882,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222882,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268902",
+        "name": "label:Bitrefill",
+        "applied_at": 1772222882,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136161",
+  "title": "Using Bitrefill in Edge Wallet",
+  "description": "Edge Wallet integrates with Bitrefill, allowing users to spend cryptocurrency on gift cards, prepaid mobile top-ups, and other digital ser...",
+  "body": "<p class=\"no-margin\">Edge Wallet integrates with Bitrefill, allowing users to spend cryptocurrency on gift cards, prepaid mobile top-ups, and other digital services—directly from their wallet balance.</p><hr><h1 id=\"h_01JRXWF4CYBXQ0QJ6XRRHNH7JW\">Accepted Payment Methods</h1><p class=\"no-margin\"><b>Spend Crypto:</b></p><p class=\"no-margin\">Bitcoin (BTC)<br>Ethereum (ETH)<br>USDT (ERC20, TRC20, Lightning)<br>Litecoin (LTC)<br>Dash (DASH)<br>Dogecoin (DOGE)</p><p class=\"no-margin\">~0–1% network fee • Settlement: Instant to a few minutes depending on network</p><p class=\"no-margin\"><i>*Note: Bitrefill transactions are final. Ensure address and product details are correct before submitting payment.</i></p><hr><h1 id=\"h_01JRXWF4CYB41VSRDY0HR6ERSJ\">Supported Regions</h1><p class=\"no-margin\">Bitrefill supports global users and offers gift cards and services for dozens of countries, with region-specific availability depending on the product.</p><p class=\"no-margin\"><b>Supported Regions Include:</b></p><p class=\"no-margin\">North America: United States, Canada<br>Europe: United Kingdom, Germany, France, Italy, Spain, and more<br>Asia-Pacific: India, Philippines, Australia, and more<br>Latin America: Brazil, Mexico, Argentina, Chile<br>Africa: Nigeria, South Africa, Kenya, and others</p><p class=\"no-margin\"><b>Restricted Regions:</b></p><p class=\"no-margin\">Bitrefill may restrict certain services based on regional compliance, product limitations, or payment availability.</p><p class=\"no-margin\"><i>*Please note that the list of supported regions is subject to change.</i></p><hr><h1 id=\"h_01JRXWF4CY4EAQBCJ02T1J434V\">Getting Started</h1><p class=\"no-margin\">Open Edge Wallet: Launch the Edge Wallet app on your device.<br>Navigate to Spend: Tap on the “Spend” or “Gift Cards” section.<br>Select Bitrefill: Choose Bitrefill from the list of providers.<br>Browse Products: Select a gift card or top-up service for your country.<br>Pay with Crypto: Choose your payment currency and confirm the purchase.</p><hr><h1 id=\"h_01JRXWF4CY7E4T77N2HQ60MB7V\">Contact Information</h1><p class=\"no-margin\">Bitrefill Support: <a href=\"https://help.bitrefill.com/hc/en-us\" target=\"_blank\" class=\"intercom-content-link\">https://help.bitrefill.com/hc/en-us</a></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222882,
+  "updated_at": 1772222883,
+  "url": "https://support.edge.app/en/articles/13892437-using-bitrefill-in-edge-wallet"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "13892327",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222705,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222705,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136048",
+  "title": "What is a UTXO?",
+  "description": "Bitcoin and Bitcoin-alike currencies such as Litecoin, Dogecoin and Bitcoin Cash, for example, are UTXO-based crypto.\nWhat is a UTXO?\nIn t...",
+  "body": "<p class=\"no-margin\">Bitcoin and Bitcoin-alike currencies such as Litecoin, Dogecoin and Bitcoin Cash, for example, are UTXO-based crypto.</p><h1 id=\"h_3a6687f3f1\">What is a UTXO?</h1><p class=\"no-margin\">In this short article we'll explain in simple terms what UTXO means, by describing what happens with Bitcoin. The other UTXO-based currencies act in a similar way.</p><p class=\"no-margin\">We can imagine your bitcoins as digital banknotes that you keep in your digital wallet. However, these banknotes are not stored as whole units, but instead as smaller denominations, like $1, $5, or $10 notes in you might have in your physical wallet.</p><p class=\"no-margin\">Each of these digital banknotes is called a UTXO (Unspent Transaction Output), it has a specific value and is associated with a specific Bitcoin address, which is like a bank account number. When you want to send bitcoins to someone else, your wallet needs to gather enough of these UTXOs to add up to the amount you want to send, just like you would take out physical banknotes from your wallet to pay for something.</p><p class=\"no-margin\">When you use a UTXO to send bitcoins to someone else, it becomes \"spent,\" just like when you spend a physical banknote, and it's removed from your digital wallet. Any excess amount of bitcoins you have left over from the transaction becomes a new UTXO, which is like receiving change when you pay with physical banknotes.</p><p class=\"no-margin\">So, in summary, a Bitcoin UTXO is similar to a physical banknote in your wallet. It's a digital representation of a specific value of bitcoins associated with a specific Bitcoin address, and it's used to make transactions on the Bitcoin network.</p><p class=\"no-margin\">Tip: UTXOs can be more than one for each address you use! In fact, even if you reuse a Bitcoin address to receive many different payments, you will end up with as many UTXOs as the number of payments you received.</p><p class=\"no-margin\">Consider that reusing a Bitcoin address is a bad practice, since it exposes your previous transactions and your address total balance to the external observers. Luckily, Edge generates a new address for you, after each received transaction.<br>We care about your privacy!</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222704,
+  "updated_at": 1772222705,
+  "url": "https://support.edge.app/en/articles/13892327-what-is-a-utxo"
+}

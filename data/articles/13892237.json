@@ -1,0 +1,44 @@
+{
+  "id": "13892237",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727250
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222579,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268612",
+        "name": "section:Basics",
+        "applied_at": 1772222579,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135949",
+  "title": "Mining into Edge",
+  "description": "We welcome mining into Edge however we do have a few tips that need to be followed to create the best experience. \nTips for mining into Ed...",
+  "body": "<p class=\"no-margin\">We welcome mining into Edge however we do have a few tips that need to be followed to create the best experience.</p><p class=\"no-margin\">Tips for mining into Edge:</p><ul><li><p class=\"no-margin\">If you're using a pool set the payout frequency to weekly or longer. The Edge app may not function properly if many payouts are going to the same address in a short period of time such as many per day.</p></li><li><p class=\"no-margin\">Periodically you will want to perform a consolidation. Send your max amount to yourself which will move the funds to a new address in the same wallet. This will prevent any syncing issues.</p><ul><li><p class=\"no-margin\">You can do so by copying your own address and then sending the max amount to yourself.</p><ul><li><ul><li><p class=\"no-margin\">Tap into you BTC wallet.</p></li><li><p class=\"no-margin\">Tap \"Receive\" and copy</p></li><li><p class=\"no-margin\">Go back one screen and then tap \"Send\"</p></li><li><p class=\"no-margin\">Paste your address and then send MAX.</p></li></ul></li></ul></li></ul></li></ul>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222579,
+  "updated_at": 1772222579,
+  "url": "https://support.edge.app/en/articles/13892237-mining-into-edge"
+}

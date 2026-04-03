@@ -1,0 +1,44 @@
+{
+  "id": "13892399",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727257
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222819,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268798",
+        "name": "section:Troubleshooting",
+        "applied_at": 1772222819,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136122",
+  "title": "What if your account has been compromised?",
+  "description": "If you think your Edge account has been compromised, please STOP using it.\n\n\n\nIf you still have funds inside, we strongly suggest that you...",
+  "body": "<p class=\"no-margin\"><b>If you think your Edge account has been compromised, </b><b>please STOP using it</b>.</p><p class=\"no-margin\">If you still have funds inside, we strongly suggest that you create another account and transfer the funds to that new account.</p><p class=\"no-margin\">When you create a new account be sure to respect all these steps below, in order to keep it safe:</p><ol><li><p class=\"no-margin\">Never use a username/password that have already been used online. Never use an email or part of it as a username!<br>If you used an email address (or part of it) as a username, you can check if it has been leaked by going to <a href=\"https://haveibeenpwned.com/\" target=\"_blank\" class=\"intercom-content-link\">https://haveibeenpwned.com/</a>; if you enter your email address there and the service indicates the it has been leaked, please create another account.</p></li><li><p class=\"no-margin\">If you need to store your credentials because they are hard to be remembered or you want to keep a copy, please use an offline solution: Edge credentials, as private keys and seed phrases, represents your wealth, so it's important to keep them safe and not share them with other people.</p></li><li><p class=\"no-margin\">If you need to export the Master Private Key from a wallet (seed phrase), be sure to store it in a safe place offline.</p></li><li><p class=\"no-margin\">After the new account has been created, activate the 2FA and follow the instructions you can find here: <a href=\"https://support.edge.app/hc/en-us/articles/7070265416347-How-to-maximize-my-Edge-account-security-\" target=\"_blank\" class=\"intercom-content-link\">maximized security. </a></p></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222818,
+  "updated_at": 1772222819,
+  "url": "https://support.edge.app/en/articles/13892399-what-if-your-account-has-been-compromised"
+}

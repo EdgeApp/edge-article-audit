@@ -1,0 +1,44 @@
+{
+  "id": "13892567",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727266
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13269295",
+        "name": "category:FAQ",
+        "applied_at": 1772223106,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269300",
+        "name": "section:Blockchain Basics",
+        "applied_at": 1772223106,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136297",
+  "title": "XRP Reserve Balance",
+  "description": " \n\nAll XRP wallets are required to maintain a minimum balance of XRP at all times. This requirement is part of the XRP Ledger’s Base Reser...",
+  "body": "<p class=\"no-margin\">All XRP wallets are required to maintain a minimum balance of XRP at all times. This requirement is part of the XRP Ledger’s Base Reserve policy (learn more at <a href=\"https://xrpl.org/reserves.html\" target=\"_blank\" class=\"intercom-content-link\">xrpl.org/reserves.html</a>) and applies universally to all XRP wallets, not just those in Edge. When you create a new XRP wallet in the Edge app, you’ll see a message notifying you of this requirement.</p><h1 id=\"h_01JQY8PXW87M60FVXW711RVSPY\">How the Reserve Works</h1><ul><li><p class=\"no-margin\"><b>1 XRP Base Reserve</b>: This amount is tied to your XRP account (public address) on the blockchain and remains locked as long as the wallet exists. These funds are not held by Edge but are a feature of the XRP Ledger itself.</p></li><li><p class=\"no-margin\"><b>0.2 XRP per Active Token Wallet</b>: An additional 0.2 XRP is reserved for each active XRP token you hold.</p></li></ul><h1 id=\"h_01JQY8PXW8WWC3Q6RAVM1ASDNM\">Recent Update to the Base Reserve</h1><p class=\"no-margin\">As of December 3, 2024, the XRP Ledger reduced the Base Reserve requirement from 10 XRP to 1 XRP. If your Edge app still shows a locked balance of 10 XRP, please update to the latest version of the app from the App Store (iOS) or Google Play Store (Android) to reflect this change.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223106,
+  "updated_at": 1772223106,
+  "url": "https://support.edge.app/en/articles/13892567-xrp-reserve-balance"
+}

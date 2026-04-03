@@ -1,0 +1,84 @@
+{
+  "id": "13892320",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268607",
+        "name": "label:Receive",
+        "applied_at": 1772222696,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268626",
+        "name": "content-tag:account",
+        "applied_at": 1772222696,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268655",
+        "name": "content-tag:trading",
+        "applied_at": 1772222696,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222696,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222696,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268740",
+        "name": "label:coinbase",
+        "applied_at": 1772222696,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136039",
+  "title": "How to move funds from Coinbase to Edge",
+  "description": "Moving funds off of custodial exchanges is always encouraged to protect users. \nTo move your funds from Coinbase you'll first need an Edge...",
+  "body": "<p class=\"no-margin\">Moving funds off of custodial exchanges is always encouraged to protect users.</p><p class=\"no-margin\">To move your funds from Coinbase you'll first need an Edge account.</p><p class=\"no-margin\">Download Edge from <a href=\"http://www.edge.app\" target=\"_blank\" class=\"intercom-content-link\">www.edge.app</a> or your app store and then create an account. <a href=\"https://support.edge.app/hc/en-us/articles/7019038717339\" target=\"_blank\" class=\"intercom-content-link\">How do I create an account?</a></p><p class=\"no-margin\">Once your account is created you will select which assets you'd like to start with, make sure to enable all assets you plan on moving from Coinbase. Tap \"Assets\" located within the bottom navigation bar</p><p class=\"no-margin\">Tap the asset you plan on moving from Coinbase to Edge and then tap \"Receive\" to bring up the receiving address. You can then tap the \"Copy\" function to copy the address which will be used with Coinbase. NOTE: if you're using the desktop you will need to enter this address manually. It is very important to check the characters, if possible copy and paste to avoid errors.</p><p class=\"no-margin\">Now open Coinbase and then from the home screen tap \"Send\" and then select the asset you'd like to remove. Paste or enter your Edge receiving address and the tap continue.</p><p class=\"no-margin\">Select the amount or tap max. and then tap preview and confirm. NOTE: you may need to enter a two factor code sent to your messaging service or email.</p><p class=\"no-margin\">Your funds will then be sent to Edge!. Happy trading.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222695,
+  "updated_at": 1772222696,
+  "url": "https://support.edge.app/en/articles/13892320-how-to-move-funds-from-coinbase-to-edge"
+}

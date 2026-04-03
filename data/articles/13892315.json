@@ -1,0 +1,124 @@
+{
+  "id": "13892315",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222687,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222687,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268722",
+        "name": "label:staking",
+        "applied_at": 1772222687,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268723",
+        "name": "label:unstake",
+        "applied_at": 1772222687,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268724",
+        "name": "label:savers",
+        "applied_at": 1772222687,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268726",
+        "name": "label:Thorchain",
+        "applied_at": 1772222687,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268727",
+        "name": "content-tag:thorchain",
+        "applied_at": 1772222687,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268728",
+        "name": "content-tag:earn",
+        "applied_at": 1772222687,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268729",
+        "name": "content-tag:tcy",
+        "applied_at": 1772222687,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268730",
+        "name": "content-tag:savers protcol",
+        "applied_at": 1772222687,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136033",
+  "title": "How to claim and manage your $TCY stake in Edge (THORChain Yield token)",
+  "description": "What is $TCY?\nTCY is a newly minted token on Thorchain, created as part of a debt-to-equity conversion proposal voted on by node operators...",
+  "body": "<h1 id=\"h_01JTGQKPM90NZXB45K761DVXMN\">What is $TCY?</h1><p class=\"no-margin\">TCY is a newly minted token on Thorchain, created as part of a debt-to-equity conversion proposal voted on by node operators within Thorchain’s ecosystem. All in consideration, this proposal was considered the best solution for making everyone whole from the insolvent debt in the protocol; no other proposal even came close.</p><p class=\"no-margin\">TCY can be staked to earn passive RUNE rewards, traded on the market, or speculated on for long-term value appreciation. Its price is determined by a RUNE/TCY liquidity pool, and as Thorchain's ecosystem grows, TCY holders will benefit from increasing swap fees and adoption. This was a resilient move from synth-based yield, toward “real yield” for the protocol.</p><h1 id=\"h_01JTGTTAHZ63Y6SA54EJTK3QYA\">Who can claim $TCY?</h1><p class=\"no-margin\">Any wallet participating in the THORChain Lending or Savers protocol that was halted in January 2025. A snapshot of staked values was taken, and claimers will receive 1:1 for every dollar of defaulted debt in the Savers protocol. Please note: TCY is a token in a free market, so the value in USD (or other national currency) may be more or less than the value that the token had during the snapshot. <br>Unclaimed TCY will be staked by the protocol itself to automatically buy and accumulate more TCY from the RUNE emissions.</p><p class=\"no-margin\">Edge users had integrated access to the Savers protocol, and from the v4.27 update, will be able to easily claim their TCY allocation directly from their accounts. There is no deadline to claim.</p><h1 id=\"h_01JTGTV0T7GNJ8P66P2BFQCDV3\">How to claim $TCY?</h1><ol><li><p class=\"no-margin\">Navigate to the asset you’ve staked in Thorchain savers.</p></li><li><p class=\"no-margin\">Tap the Earn button to enter your stake management section.</p></li><li><p class=\"no-margin\">Use the new Claim button (v.4.27+)</p></li></ol><p class=\"no-margin\">Note: <b>TCY is automatically staked upon claiming.</b></p><p class=\"no-margin\">Initiating this claim will link your staking wallet address to your RUNE wallet, so you may receive your TCY allocation. If you already have a Thorchain (RUNE) wallet in your account, you may simply select it and finalize the claim. If you do not have a RUNE wallet already, you will be able to easily create one while claiming.</p><h1 id=\"h_01JTGTV9GH4VC7J05SQFAD7JJX\">Staking and unstaking $TCY</h1><p class=\"no-margin\">After claiming or purchasing TCY, you can manage the staking by navigating to the Thorchain (RUNE) wallet in your account and tapping on the Earn button.</p><p class=\"no-margin\"><b>Important to note:</b><br>- Unstaking will be required in order to send or swap.<br>- There are no lockups, cooldowns, or any wait time to staking or unstaking.<br>- When you have an active TCY stake, you will get airdropped RUNE at every payout block. No need to claim these rewards. The RUNE will just magically and gaslessly appear in your wallet.<br><i>- RUNE is the gas token for the Thorchain, so in order to unstake, swap or transfer TCY, you could buy or transfer some RUNE into your Thorchain wallet, or you may simply wait for the TCY stake to generate enough RUNE for any network fees.</i></p><h1 id=\"h_01JTGTVQN49XSPKSDYBZ8TC6MJ\">Yield Benefits and Advantages</h1><p class=\"no-margin\">With the launch of $TCY, Thorchain will now allocate 10% of all fees generated to TCY stakers, paid out in RUNE daily. Rather than a buy-and-burn function, the protocol is set to buy-and-accumulate TCY, using the RUNE emissions to buy and stake more TCY, creating price indiscriminate buy pressure.</p><h1 id=\"h_01JTGX2B5VQCH8JTYX5HWD3S4C\">More information:</h1><p class=\"no-margin\">Initial post from Edge: <a href=\"https://edge.app/blog/company-news/thorchain-savers-halts\" target=\"_blank\" class=\"intercom-content-link\">THORchain Savers and Lending Halts Operation for Up To 90 Days</a></p><p class=\"no-margin\">Check your claim &amp; ecosystem stats: <a href=\"https://rune.tools/tcy-claims\" target=\"_blank\" class=\"intercom-content-link\">TCY claim checker - Rune.tools</a></p><p class=\"no-margin\">A deep-dive into the <a href=\"https://medium.com/thorchain/thorfi-unwind-96b46dff72c0\" target=\"_blank\" class=\"intercom-content-link\">THORFi Unwind</a> - a Medium post written by THORChain</p><p class=\"no-margin\">Learn more from a major proponent of TCY: <a href=\"https://x.com/TCY_Bull\" target=\"_blank\" class=\"intercom-content-link\">https://x.com/TCY_Bull</a></p><p class=\"no-margin\">High volatility is characteristic of any new asset while the market learns how to value it. It’s recommended to move slowly, be rational, calm and careful while orienting to and creating your TCY position. Claiming is ongoing, so there is no need to rush.</p><p class=\"no-margin\">An alternative Liquid Staking (LST) option will soon also become available ($sTCY) and will be auto-compounding, earning more TCY, instead of RUNE. Opting-out of RUNE payouts can be done simply by unstaking, which may be useful for people in highly regulated environments. In these cases, the LST may be preferable since it accrues value, but is only realized when unstaking or exchanging it for another asset.</p><p class=\"no-margin\">Please reach out to our Support team with any other questions.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222686,
+  "updated_at": 1772222687,
+  "url": "https://support.edge.app/en/articles/13892315-how-to-claim-and-manage-your-tcy-stake-in-edge-thorchain-yield-token"
+}

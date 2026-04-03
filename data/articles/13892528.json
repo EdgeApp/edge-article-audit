@@ -1,0 +1,94 @@
+{
+  "id": "13892528",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772223046,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772223046,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772223046,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268638",
+        "name": "label:sending fees",
+        "applied_at": 1772223046,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772223046,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223046,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223046,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136257",
+  "title": "Avalanche Network Fees",
+  "description": "Avalanche Fee Calculation – Fast, Scalable, and Affordable\nAvalanche is a high-speed, low-cost blockchain built to support everything from...",
+  "body": "<h1 id=\"h_01JSN14JCH753EQEZWXXTCYRBT\">Avalanche Fee Calculation – Fast, Scalable, and Affordable</h1><p class=\"no-margin\">Avalanche is a high-speed, low-cost blockchain built to support everything from DeFi to NFTs. It’s fully <b>EVM-compatible</b>, which means it works a lot like Ethereum—but generally faster and cheaper. When you send AVAX using Edge Wallet, your fee is based on the <b>gas price</b>, paid in AVAX.</p><h2 id=\"h_01JSN14JCH0T9KKTW1MN76QTF3\">How Avalanche Fees Work</h2><p class=\"no-margin\">Fees on Avalanche are measured in <b>gwei</b>, just like Ethereum and other EVM chains. Your total fee depends on:</p><ul><li><p class=\"no-margin\">The <b>gas price</b> (how much you’re willing to pay per unit of gas)</p></li><li><p class=\"no-margin\">The <b>type and size</b> of the transaction</p></li></ul><p class=\"no-margin\">Edge uses real-time network conditions to estimate the best gas price and gives you preset options so you can pick what fits your needs.</p><h2 id=\"h_01JSN14JCH15GP6JQSTF565P9Y\">Fee Presets You Can Choose</h2><p class=\"no-margin\">Edge offers the standard four fee options:</p><ul><li><p class=\"no-margin\"><b>High</b> – Fastest confirmation, ideal when speed matters</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Best for everyday use, balancing cost and speed</p></li><li><p class=\"no-margin\"><b>Low</b> – Cheaper, but you might have to wait a bit longer</p></li><li><p class=\"no-margin\"><b>Custom</b> – Manually set your gas price if you want full control</p></li></ul><p class=\"no-margin\">To customize: Start your transaction → tap the <b>fee settings gear</b> → select a preset or enter your own values.</p><h2 id=\"h_01JSN14JCHARZWPAEFG7A538K6\">What’s the Average Cost?</h2><p class=\"no-margin\">On average, sending a transaction on Avalanche costs around <b>$0.08 USD</b>. That’s fast, affordable, and makes Avalanche one of the more user-friendly networks in the multichain space.</p><h2 id=\"h_01JSN14JCHHB1CS7Z3ASMS6TZD\">Why This Matters</h2><p class=\"no-margin\">Avalanche gives you Ethereum-level compatibility with faster speeds and lower fees. With Edge Wallet doing the heavy lifting—estimating fees, offering presets, and giving you customization—you stay in control without needing to dive into the technical details.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223046,
+  "updated_at": 1772223047,
+  "url": "https://support.edge.app/en/articles/13892528-avalanche-network-fees"
+}

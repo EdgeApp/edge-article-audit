@@ -1,0 +1,164 @@
+{
+  "id": "13892458",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268682",
+        "name": "content-tag:Payment Method",
+        "applied_at": 1772222922,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268789",
+        "name": "label:transaction",
+        "applied_at": 1772222922,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222922,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222922,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268942",
+        "name": "label:Moonpay",
+        "applied_at": 1772222922,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268943",
+        "name": "label:Venmo",
+        "applied_at": 1772222922,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268952",
+        "name": "label:Transaction Declined",
+        "applied_at": 1772222922,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268963",
+        "name": "label:Purchase Issues",
+        "applied_at": 1772222922,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268977",
+        "name": "label:Debit Card",
+        "applied_at": 1772222922,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268994",
+        "name": "label:bank transfer via debit card",
+        "applied_at": 1772222922,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268995",
+        "name": "label:purchasing",
+        "applied_at": 1772222922,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269008",
+        "name": "label:Venmo Via Moonpay",
+        "applied_at": 1772222922,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269009",
+        "name": "label:Transaction Issues.",
+        "applied_at": 1772222922,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269010",
+        "name": "label:selling",
+        "applied_at": 1772222922,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136183",
+  "title": "Venmo Transactions Issues (via MoonPay)",
+  "description": "Why Was My MoonPay Transaction Declined When Using Venmo?\nIf your MoonPay transaction was declined while using Venmo, it could be due to i...",
+  "body": "<p class=\"no-margin\"><b>Why Was My MoonPay Transaction Declined When Using Venmo?</b></p><p class=\"no-margin\">If your MoonPay transaction was declined while using Venmo, it could be due to issues with your Venmo balance, verification, or MoonPay’s payment processing filters. Here’s a quick overview of what might’ve gone wrong and how to fix it:</p><p class=\"no-margin\"><b>Common Reasons</b></p><ol><li><p class=\"no-margin\"><b>Insufficient Funds:</b> Your Venmo balance or linked funding source doesn’t have enough funds</p></li><li><p class=\"no-margin\"><b>Verification Incomplete:</b> Venmo or MoonPay account may be missing required verification</p></li><li><p class=\"no-margin\"><b>Payment Method Issues:</b> Your Venmo-linked payment method (e.g. bank/card) may be unsupported or declined</p></li><li><p class=\"no-margin\"><b>Purchase Limits:</b> You may have exceeded Venmo’s or MoonPay’s transaction limits</p></li><li><p class=\"no-margin\"><b>Security Flag:</b> Transaction may have been auto-declined for risk or fraud prevention</p></li></ol><p class=\"no-margin\"><b>Recommended Actions</b></p><ol><li><p class=\"no-margin\">Confirm your Venmo balance and linked funding source have sufficient funds</p></li><li><p class=\"no-margin\">Make sure your Venmo and MoonPay accounts are fully verified</p></li><li><p class=\"no-margin\">Try using a different Venmo-linked payment method</p></li><li><p class=\"no-margin\">Check your email (and spam folder) for alerts from MoonPay or Venmo</p></li><li><p class=\"no-margin\">Retry the transaction after resolving any alerts or restrictions</p></li><li><p class=\"no-margin\"><a href=\"https://support.moonpay.com/\" target=\"_blank\" class=\"intercom-content-link\"> <b>Contact MoonPay Support</b></a><b>:https://support.moonpay.com/</b></p></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222921,
+  "updated_at": 1772222923,
+  "url": "https://support.edge.app/en/articles/13892458-venmo-transactions-issues-via-moonpay"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "13892477",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268615",
+        "name": "content-tag:Navigating Edge",
+        "applied_at": 1772222954,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222954,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222954,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269041",
+        "name": "label:Navigating Edge",
+        "applied_at": 1772222954,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269043",
+        "name": "label:Navigating",
+        "applied_at": 1772222954,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269044",
+        "name": "label:Navigation Help",
+        "applied_at": 1772222954,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269053",
+        "name": "label:Navigating Guide",
+        "applied_at": 1772222954,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269054",
+        "name": "label:Asset Scene",
+        "applied_at": 1772222954,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136202",
+  "title": "Navigating Edge Wallet Asset Scene",
+  "description": "Navigation Access: You can reach this screen at any time by tapping Exchange from the bottom navigation bar. *Swipe your finger down to se...",
+  "body": "<h1 id=\"h_b16b64fdff\">Navigation Access: You can reach this screen at any time by tapping Exchange from the bottom navigation bar. *Swipe your finger down to see the full navigation bar and up to minimize it.</h1><p class=\"no-margin\"><b>The Assets section provides a complete overview of your crypto holdings and wallets, with tools for managing and organizing them easily.</b></p><h1 id=\"h_01JT1Y3GD761VYDGWNRJ2XCXWM\">Top Section: Total Balance and Controls</h1><ul><li><p class=\"no-margin\"><b>Total Balance</b>: Displays the combined USD value of all your crypto wallets.</p></li><li><p class=\"no-margin\"><b>Eyeball Icon</b>: Tap to toggle visibility of your total balance for privacy.</p></li><li><p class=\"no-margin\"><b>Send Button</b>: Opens three options:</p><ul><li><p class=\"no-margin\"><b>To Bank / Cash</b> – Convert crypto to fiat for withdrawal.</p></li><li><p class=\"no-margin\"><b>To Edge</b> – Send crypto funds to Edge from Bank / Cash.</p></li><li><p class=\"no-margin\"><b>To Another Wallet / Exchange</b> – Transfer to external wallets or exchanges.</p></li></ul></li><li><p class=\"no-margin\"><b>Deposit Button</b>: Opens two options:</p><ul><li><p class=\"no-margin\"><b>From Bank / Cash</b> – Buy crypto using fiat payment methods.</p></li><li><p class=\"no-margin\"><b>From Another Wallet / Exchange</b> – Receive crypto from outside sources.</p></li></ul></li></ul><h1 id=\"h_01JT1Y3GD8GH4AJDTR4WY4E73Q\">Wallet List</h1><p class=\"no-margin\">Each wallet row includes:</p><ul><li><p class=\"no-margin\"><b>Asset Logo &amp; Name</b> (e.g., BTC, ETH, XRP)</p></li><li><p class=\"no-margin\"><b>Current Price</b> and <b>Daily % Change</b></p></li><li><p class=\"no-margin\"><b>Wallet Balance</b> and <b>USD Equivalent</b></p></li><li><p class=\"no-margin\"><b>Wallet Nickname</b> (e.g., “My Bitcoin,” “My Ether”)</p></li></ul><h1 id=\"h_01JT1Y3GD81QM5XW5HK9KRHVD8\">Quick Access Buttons</h1><ul><li><p class=\"no-margin\"><b>Green Plus (+)</b>: Tap to add a new wallet.</p></li><li><p class=\"no-margin\"><b>Sort Icon (⇅)</b>: Adjust the wallet display order.</p></li></ul><h1 id=\"h_01JT1Y3GD8VQJMZNEVVRH2XGNQ\">Search Bar</h1><ul><li><p class=\"no-margin\">Use the <b>Search Wallets</b> bar at the bottom to quickly find any wallet in your list.</p></li></ul><h1 id=\"h_01JT1Y3GD8XC5C0KACC9WA23CH\">Scroll-Down Options</h1><ul><li><p class=\"no-margin\"><b>Add Wallet</b>: Tap to create a new wallet for any supported crypto.</p></li><li><p class=\"no-margin\"><b>Restore Wallets</b>: Retrieve previously archived or backed-up wallets.</p></li></ul>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222954,
+  "updated_at": 1772222955,
+  "url": "https://support.edge.app/en/articles/13892477-navigating-edge-wallet-asset-scene"
+}

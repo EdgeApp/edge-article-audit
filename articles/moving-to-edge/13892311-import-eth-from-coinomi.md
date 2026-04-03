@@ -1,0 +1,52 @@
+---
+title: Import ETH from Coinomi
+intercom_id: '13892311'
+workspace_id: ourx4xix
+state: published
+default_locale: en
+parent_type: null
+parent_id: null
+updated_at: 1772222681
+description: >-
+  Users attempting to import from ETH from Coinomi will notice that the address
+  is different once the import is complete. This can be alarmi...
+url: 'https://support.edge.app/en/articles/13892311-import-eth-from-coinomi'
+---
+Users attempting to import from ETH from Coinomi will notice that the address is different once the import is complete. This can be alarming however we can recover the funds. Coinomi uses a different derivation path which means we will need to derive the correct one using a special tool from this website: https://iancoleman.io/bip39/.
+
+**Never share your recovery phrase, private key, username, or password. Edge will never ask for this information. When possible do all recovery offline.**
+
+You will need your Coinomi recovery phrase, a web browser or device with [https://iancoleman.io/bip39/](https://iancoleman.io/bip39/) installed, and a device with Edge installed (this can be the same device as the iancoleman tool).
+
+To recover the key we will be using [https://iancoleman.io/bip39/](https://iancoleman.io/bip39/) which will help us find the correct key. We advice downloading the page as a file and using offline if possible. This is the most secure way to recover keys, if you choose to use the website please understand you are sending private information across the internet.
+
+You will need your Coinomi recovery phrase, a web browser or device with [https://iancoleman.io/bip39/](https://iancoleman.io/bip39/) installed, and a device with Edge installed (this can be the same device as the iancoleman tool).
+
+1.  Visit: [https://iancoleman.io/bip39/](https://iancoleman.io/bip39/) or use the downloaded file.
+    
+2.  Locate the field labeled BIP39 Mnemonic and enter your recovery phrase, the Coinomi phrase. Example:
+    
+    ![](https://edge-1a5ed69e1271.intercom-attachments-7.com/i/o/ourx4xix/2112520833/ec697e3365285094573e9575b403/27134422917147?expires=1775187900&signature=c879e59e95becd92b028211b645507f90c3064aeaad33a7a2472a49984d891b2&req=diEmFMx8nYlcWvMW1HO4zXZhMxO1UhwXD3J%2F0XZ7eAYCFQ1Av358AWgEsypk%0Anrns%0A)
+    
+3.  If you used a BIP39 Passphrase you will need to enter in the BIP39 Passphrase field. Leave this field empty if you did not create a passphrase.
+    
+4.  Select ETH from the "Coin" dropdown. Example:
+    
+    ![](https://edge-1a5ed69e1271.intercom-attachments-7.com/i/o/ourx4xix/2112520853/532ca9211b78e7075e5d2a08fafd/27134422919963?expires=1775187900&signature=097d412faf802544f9b352e22d5b7d5baefe3404fb0157266860df03d07f4b66&req=diEmFMx8nYlaWvMW1HO4zeRrq2gYyxX8Ar3xZbF63h6jkCrgSBduOJOyOBTk%0A6WMd%0A)
+    
+5.  Scroll to the "Derived Addresses" section and then locate the private key that matches your address in Coinomi. You will need this key for the import into Edge. Example:
+    
+    ![](https://edge-1a5ed69e1271.intercom-attachments-7.com/i/o/ourx4xix/2112520864/ed957cdf43f7427f4e8d2f6755c6/27134422920987?expires=1775187900&signature=098683c343341722f8cd1709e3f065626f173d84a4ab15a32456838823204ca3&req=diEmFMx8nYlZXfMW1HO4zfMJDuT9LCTmvyWMXDHzsdqOQU6taYRTeQ%2FBwUOH%0AxbdI%0A)
+    
+6.  Within Edge tap "Assets" located at the bottom of the app and then tap the "+" to add/import wallets. Example:  
+    ​
+    
+    ![](https://edge-1a5ed69e1271.intercom-attachments-7.com/i/o/ourx4xix/2112520884/4d52e3972c9a7a6584666bedbeac/27134422921755?expires=1775187900&signature=1cd5e97d6d1762fc87362806d6e1d1e307197526692532e82e8b8b63d6fc0355&req=diEmFMx8nYlXXfMW1HO4zW4cfZNnCuUp0pfMbAKcQAb2%2BRopI4BhKZULrBbJ%0A1gIa%0A)
+    
+7.  Toggle on ETH and then tap next.
+    
+8.  Review the information and then tap "Import Wallets"
+    
+9.  Enter the Private Key (the one that matched Coinomi viewed on the Iancoleman tool), tap next.
+    
+10.  The following screen will have a Migrate option. This option will move the funds to a new private key to help protect your funds. We advise doing this because the import process does expose keys a network fee will be used to migrate. If you want to use this key across multiple platforms do not migrate. Tap Next.

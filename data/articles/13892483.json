@@ -1,0 +1,174 @@
+{
+  "id": "13892483",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772222966,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772222966,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772222966,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772222966,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222966,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222966,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772222966,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269058",
+        "name": "label:Fee",
+        "applied_at": 1772222966,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772222966,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772222967,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269082",
+        "name": "label:Thorchain (RUNE) Network Fees",
+        "applied_at": 1772222967,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269083",
+        "name": "label:Thorchain RUNE Network Fees",
+        "applied_at": 1772222967,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269085",
+        "name": "label:Thorchain RUNE Network",
+        "applied_at": 1772222967,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269086",
+        "name": "label:Thorchain Network Fees",
+        "applied_at": 1772222967,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269087",
+        "name": "label:RUNE",
+        "applied_at": 1772222967,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136208",
+  "title": "Thorchain RUNE Network Fees",
+  "description": "Thorchain (RUNE) Network – Cross-Chain Swaps Made Simple\nThorchain allows users to swap assets across blockchains without centralized exch...",
+  "body": "<h1 id=\"h_01JSZ68F843ZZZZHXVN56225RK\">Thorchain (RUNE) Network – Cross-Chain Swaps Made Simple</h1><p class=\"no-margin\">Thorchain allows users to swap assets across blockchains without centralized exchanges, with fees based on swap complexity and traffic.</p><h2 id=\"h_01JSZ68F8403BPRANKE1FR9FEY\">How RUNE Fees Work</h2><ul><li><p class=\"no-margin\"><b>Transaction size and network congestion</b>.</p></li><li><p class=\"no-margin\">Swaps involve two transactions (inbound + outbound), each paid separately in <b>RUNE</b> or the swapped asset.</p></li></ul><p class=\"no-margin\">Edge estimates and displays the required fees clearly before you confirm.</p><hr><h2 id=\"h_01JSZ68F84KP2MQZH2679GPN45\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>Swap fees calculated dynamically</b> — no manual adjustment needed.</p></li></ul><hr><h2 id=\"h_01JSZ68F8404DKRP40HAYMBJBC\">Average Cost</h2><p class=\"no-margin\">Varies depending on the swap, but generally <b>$0.50 to $3.00 USD</b> total per swap pair (both sides).</p><hr><h2 id=\"h_01JSZ68F843RX5VY51F357WPD0\">Why It Matters</h2><p class=\"no-margin\">Thorchain unlocks true decentralized trading across chains. Edge makes sure your swap fees are fully transparent and optimized without needing to dive into complicated settings.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222966,
+  "updated_at": 1772222967,
+  "url": "https://support.edge.app/en/articles/13892483-thorchain-rune-network-fees"
+}

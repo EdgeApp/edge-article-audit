@@ -1,0 +1,64 @@
+{
+  "id": "13892468",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268685",
+        "name": "label:Sell",
+        "applied_at": 1772222938,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268687",
+        "name": "label:withdraw",
+        "applied_at": 1772222938,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222939,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222939,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136193",
+  "title": "Bits of Gold FAQ",
+  "description": "What is Bits of Gold?\n\n\nBits of Gold is an Israeli company that supports selling Bitcoin for Euros and Shekels via bank transfer. \nWhat co...",
+  "body": "<p class=\"no-margin\"><b>What is Bits of Gold?</b></p><p class=\"no-margin\"><br>Bits of Gold is an Israeli company that supports selling Bitcoin for Euros and Shekels via bank transfer.</p><p class=\"no-margin\"><br><b>What coins can I buy and sell with Bits of Gold?<br></b><br>​</p><div class=\"intercom-interblocks-table-container\"><table role=\"presentation\"><tbody><tr><td><p class=\"no-margin\">Sell</p></td></tr><tr><td><p class=\"no-margin\">Bitcoin (BTC)</p></td></tr></tbody></table></div><p class=\"no-margin\"><br><b>Where can I use Bits of Gold?</b><br><br>Users in Israel and parts of Europe can use Bits of Gold to sell Bitcoin. Please go <a href=\"https://support.edge.app/support/solutions/articles/8000078107-supported-countries-and-payment-methods\" target=\"_blank\" class=\"intercom-content-link\">here</a> for a comprehensive list of countries and supported payment methods in Edge.<br><br>​</p><p class=\"no-margin\"><b>What are the fees and settlement times?<br></b><br>Fee: 6.5% / Settlement time: 1-72 hours<br><br><b>What are the minimum and maximum limits?<br></b><br>​</p><div class=\"intercom-interblocks-table-container\"><table role=\"presentation\"><tbody><tr><td></td><td><p class=\"no-margin\">Sell</p></td></tr><tr><td><p class=\"no-margin\">Minimum</p></td><td><p class=\"no-margin\">€250</p></td></tr><tr><td><p class=\"no-margin\">Daily Max</p></td><td><p class=\"no-margin\">€5,000<br>​</p></td></tr><tr><td><p class=\"no-margin\">Monthly Max</p></td><td><p class=\"no-margin\">Unlimited</p></td></tr></tbody></table></div><p class=\"no-margin\"><br><br><b>How do I buy and sell with Bits of Gold?<br></b></p><p class=\"no-margin\"><br>Guide coming soon!<br><br><b>What payment methods are supported by Bits of Gold?<br></b><br>​</p><p class=\"no-margin\">Bits of Gold supports selling to a linked Israeli or European bank account.<br><br><b>Order Status and Support<br></b><br>If you have any questions about your order or its status please reach out to Bits of Gold directly through their <a href=\"https://bitsofgoldhelp.freshdesk.com/en/support/tickets/new\" target=\"_blank\" class=\"intercom-content-link\">support system</a></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222938,
+  "updated_at": 1772222939,
+  "url": "https://support.edge.app/en/articles/13892468-bits-of-gold-faq"
+}

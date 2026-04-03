@@ -1,0 +1,44 @@
+{
+  "id": "13892366",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222763,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222763,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136089",
+  "title": "How do I archive (delete) a wallet?",
+  "description": "Locate the Asset List Screen by tapping on Assets at the lower left\nLocate the name of the Wallet that you would like to Archive \nTap and ...",
+  "body": "<ol><li><p class=\"no-margin\">Locate the Asset List Screen by tapping on Assets at the lower left</p></li><li><p class=\"no-margin\">Locate the name of the Wallet that you would like to Archive</p></li><li><p class=\"no-margin\">Tap and hold on the wallet until a menu appears or tap into the wallet and tap the three vertical dots</p></li><li><p class=\"no-margin\">Tap on \"Archive Wallet\"</p></li><li><p class=\"no-margin\">Confirm and tap on \"Archive\" again</p></li></ol><p class=\"no-margin\">NOTE: You can restore any archived wallets by tapping Menu &gt; Settings &gt; Restore Wallets.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222762,
+  "updated_at": 1772222763,
+  "url": "https://support.edge.app/en/articles/13892366-how-do-i-archive-delete-a-wallet"
+}

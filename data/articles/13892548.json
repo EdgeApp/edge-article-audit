@@ -1,0 +1,44 @@
+{
+  "id": "13892548",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727263
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223078,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269284",
+        "name": "section:Airbitz",
+        "applied_at": 1772223079,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136278",
+  "title": "Will Edge continue to support Airbitz?",
+  "description": "Edge has ceased support of Airbitz. Users will need to download Edge (www.edge.app) and use their full username and password to gain acces...",
+  "body": "<p class=\"no-margin\">Edge has ceased support of Airbitz. Users will need to download Edge (<a href=\"http://www.edge.app\" target=\"_blank\" class=\"intercom-content-link\">www.edge.app</a>) and use their full username and password to gain access to their account. If you run into any issues or concerns please reach out to our support team at <a href=\"mailto:support@edge.app\" target=\"_blank\" class=\"intercom-content-link\">support@edge.app</a>.</p><p class=\"no-margin\">Note you will need your full username and password, pin will not work until after your first log in.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223078,
+  "updated_at": 1772223079,
+  "url": "https://support.edge.app/en/articles/13892548-will-edge-continue-to-support-airbitz"
+}

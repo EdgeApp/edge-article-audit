@@ -1,0 +1,124 @@
+{
+  "id": "13892473",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222946,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222946,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269032",
+        "name": "label:Duress Mode",
+        "applied_at": 1772222946,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269033",
+        "name": "label:How To Use Duress Mode",
+        "applied_at": 1772222946,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269034",
+        "name": "label:Using Duress Mode",
+        "applied_at": 1772222947,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269035",
+        "name": "label:Decoy Wallet",
+        "applied_at": 1772222947,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269036",
+        "name": "label:How To Use",
+        "applied_at": 1772222947,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269037",
+        "name": "label:Creating A Decoy Wallet",
+        "applied_at": 1772222947,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269038",
+        "name": "content-tag:Duress Mode",
+        "applied_at": 1772222947,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269039",
+        "name": "content-tag:How to Use Duress Mode",
+        "applied_at": 1772222947,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136198",
+  "title": "How to Use Duress Mode in Edge Wallet: Your Safety Net in High-Risk Situations",
+  "description": "What is Duress Mode?\nDuress Mode allows you to log into a decoy account using a special duress PIN. This mode is completely separate from ...",
+  "body": "<h1 id=\"h_01JT8TD8VDT0QQ9CXMGZKRK5HR\">What is Duress Mode?</h1><p class=\"no-margin\">Duress Mode allows you to log into a decoy account using a special duress PIN. This mode is completely separate from your main account and gives you a safe way to handle situations where someone is forcing you to open your wallet.</p><h2 id=\"h_01JT8XPRR8CZG3GQ1QZP0C8Q4V\">When you log in with your duress PIN:</h2><ul><li><p class=\"no-margin\">The wallet looks, feels, and functions like normal.</p></li><li><p class=\"no-margin\">Only the duress balance will appear.</p></li><li><p class=\"no-margin\">Only the decoy wallets you create in your duress account will be displayed.</p></li><li><p class=\"no-margin\">You can still perform real transactions on the decoy wallets.</p></li></ul><h2 id=\"h_01JT8XPX16QHX69R4Q2GVSV0MZ\">*Important: Duress Mode transactions are real and irreversible. We recommend only adding small amounts to the duress account.</h2><h1 id=\"h_01JT8TD8VDSN8D9VB4DTTEV8R8\">When to Use Duress Mode</h1><ul><li><p class=\"no-margin\">If someone physically forces you to unlock your device.</p></li><li><p class=\"no-margin\">When you’re under surveillance and asked to show your wallet.</p></li><li><p class=\"no-margin\">While traveling or operating in high-risk environments.</p></li></ul><h1 id=\"h_01JT8TD8VD10FCZDYTZKERKF4E\">How It Works</h1><ul><li><p class=\"no-margin\">In an emergency, enter your duress PIN instead of your regular PIN.</p></li><li><p class=\"no-margin\">Any account that has duress mode enabled will also enter duress mode.</p></li><li><p class=\"no-margin\">On duress accounts normal wallets will be hidden, only your duress wallets will be accessible.</p></li><li><p class=\"no-margin\">Transactions inside the duress account are real — it’s a fully functional wallet.</p></li></ul><h1 id=\"h_01JT8XJ0HQXJPNBWB0NVW64T0C\">Precautions Before Using Duress Mode</h1><ul><li><p class=\"no-margin\">Never rely on using only your Regular PIN to access your normal account.</p></li><li><p class=\"no-margin\">It is of the highest importance that you know your Username and Password.</p></li><li><p class=\"no-margin\">Always store your Username and Password somewhere secure.</p></li><li><p class=\"no-margin\">It is important that you know your Regular PIN and Duress PIN.</p></li><li><p class=\"no-margin\">Always store your Regular PIN and Duress Pin somewhere secure.</p></li></ul><h1 id=\"h_01JT8TD8VDB1JG5YQGKNDDNV48\">How to Turn On Duress Mode</h1><ol><li><p class=\"no-margin\">Tap on the three lines in the upper right hand corner</p></li><li><p class=\"no-margin\">Tap on settings. (Gear Icon)</p></li><li><p class=\"no-margin\">Tap on your Locked Settings (You need to enter your password to unlock these settings)</p></li><li><p class=\"no-margin\">Tap Duress Mode.</p></li><li><p class=\"no-margin\">Select Enable Duress Mode and set a unique PIN that’s different from your main PIN</p></li><li><p class=\"no-margin\">(Optional) Fund the duress account to make it look active and legitimate</p></li><li><p class=\"no-margin\">Once set, you can use your Duress PIN anytime to enter Duress Mode</p></li></ol><h1 id=\"h_01JT8TD8VDNV9D94B7GW3JKYFP\">How To Enter Duress Mode</h1><h2 id=\"h_01JXAQYGB41C040E52XHN8HF86\">*When you enter duress mode on one account all accounts that have duress mode enabled will also enter duress mode.</h2><h2 id=\"h_01JT8XRDBMDAD9Q2GC7X8AES91\">To enter your duress wallet:</h2><ol><li><p class=\"no-margin\">On the PIN login screen, enter your duress PIN instead of your regular PIN</p></li><li><p class=\"no-margin\">You will log into the duress account</p></li><li><p class=\"no-margin\">Only decoy wallets will appear; all other normal wallets will remain hidden</p></li><li><p class=\"no-margin\">Use the wallet as normal — *transactions in Duress Mode are real</p></li></ol><h1 id=\"01JWRW606XN64EXDX6BC034M77\">How To Exit Duress Mode And Return To Normal Mode</h1><h2 id=\"h_01JXAQYGB4PNMG807N0ZM17A7R\">*When you exit duress mode on one account all accounts that have duress mode enabled will also exit duress mode.</h2><h2 id=\"01JXANQZ1V3EVV3X4C893RKBJF\">To exit duress mode and return to your normal wallet:</h2><ol><li><p class=\"no-margin\">Log out by tapping on the three lines in the upper right hand corner and tapping log out</p></li><li><p class=\"no-margin\">At the PIN login screen, enter your normal PIN</p></li><li><p class=\"no-margin\">All accounts that had duress mode enabled will instantly enter normal mode as well</p></li></ol><h1 id=\"h_01JT8TD8VDDEKFMFFDMJTK3Z78\">How To Add A Decoy Wallet In Duress Mode</h1><h2 id=\"h_01JT8XQDFTKK4QHFQ9ACEJNGZT\">Once you’ve set up Duress Mode, you can add decoy wallets to make the duress account looks active and realistic.</h2><h2 id=\"h_01JXAQYGB4HBKD44WYXZQFQF2M\">Here’s how:</h2><ol><li><p class=\"no-margin\">Log out of your main account</p></li><li><p class=\"no-margin\">Log out by tapping on the three lines in the upper right hand corner and tapping log out</p></li><li><p class=\"no-margin\">On the PIN login screen enter your duress PIN</p></li><li><p class=\"no-margin\">Once inside the duress account, go to the Assets section (Assets Button Located Near Bottom Of The Wallet)</p></li><li><p class=\"no-margin\">Tap the + (Add Wallet) button</p></li><li><p class=\"no-margin\">Choose the cryptocurrency you want to add (e.g., Bitcoin, Ethereum)</p></li><li><p class=\"no-margin\">Follow the prompts to create the new wallet</p></li><li><p class=\"no-margin\">(Optional) Fund the decoy wallet with a small amount of crypto to make it look authentic</p></li></ol><h2 id=\"h_01JT8XQM8Z7P786B8S4SYPGX3Q\">*Important: Decoy wallets are fully functional, so any funds you add can be sent, received, or exchanged like a regular wallet. We recommend keeping only small, non-meaningful amounts in these wallets.</h2><h1 id=\"h_01JT8XJYE32K4J0XXFV4YRQCMG\">How To Add Funds To Your Duress Account</h1><h2 id=\"h_01JT8XP65D4DZQKEJ4DH6QFA06\">You can add funds to your decoy wallet in two different ways:</h2><h2 id=\"h_01JT8XJR6EP3FDW2R0Y5GHJC6Q\">Option 1: Send Funds Directly from Normal Mode</h2><ol><li><p class=\"no-margin\">Log in to your main account using your regular pin</p></li><li><p class=\"no-margin\">Tap on assets (Located Down Below)</p></li><li><p class=\"no-margin\">Tap on desired funding wallet (BTC, SOL, ETC)</p></li><li><p class=\"no-margin\">Tap Send</p></li><li><p class=\"no-margin\">Tap Myself</p></li><li><p class=\"no-margin\">Select your decoy wallet from the list of wallets</p></li><li><p class=\"no-margin\">Tap and enter amount</p></li><li><p class=\"no-margin\">Slide to confirm</p></li><li><p class=\"no-margin\">Complete the transfer as you would with any other transaction</p></li></ol><h2 id=\"h_01JT8XJBTPAPBKPFYGZ4SG1A62\">Option 2: Copy The Wallet Address In Duress Mode Directly From Your Decoy Wallet</h2><ol><li><p class=\"no-margin\">Enter your duress PIN</p></li><li><p class=\"no-margin\">Tap on assets (Located Down Below)</p></li><li><p class=\"no-margin\">Tap on Decoy wallet (BTC, SOL, ETC)</p></li><li><p class=\"no-margin\">Tap on receive</p></li><li><p class=\"no-margin\">Copy the receiving address of your decoy wallet</p></li><li><p class=\"no-margin\">Tap the three lines in the upper right hand corner</p></li><li><p class=\"no-margin\">Tap log out</p></li><li><p class=\"no-margin\">Enter regular PIN to log back into your main account</p></li><li><p class=\"no-margin\">Tap assets (Located Down Below)</p></li><li><p class=\"no-margin\">Tap on your funding wallet (BTC, SOL, ETC)</p></li><li><p class=\"no-margin\">Tap send</p></li><li><p class=\"no-margin\">Tap enter</p></li><li><p class=\"no-margin\">Paste your decoy wallet address</p></li><li><p class=\"no-margin\">Tap and enter amount</p></li><li><p class=\"no-margin\">Slide to confirm</p></li><li><p class=\"no-margin\">Complete the transfer as you would with any other transaction</p></li></ol><h2 id=\"h_01JT8XQVC36WX7KTMJBWS6K7M3\">*Important: Decoy wallets are fully functional — any funds you send can be used, moved, or withdrawn like normal. We strongly recommend only adding small, non-meaningful amounts to your duress account to avoid accidental loss.</h2><h1 id=\"h_01JT8TD8VDHXVTW75GT2KYDT8Y\">How To Disable Duress Mode</h1><h2 id=\"h_01JT8XR0E16H96NC2584HG5Q0S\">If you no longer want to use Duress Mode, follow these steps to remove the duress PIN:</h2><ol><li><p class=\"no-margin\">Log in to your main account using your regular PIN</p></li><li><p class=\"no-margin\">Go to Settings in the Edge Wallet app</p></li><li><p class=\"no-margin\">Tap Duress Mode</p></li><li><p class=\"no-margin\">Select Change Duress PIN</p></li><li><p class=\"no-margin\">Leave the PIN fields blank and confirm to clear the duress PIN</p></li><li><p class=\"no-margin\">Duress Mode will now be disabled, and the decoy account will no longer be accessible</p></li></ol><h2 id=\"h_01JT8XR42SEGEYXP3NKDBTFTT9\">*Important: Disabling Duress Mode will not delete the duress account or its funds — it simply removes the special login protection. You can reactivate Duress Mode anytime by enabling duress mode in settings and by setting a new duress PIN.</h2><h2 id=\"01JWRXCQE304QQ0H824M9X1SQ9\">*Pro Tip Practice using Duress Mode twice a year to build muscle memory and stay prepared.</h2>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222946,
+  "updated_at": 1772222947,
+  "url": "https://support.edge.app/en/articles/13892473-how-to-use-duress-mode-in-edge-wallet-your-safety-net-in-high-risk-situations"
+}

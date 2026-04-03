@@ -1,0 +1,184 @@
+{
+  "id": "13892507",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269058",
+        "name": "label:Fee",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269157",
+        "name": "label:Sending Fee",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269176",
+        "name": "label:Polkadot (DOT) Network Fees",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269177",
+        "name": "label:Polkadot (DOT)",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269178",
+        "name": "label:DOT",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269179",
+        "name": "label:Polkadot (DOT) Network",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269180",
+        "name": "label:Polkadot",
+        "applied_at": 1772223009,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136234",
+  "title": "Polkadot DOT Network Fees",
+  "description": "Polkadot (DOT) Network – Scalable and Predictable\nPolkadot is designed for interoperability and scalability, with a predictable fee struct...",
+  "body": "<h1 id=\"h_01JSZ2M7H85K4WQ8HK6PATKGJT\">Polkadot (DOT) Network – Scalable and Predictable</h1><p class=\"no-margin\">Polkadot is designed for interoperability and scalability, with a predictable fee structure to keep costs stable even during network congestion.</p><h2 id=\"h_01JSZ2M7H8HFKYASA74W1SFBY7\">How DOT Fees Work</h2><p class=\"no-margin\">Fees are based on:</p><ul><li><p class=\"no-margin\"><b>Transaction complexity</b></p></li><li><p class=\"no-margin\"><b>Network congestion (slight adjustment)</b><br>Fees are paid in <b>DOT tokens</b>.</p></li></ul><p class=\"no-margin\">Edge dynamically calculates the right fee for your DOT transactions based on real-time network conditions.</p><hr><h2 id=\"h_01JSZ2M7H8XEX1241Q722SYVGG\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>High</b> – Fastest inclusion</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Smart balance</p></li><li><p class=\"no-margin\"><b>Low</b> – Cheapest, slower confirmation</p></li><li><p class=\"no-margin\"><b>Custom</b> – Set your own fee if preferred</p></li></ul><hr><h2 id=\"h_01JSZ2M7H8X187CEC9H7VHGGME\">Average Cost</h2><p class=\"no-margin\">Sending DOT usually costs <b>$0.03 to $0.10 USD</b> depending on network activity.</p><hr><h2 id=\"h_01JSZ2M7H8XPBSZES924E0YHDA\">Why It Matters</h2><p class=\"no-margin\">DOT is built to remain affordable even during busy periods. Edge Wallet keeps it simple by suggesting the right fee based on speed or savings.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223008,
+  "updated_at": 1772223010,
+  "url": "https://support.edge.app/en/articles/13892507-polkadot-dot-network-fees"
+}

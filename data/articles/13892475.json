@@ -1,0 +1,114 @@
+{
+  "id": "13892475",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268615",
+        "name": "content-tag:Navigating Edge",
+        "applied_at": 1772222950,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222950,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269010",
+        "name": "label:selling",
+        "applied_at": 1772222951,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222951,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269041",
+        "name": "label:Navigating Edge",
+        "applied_at": 1772222951,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269042",
+        "name": "label:Navigating Wallet",
+        "applied_at": 1772222951,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269043",
+        "name": "label:Navigating",
+        "applied_at": 1772222951,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269047",
+        "name": "label:How To Sell",
+        "applied_at": 1772222951,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269048",
+        "name": "label:Navigating Sell",
+        "applied_at": 1772222951,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136200",
+  "title": "Navigating Edge Wallet Sell Scene",
+  "description": "*Note: The Sell section varies by region. Payment options depend on your location and available providers.\nNavigation Access: You can reac...",
+  "body": "<p class=\"no-margin\"><i>*Note: The Sell section varies by region. Payment options depend on your location and available providers.</i></p><p class=\"no-margin\"><b>Navigation Access:</b> You can reach this screen at any time by tapping <b>Exchange</b> from the bottom navigation bar. <b>*Swipe your finger down to see the full navigation bar and up to minimize it. </b></p><p class=\"no-margin\">The <b>Sell</b> screen in Edge Wallet allows you to convert your crypto into fiat and withdraw it using a range of services. Available methods are based on your country and state, shown at the top of the screen.</p><h1 id=\"h_01JT1Z4T67M4Z7ZD5WD6PSFYW4\">Region Selection</h1><p class=\"no-margin\">At the top of the screen, select your country and state (e.g., United States – California). Tap to adjust your region if needed. This updates the list of sell providers.</p><h1 id=\"h_01JT1Z4T6741P5E7XF9B84ME09\">Available Payment Methods</h1><p class=\"no-margin\">These are common payout methods available in most U.S. regions:</p><ul><li><p class=\"no-margin\"><b>ACH Bank Transfer</b></p><ul><li><p class=\"no-margin\">Fee: 1.5%</p></li><li><p class=\"no-margin\">Settlement: 2–3 business days</p></li></ul></li><li><p class=\"no-margin\"><b>Venmo</b></p><ul><li><p class=\"no-margin\">Fee: ~5%</p></li><li><p class=\"no-margin\">Settlement: 5 minutes to 24 hours</p></li></ul></li><li><p class=\"no-margin\"><b>PayPal</b></p><ul><li><p class=\"no-margin\">Fee: ~5%</p></li><li><p class=\"no-margin\">Settlement: 5 minutes to 24 hours</p></li></ul></li><li><p class=\"no-margin\"><b>Bank Transfer via Debit Card</b></p><ul><li><p class=\"no-margin\">Fee: 4.0%</p></li><li><p class=\"no-margin\">Settlement: 5 minutes to 24 hours</p></li></ul></li></ul><p class=\"no-margin\">*Each listed method includes estimated fees and settlement times. Tap on your preferred option to begin the sell process. You’ll be guided through selecting which crypto to sell, how much, and where to send the funds.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222950,
+  "updated_at": 1772222951,
+  "url": "https://support.edge.app/en/articles/13892475-navigating-edge-wallet-sell-scene"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "13892414",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727258
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222843,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268817",
+        "name": "section:In-App Warning Cards",
+        "applied_at": 1772222843,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268828",
+        "name": "label:avax",
+        "applied_at": 1772222843,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136137",
+  "title": "AVAX Sync Issues",
+  "description": "AVAX will not sync new transactions and tokens will be stuck at 50% sync until our next release. \nThis was caused by a switch to a new exp...",
+  "body": "<p class=\"no-margin\">AVAX will not sync new transactions and tokens will be stuck at 50% sync until our next release.</p><p class=\"no-margin\">This was caused by a switch to a new explorer. Our previous explorer Snowtrace (<a href=\"https://snowtrace.io/\" target=\"_blank\" class=\"intercom-content-link\">https://snowtrace.io/</a>) has shutdown.</p><p class=\"no-margin\">We will be switching to avascan.info in our future release of 3.23.0</p><p class=\"no-margin\">Your funds are safe and you can still send and receive.</p><p class=\"no-margin\">NOTED ISSUES:</p><ol><li><p class=\"no-margin\">AVAX (and tokens) will get stuck 50% sync circle</p></li><li><p class=\"no-margin\">Tx List will be blank (if resynced or new login). Otherwise, will show old tx history but not show new txss</p></li><li><p class=\"no-margin\">Balance will be displayed correctly</p></li><li><p class=\"no-margin\">Able to still send/stake/unstake</p></li><li><p class=\"no-margin\">This affects 3.22.0 Live and prior any old builds</p></li><li><p class=\"no-margin\">This is fixed in 3.23.0</p></li></ol><p class=\"no-margin\">If you have any questions or concerns please contact our support team at <a href=\"mailto:support@edge.app\" target=\"_blank\" class=\"intercom-content-link\">support@edge.app</a>.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222842,
+  "updated_at": 1772222843,
+  "url": "https://support.edge.app/en/articles/13892414-avax-sync-issues"
+}

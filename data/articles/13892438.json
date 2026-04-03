@@ -1,0 +1,144 @@
+{
+  "id": "13892438",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268681",
+        "name": "content-tag:Partner",
+        "applied_at": 1772222884,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268787",
+        "name": "label:pending transaction",
+        "applied_at": 1772222884,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268789",
+        "name": "label:transaction",
+        "applied_at": 1772222884,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222884,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222884,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268897",
+        "name": "label:transaction issue",
+        "applied_at": 1772222884,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268904",
+        "name": "label:Liberty X",
+        "applied_at": 1772222884,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268905",
+        "name": "label:LibertyX",
+        "applied_at": 1772222884,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268906",
+        "name": "label:LibertyX ATM",
+        "applied_at": 1772222884,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268907",
+        "name": "label:Liberty X ATM",
+        "applied_at": 1772222884,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268908",
+        "name": "label:missing funds",
+        "applied_at": 1772222884,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268909",
+        "name": "label:ATM",
+        "applied_at": 1772222884,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136162",
+  "title": "Using LibertyX in Edge Wallet",
+  "description": "Edge Wallet integrates with LibertyX, allowing users in the U.S. to buy Bitcoin using cash or debit cards at thousands of local retail sto...",
+  "body": "<p class=\"no-margin\">Edge Wallet integrates with LibertyX, allowing users in the U.S. to buy Bitcoin using cash or debit cards at thousands of local retail stores and ATMs.</p><hr><h1 id=\"h_01JRXVCK65R6B5AY7HCPGAKK6P\">Accepted Payment Methods</h1><p class=\"no-margin\"><b>Buy Crypto:</b></p><p class=\"no-margin\">Cash (at participating stores and ATMs)<br>~8% • Settlement: Instant to 1 Hour</p><p class=\"no-margin\">Debit Card (at eligible ATM locations)<br>~8% • Settlement: Instant to 1 Hour</p><p class=\"no-margin\"><i>*Note: Payment method availability is subject to change and also varies by location.</i></p><hr><h1 id=\"h_01JRXVCK65SCJJV3QC9MF9SQT6\">Supported Regions</h1><p class=\"no-margin\">LibertyX is available exclusively in the United States and operates through a nationwide network of partner retailers and ATMs.</p><p class=\"no-margin\"><b>Supported Regions Include:</b></p><p class=\"no-margin\">United States (select locations only)</p><ul><li><p class=\"no-margin\">Includes major retail chains like CVS, Rite Aid, and 7-Eleven</p></li><li><p class=\"no-margin\">ATM coverage available in most states</p></li></ul><p class=\"no-margin\"><b>Restricted Regions:</b></p><p class=\"no-margin\">LibertyX is <b>not available outside the U.S.</b> and may not operate in all U.S. states or rural locations.</p><p class=\"no-margin\"><i>*Please note that the list of supported regions is subject to change.</i></p><hr><h1 id=\"h_01JRXVCK65PJK78AF4VS0ZPVKY\">Getting Started</h1><p class=\"no-margin\">Open Edge Wallet: Launch the Edge Wallet app on your device.<br>Navigate to Buy/Sell: Tap on the \"Buy\" option.<br>Select Your Region: Tap \"Select Region\" and choose your state.<br>Select LibertyX: Choose LibertyX as your service provider.<br>Follow Instructions: Use the app to find nearby locations, generate a purchase code, and complete your transaction at a participating store or ATM.</p><hr><h1 id=\"h_01JRXVCK65SYJ63QDDARXR2MC5\">Contact Information</h1><p class=\"no-margin\">LibertyX Support: <a href=\"https://libertyx.zendesk.com/hc/en-us\" target=\"_blank\" class=\"intercom-content-link\">https://libertyx.zendesk.com/hc/en-us</a></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222884,
+  "updated_at": 1772222885,
+  "url": "https://support.edge.app/en/articles/13892438-using-libertyx-in-edge-wallet"
+}

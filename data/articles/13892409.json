@@ -1,0 +1,64 @@
+{
+  "id": "13892409",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727258
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268624",
+        "name": "label:SOL",
+        "applied_at": 1772222834,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222834,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268817",
+        "name": "section:In-App Warning Cards",
+        "applied_at": 1772222834,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268822",
+        "name": "label:network status",
+        "applied_at": 1772222834,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136132",
+  "title": "Solana Network Congestion",
+  "description": "The Solana (SOL) network is experiencing a lot of activity lately, and there's a high chance that transactions will fail or be delayed.\nIf...",
+  "body": "<p class=\"no-margin\">The Solana (SOL) network is experiencing a lot of activity lately, and there's a high chance that transactions will fail or be delayed.</p><p class=\"no-margin\">If a recent transaction on the Solana Blockchain doesn't appear to be going through, please give it some some time, resync* the wallet and try again. This issue will be self-resolving as the Solana developers optimize the chain to handle the congestion.</p><p class=\"no-margin\">Meanwhile, your funds are safe!</p><p class=\"no-margin\"><i>Note: Because of the possibility for transaction delay instead of failure, be careful not to perform repeat sends over and over. You may accidentally repeat a transaction that you wanted to do only once.</i></p><p class=\"no-margin\"><i>*To resynchronize your SOL, please tap into your Solana wallet and tap the three vertical dots near the upper right of the wallet card. Locate the option to \"Resync,\" tap it and confirm. A green circle will slowly go around the SOL logo before completing and disappearing, indicating a successful resync.</i></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222834,
+  "updated_at": 1772222834,
+  "url": "https://support.edge.app/en/articles/13892409-solana-network-congestion"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "13892534",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727262
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223057,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269278",
+        "name": "section:Announcements ",
+        "applied_at": 1772223057,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136263",
+  "title": "MKR to SKY Token Upgrade: What Edge Wallet Users Need to Know",
+  "description": "What’s Happening?The Sky Protocol has replaced MKR with SKY as its sole governance token. If you hold MKR, you should upgrade to SKY to co...",
+  "body": "<p class=\"no-margin\"><b>What’s Happening?</b></p><p class=\"no-margin\">The Sky Protocol has replaced MKR with SKY as its sole governance token. If you hold MKR, you should upgrade to SKY to continue participating in protocol governance and unlock new features like staking and voting.</p><p class=\"no-margin\"><b>Why Upgrade?</b></p><ol><li><p class=\"no-margin\"><b>Governance:</b> Only SKY holders can vote or delegate in the Sky Protocol.</p></li><li><p class=\"no-margin\"><b>Staking:</b> SKY unlocks new staking and borrowing options.</p></li><li><p class=\"no-margin\"><b>No Penalty (If Upgraded Soon):</b> Upgrade before September 18, 2025 to avoid receiving less SKY per MKR due to a time-based penalty.</p></li></ol><p class=\"no-margin\"><b>Delayed Upgrade Penalty</b></p><p class=\"no-margin\">Starting September 18, 2025, a penalty will reduce the amount of SKY you receive for each MKR you upgrade. The penalty starts at 1% and increases by 1% every three months.</p><p class=\"no-margin\"><b>What Should Edge Wallet Users Do?</b></p><ol><li><p class=\"no-margin\"><b>Check Your MKR Balance:</b> If you hold MKR in Edge, consider upgrading to SKY before the penalty starts.</p></li><li><p class=\"no-margin\"><b>Use Edge’s Exchange Services:</b> You can swap MKR for SKY directly within Edge Wallet, making the process fast and secure.</p></li><li><p class=\"no-margin\"><b>Manual Upgrades Only:</b> MKR will not upgrade automatically; you must initiate the swap yourself.</p></li></ol><p class=\"no-margin\"><b>FAQ</b></p><ol><li><p class=\"no-margin\"><b>Does this affect DAI or USDS?</b> No, the upgrade only affects MKR.</p></li><li><p class=\"no-margin\"><b>What if I don’t upgrade?</b> You’ll lose governance rights and may receive less value for your MKR later.</p></li></ol><p class=\"no-margin\"><b>Need Help?</b></p><p class=\"no-margin\">For assistance, reach out to Edge Wallet support. Don’t wait—upgrade your MKR to SKY now to maintain your benefits!<br><br><a href=\"https://upgrademkrtosky.sky.money/#penalty\" target=\"_blank\" class=\"intercom-content-link\">Official Sky Ecosystem Upgrade Documentation</a></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223057,
+  "updated_at": 1772223057,
+  "url": "https://support.edge.app/en/articles/13892534-mkr-to-sky-token-upgrade-what-edge-wallet-users-need-to-know"
+}

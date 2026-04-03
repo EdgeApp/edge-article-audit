@@ -1,0 +1,44 @@
+{
+  "id": "13892245",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727250
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222592,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268612",
+        "name": "section:Basics",
+        "applied_at": 1772222592,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135957",
+  "title": "Why the name Edge and what is the significance?",
+  "description": "The reason for the name is the method of security that we believe in - Edge Security, which means security at the “edges” of the network. ...",
+  "body": "<p class=\"no-margin\">The reason for the name is the method of security that we believe in - Edge Security, which means security at the “edges” of the network. We the people are at the furthest edges of the network, away from the servers of centralized establishments. We are securing data that’s in people’s hands and in their control.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222592,
+  "updated_at": 1772222592,
+  "url": "https://support.edge.app/en/articles/13892245-why-the-name-edge-and-what-is-the-significance"
+}

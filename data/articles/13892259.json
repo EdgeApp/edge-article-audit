@@ -1,0 +1,44 @@
+{
+  "id": "13892259",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727250
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222612,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268612",
+        "name": "section:Basics",
+        "applied_at": 1772222612,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135972",
+  "title": "How do I access the Settings?",
+  "description": "The Settings can be accessed by tapping on the 3 horizontal lines located at the top right corner. Tapping on that will bring out the Side...",
+  "body": "<p class=\"no-margin\">The Settings can be accessed by tapping on the 3 horizontal lines located at the top right corner. Tapping on that will bring out the Side Menu and below you will find the Settings.</p><p class=\"no-margin\">Inside the Settings you will have the option to make a number of changes such as:</p><ul><li><p class=\"no-margin\">Change Password</p></li><li><p class=\"no-margin\">Change PIN</p></li><li><p class=\"no-margin\">2FA</p></li><li><p class=\"no-margin\">Password Recovery</p></li><li><p class=\"no-margin\">Exchange Settings</p></li><li><p class=\"no-margin\">Auto Logout</p></li><li><p class=\"no-margin\">Restore deleted wallets</p></li><li><p class=\"no-margin\">And other options</p></li></ul><p class=\"no-margin\">Additionally each wallet has it's own menu. Tap into a wallet and you can then tap the three vertical dots located at the upper right to access the wallets menu.</p><p class=\"no-margin\">This menu contains the following:</p><ul><li><p class=\"no-margin\">Split functions which allows you to move keys to different chains</p></li><li><p class=\"no-margin\">Rename</p></li><li><p class=\"no-margin\">Resync</p></li><li><p class=\"no-margin\">Export Transactions</p></li><li><p class=\"no-margin\">Master Private Key</p></li><li><p class=\"no-margin\">Add/Edit Tokens</p></li><li><p class=\"no-margin\">Get Raw Keys</p></li><li><p class=\"no-margin\">Archive Wallet</p></li></ul>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222611,
+  "updated_at": 1772222612,
+  "url": "https://support.edge.app/en/articles/13892259-how-do-i-access-the-settings"
+}

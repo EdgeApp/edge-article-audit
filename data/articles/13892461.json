@@ -1,0 +1,194 @@
+{
+  "id": "13892461",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268611",
+        "name": "label:exchange",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268625",
+        "name": "label:Account",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268626",
+        "name": "content-tag:account",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268629",
+        "name": "content-tag:exchange",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268652",
+        "name": "label:contact",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268679",
+        "name": "label:Buy",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268681",
+        "name": "content-tag:Partner",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268682",
+        "name": "content-tag:Payment Method",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268685",
+        "name": "label:Sell",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268687",
+        "name": "label:withdraw",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268688",
+        "name": "label:register",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268840",
+        "name": "label:KYC",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268915",
+        "name": "content-tag:sell",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269015",
+        "name": "label:partners",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269016",
+        "name": "label:can&#39;t register",
+        "applied_at": 1772222928,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136186",
+  "title": "Contact Support & Exchange Partners",
+  "description": "If you have any questions about an existing cryptocurrency transaction, please locate your transaction details and identify which exchange...",
+  "body": "<p class=\"no-margin\">If you have any questions about an existing cryptocurrency transaction, please locate your transaction details and identify which exchange is selected for the order.<br><br>​</p><p class=\"no-margin\"><i><b>Note</b>: all purchases or sells of cryptocurrency will include an email sent to the address that you have on file with the exchange - please check junk and spam folders</i></p><p class=\"no-margin\"><b><br>Purchase and Sell (Fiat Partners)</b></p><p class=\"no-margin\"><i>see below for list of contact information for our fiat partners, facilitating exchanges between your Edge wallets and your bank</i></p><p class=\"no-margin\"><i><br></i><b>Banxa: </b><i>(primary option for UK and Australian residents)</i></p><p class=\"no-margin\">• <a href=\"mailto:support@banxa.com\" target=\"_blank\" class=\"intercom-content-link\">support@banxa.com</a></p><p class=\"no-margin\">• <a href=\"https://support.banxa.com/en/support/tickets/new\" target=\"_blank\" class=\"intercom-content-link\">support.banxa.com/en/support/tickets/new</a></p><p class=\"no-margin\"><b>Kado: </b><i>(bank/wire transfers):</i></p><p class=\"no-margin\">• <a href=\"mailto:support@kado.money\" target=\"_blank\" class=\"intercom-content-link\">support@kado.money</a></p><p class=\"no-margin\">• <a href=\"https://faq.kado.money/\" target=\"_blank\" class=\"intercom-content-link\">faq.kado.money</a></p><p class=\"no-margin\"><b>Paybis: </b><i>(card payments and small orders)</i></p><p class=\"no-margin\">• <a href=\"mailto:support@paybis.com\" target=\"_blank\" class=\"intercom-content-link\">support@paybis.com</a></p><p class=\"no-margin\">• <a href=\"https://support.paybis.com/hc/en-us/requests/new\" target=\"_blank\" class=\"intercom-content-link\">support.paybis.com/hc/en-us/requests/new</a></p><p class=\"no-margin\">• <a href=\"https://paybis.com/contacts\" target=\"_blank\" class=\"intercom-content-link\">paybis.com/contacts</a></p><p class=\"no-margin\"><b>Moonpay: </b><i>(card payments including PayPal, Venmo)</i></p><p class=\"no-margin\">• <a href=\"mailto:support@moonpay.com\" target=\"_blank\" class=\"intercom-content-link\">support@moonpay.com</a></p><p class=\"no-margin\">• <a href=\"https://support.moonpay.com/hc/en-gb/requests/new\" target=\"_blank\" class=\"intercom-content-link\">support.moonpay.com/hc/en-gb/requests/new</a></p><p class=\"no-margin\"><b>Simplex: </b><i>(wide regional and payment support)</i></p><p class=\"no-margin\">• <a href=\"mailto:support@simplex.com\" target=\"_blank\" class=\"intercom-content-link\">support@simplex.com</a> <br>• <a href=\"https://support.simplex.com/hc/en-gb/requests/new\" target=\"_blank\" class=\"intercom-content-link\">support.simplex.com/hc/en-gb/requests/new</a></p><p class=\"no-margin\"><b>Bity: </b><i>(SEPA transfers using IBAN information)</i></p><p class=\"no-margin\">• <a href=\"mailto:support_edge@bity.com\" target=\"_blank\" class=\"intercom-content-link\">support_edge@bity.com</a></p><p class=\"no-margin\">• <a href=\"https://sophia.bity.com/\" target=\"_blank\" class=\"intercom-content-link\">sophia.bity.com</a></p><p class=\"no-margin\">• <a href=\"http://www.bity.com/\" target=\"_blank\" class=\"intercom-content-link\">www.bity.com</a></p><p class=\"no-margin\"><b>Bits of Gold: </b><i>(servicing Israel and Europe)</i></p><p class=\"no-margin\">• <a href=\"https://bitsofgoldhelp.freshdesk.com/en/support/home\" target=\"_blank\" class=\"intercom-content-link\">bitsofgoldhelp.freshdesk.com/en/support/home</a></p><p class=\"no-margin\"><b>Mt. Pelerin: </b><i>(bank &amp; card transfers)</i></p><p class=\"no-margin\">• <a href=\"mailto:hello@mtpelerin.com\" target=\"_blank\" class=\"intercom-content-link\">hello@mtpelerin.com</a></p><p class=\"no-margin\">• <a href=\"http://mtpelerin.com/contact\" target=\"_blank\" class=\"intercom-content-link\">mtpelerin.com/contact</a></p><p class=\"no-margin\">• <a href=\"http://mtpelerin.com/support\" target=\"_blank\" class=\"intercom-content-link\">mtpelerin.com/support</a></p><p class=\"no-margin\"><b>LibertyX: </b><i>(industry-leading cryptocurrency ATMs)</i></p><p class=\"no-margin\">• <a href=\"mailto:support@libertyx.com\" target=\"_blank\" class=\"intercom-content-link\">support@libertyx.com</a></p><p class=\"no-margin\">• <a href=\"https://libertyx.zendesk.com/hc/en-us\" target=\"_blank\" class=\"intercom-content-link\">libertyx.zendesk.com/hc/en-us</a></p><p class=\"no-margin\"><b>Bitrefill: </b><i>(instant gift cards)</i></p><p class=\"no-margin\">• <a href=\"mailto:support@bitrefill.com\" target=\"_blank\" class=\"intercom-content-link\">support@bitrefill.com</a></p><p class=\"no-margin\"><b>Cryptocurrency-to-Cryptocurrency Exchange Partners</b></p><p class=\"no-margin\"><i>see below for our in-app exchange parters handling swaps between different cryptocurrencies</i></p><p class=\"no-margin\">Decentralized<i>:</i></p><ul><li><p class=\"no-margin\"><b>LI.FI</b></p><ul><li><p class=\"no-margin\">Discord: <a href=\"https://discord.com/invite/jumperexchange\" target=\"_blank\" class=\"intercom-content-link\">https://discord.com/invite/jumperexchange</a></p></li><li><p class=\"no-margin\">Docs: <a href=\"mailto:Support@exchange\" target=\"_blank\" class=\"intercom-content-link\">Support@exchange</a></p></li></ul></li><li><p class=\"no-margin\"><b>0x Protocol</b></p><ul><li><p class=\"no-margin\">Web: <a href=\"https://www.0xprotocol.org/\" target=\"_blank\" class=\"intercom-content-link\">https://www.0xprotocol.org/</a></p></li><li><p class=\"no-margin\">Twitter: <a href=\"https://twitter.com/zeroexprotocol\" target=\"_blank\" class=\"intercom-content-link\">https://twitter.com/zeroexprotocol</a></p></li><li><p class=\"no-margin\">Discord: https://discord.com/invite/official0x</p></li></ul></li><li><p class=\"no-margin\"><b>Maya Protocol</b></p><ul><li><p class=\"no-margin\">Discord: <a href=\"https://discord.gg/mayaprotocol\" target=\"_blank\" class=\"intercom-content-link\">https://discord.gg/mayaprotocol</a></p></li><li><p class=\"no-margin\">Email: Support@exchange</p></li></ul></li><li><p class=\"no-margin\"><b>Thorchain</b></p><ul><li><p class=\"no-margin\">Status: <a href=\"https://track.ninerealms.com/\" target=\"_blank\" class=\"intercom-content-link\">https://track.ninerealms.com/</a></p></li><li><p class=\"no-margin\">Telegram: https://t.me/thorchain_org</p></li><li><p class=\"no-margin\">Yield: <a href=\"https://app.thoryield.com/accounts\" target=\"_blank\" class=\"intercom-content-link\">https://app.thoryield.com/accounts</a></p></li></ul></li><li><p class=\"no-margin\"><b>TombSwap</b><br>​</p><ul><li><p class=\"no-margin\">Email: Support@exchange</p></li></ul></li><li><p class=\"no-margin\"><b>Rango</b></p><ul><li><p class=\"no-margin\">Status: <a href=\"https://explorer.rango.exchange/\" target=\"_blank\" class=\"intercom-content-link\">https://explorer.rango.exchange/</a></p></li><li><p class=\"no-margin\">Discord: <a href=\"https://discord.com/invite/q3EngGyTrZ\" target=\"_blank\" class=\"intercom-content-link\">https://discord.com/invite/q3EngGyTrZ</a></p></li><li><p class=\"no-margin\">Stuck: <a href=\"https://app.symbiosis.finance/pending\" target=\"_blank\" class=\"intercom-content-link\">app.symbiosis.finance/pending</a></p></li><li><p class=\"no-margin\">Email: Support@exchange</p></li></ul></li><li><p class=\"no-margin\"><b>Velodrome</b></p><ul><li><p class=\"no-margin\">Discord: <a href=\"https://t.co/QZy6lfLfPL\" target=\"_blank\" class=\"intercom-content-link\">discord.gg/velodrome</a></p></li></ul></li><li><p class=\"no-margin\"><b>XRP DEX</b></p><ul><li><p class=\"no-margin\">(contact Edge support for assistance)</p></li></ul></li><li><p class=\"no-margin\"><b>Cosmos IBC</b></p><ul><li><p class=\"no-margin\">(contact Edge support for assistance)</p></li></ul></li><li><p class=\"no-margin\"><b>Swapkit</b></p><ul><li><p class=\"no-margin\">(contact Edge support for assistance)</p></li></ul></li></ul><p class=\"no-margin\"><i>and more</i></p><p class=\"no-margin\">Centralized:</p><p class=\"no-margin\"><i>(may occasionally request KYC information in order to complete an order - see</i><i> KYC article</i><i>)</i></p><ul><li><p class=\"no-margin\"><b>Change NOW</b></p><ul><li><p class=\"no-margin\">Web: https://changenow.io/</p></li><li><p class=\"no-margin\">Status: https://changenow.io/exchange/txs/6ed1fe06445463</p></li></ul></li><li><p class=\"no-margin\"><b>ChangeHero</b></p><ul><li><p class=\"no-margin\">Status:<a href=\"https://changehero.io/transaction/d68v3gdhbnin1homuq\" target=\"_blank\" class=\"intercom-content-link\">https://changehero.io/transaction/d68v3gdhbnin1homuq</a></p></li><li><p class=\"no-margin\">Web: <a href=\"https://edgeapp.zendesk.com/agent/dashboard\" target=\"_blank\" class=\"intercom-content-link\">https://edgeapp.zendesk.com/agent/dashboard</a></p></li><li><p class=\"no-margin\">Support: <a href=\"https://changehero.io/mrkt/support\" target=\"_blank\" class=\"intercom-content-link\">https://changehero.io/mrkt/support</a></p></li></ul></li><li><p class=\"no-margin\"><b>LetsExchange</b></p><ul><li><p class=\"no-margin\">Web:</p></li><li><p class=\"no-margin\">Email: Support@exchange</p></li></ul></li><li><p class=\"no-margin\"><b>Godex</b></p><ul><li><p class=\"no-margin\">Web:</p></li><li><p class=\"no-margin\">Email: Support@exchange</p></li></ul></li><li><p class=\"no-margin\"><b>SideShift.ai</b></p><ul><li><p class=\"no-margin\">Web:</p></li><li><p class=\"no-margin\">Email: Support@exchange</p></li></ul></li><li><p class=\"no-margin\"><b>Swapuz</b></p><ul><li><p class=\"no-margin\">Web:</p></li><li><p class=\"no-margin\">Email: Support@exchange</p></li></ul></li><li><p class=\"no-margin\"><b>Exolix</b></p><ul><li><p class=\"no-margin\">Status: https://exolix.com/transaction/*ex...*</p></li></ul></li></ul><p class=\"no-margin\"><i>and more</i></p><p class=\"no-margin\"><br>Note: Edge continues to integrate more exchanges to be available in-app for our users, if you need contact information for an exchange that is not listed above, please contact Edge support and will be glad to help connect you with the teams who can help!<br><br><br>​</p><h1 id=\"h_01JKVMY07VE1XPBNYQZZ9VC4Z4\">Contact Edge</h1><p class=\"no-margin\"><i>If you still need assistance or have any questions about using the Edge app, please feel free to reach us through your preferred contact method below and we will be happy to help!</i><br><br><b>Live Chat:</b></p><ul><li><p class=\"no-margin\">You can live chat with us from any of the pages on our website and should see the icon in the below right of your screen now</p></li></ul><p class=\"no-margin\"><b><a target=\"_blank\" class=\"intercom-content-link\">Text Message (SMS)</a>:</b></p><ul><li><p class=\"no-margin\">Text us your questions, screenshots, and transaction information at any time and we will be happy to help review anything you need</p></li></ul><p class=\"no-margin\"><b><a target=\"_blank\" class=\"intercom-content-link\">Phone Call</a>: </b></p><ul><li><p class=\"no-margin\">Setting us apart in the industry, you can speak 1-on-1 with our live support over the phone! Our agents are located around the world and all calls receive a callback within ~4-48 hours</p></li></ul><p class=\"no-margin\"><b><a href=\"https://support.edge.app/hc/en-us/requests/new\" target=\"_blank\" class=\"intercom-content-link\">Support Ticket</a>:</b></p><ul><li><p class=\"no-margin\">Filing a support ticket helps give us all the information necessary to help resolve any issues or questions you may have - please include as much detail as possible</p></li></ul><p class=\"no-margin\"><b>Socials:</b></p><ul><li><p class=\"no-margin\">Edge support is also available on <i>select</i> social media sites limited to the ones listed below</p></li></ul><p class=\"no-margin\"><i>Note: Edge does NOT offer support through WhatsApp or Telegram. Please avoid any imposters claiming to be Edge on those platforms (see </i><i>common scams resources</i><i>)</i></p><ul><li><p class=\"no-margin\"><a href=\"https://x.com/EdgeWallet\" target=\"_blank\" class=\"intercom-content-link\">Twitter</a></p></li><li><p class=\"no-margin\"><a href=\"https://www.facebook.com/EdgeWallet\" target=\"_blank\" class=\"intercom-content-link\">Facebook</a></p></li><li><p class=\"no-margin\"><a href=\"https://twitter.com/EdgeWallet\" target=\"_blank\" class=\"intercom-content-link\">Instagram</a></p></li></ul>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222928,
+  "updated_at": 1772222929,
+  "url": "https://support.edge.app/en/articles/13892461-contact-support-exchange-partners"
+}

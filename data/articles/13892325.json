@@ -1,0 +1,74 @@
+{
+  "id": "13892325",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268607",
+        "name": "label:Receive",
+        "applied_at": 1772222701,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222702,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222702,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268743",
+        "name": "label:Bitcoin",
+        "applied_at": 1772222702,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268744",
+        "name": "label:Revolut",
+        "applied_at": 1772222702,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136046",
+  "title": "How to transfer your crypto from Revolut to Edge Wallet",
+  "description": "In the rapidly evolving world of cryptocurrencies, the ability to send, receive, and store digital assets securely is paramount. As of Aug...",
+  "body": "<p class=\"no-margin\">In the rapidly evolving world of cryptocurrencies, the ability to send, receive, and store digital assets securely is paramount. <br>As of August 7, 2023, <b>Revolut users in the European Union can withdraw and send Bitcoin and crypto assets to external wallets</b>. This marks a significant step towards greater financial sovereignty and security for cryptocurrency enthusiasts. In this article, we will guide you through the process of sending Bitcoin and other cryptocurrencies from Revolut to Edge Wallet, and discuss the advantages of this migration.</p><h1 id=\"h_01HNXJWHCENYX092PXNP3P7CFH\">How to send to Edge Wallet</h1><p class=\"no-margin\"><b>Step 1: Open Your Edge Wallet.</b> If you don't have the Edge Wallet app installed, download it from your app store of choice and <a href=\"https://support.edge.app/hc/en-us/articles/7019038717339\" target=\"_blank\" class=\"intercom-content-link\">create a new account</a>. During the account creation, you can select the wallets you want to have in your account. You can always create new wallets later.</p><p class=\"no-margin\"><b>Step 2: Get Your Bitcoin (or Crypto) Address.</b> Once your Edge Wallet is set up, Tap \"Assets\" located within the bottom navigation bar, tap to open your Bitcoin, or other supported crypto, wallet and click on the \"Receive\" option. This will display your wallet's receiving address as a QR code and a string of characters below. This address is where you'll be sending your crypto from Revolut. Tap Copy.</p><p class=\"no-margin\"><b>Step 3: Open Your Revolut App and select the asset to withdraw.</b> Launch your Revolut app, go to Crypto tab and select the crypto asset you bought from Revolut. If you don't see it, select Trade and then select the asset. Tap Send.</p><p class=\"no-margin\"><b>Step 4: Enter the Crypto Address you got from Edge.</b> In Wallet Details, select the currency you want to withdraw and paste the Edge Wallet address you copied in Step 2. Double-check the address to ensure there are no mistakes, as sending crypto to the wrong address can result in irreversible loss. In the future, you can change the recipient address by tapping on New, Crypto Wallet.</p><p class=\"no-margin\"><b>Step 5: Confirm and Send</b> Enter the amount of cryptocurrency you wish to send and confirm the transaction. If you want to send Max, simply tap on the wallet balance you see in that screen.<br>Note: Revolut charge a fee for sending cryptocurrency, and this is made by service fees and mining fees, so be sure to review the transaction details before finalizing.</p><p class=\"no-margin\"><b>Step 6: Go back to Edge Wallet. </b>Depending on the processing time, the transaction might take a few minutes before appearing into Edge. Your Edge Wallet will see the transaction as soon as it is sent to the network by Revolut, but it will be shown as Pending (\"Awaiting Confirmation\") till will be confirmed by the blockchain.</p><h1 id=\"h_01HNXJWHCEHPV9XYJQR7DNAT5A\">Advantages of Migrating from Revolut to Edge Wallet</h1><ol><li><p class=\"no-margin\"><b>Enhanced Security</b>: Edge Wallet offers a non-custodial approach to cryptocurrency storage. This means that <a href=\"https://support.edge.app/hc/en-us/articles/7071232490907\" target=\"_blank\" class=\"intercom-content-link\">you have complete control over your private keys and funds</a>, significantly reducing the risk of hacking or theft associated with centralized custodial systems like Revolut. <br>Also, Edge is an open source app and can be audited by anyone!</p></li><li><p class=\"no-margin\"><b>Privacy and Control</b>: Edge Wallet is built on zero-knowledge security architecture, which means that even Edge itself cannot access your private keys or transaction data. This ensures a high level of privacy and control over your financial transactions.</p></li><li><p class=\"no-margin\"><b>Decentralization and HODLing</b>: By moving your crypto assets to a non-custodial wallet like Edge, you contribute to the decentralization of the blockchain network. This is in contrast to custodial services, which consolidate control and risk in the hands of a single entity.<br>In addition, you are not at the mercy of constant changes in regulations, which might push Revolut to remove this feature from their app. With Edge you can HODL and sleep well.<br>Read: <a href=\"https://support.edge.app/hc/en-us/articles/7017502460571\" target=\"_blank\" class=\"intercom-content-link\">What happens if Edge goes out of business? What will happen to my assets?</a></p></li><li><p class=\"no-margin\"><b>Access to DeFi and DApps</b>: Edge Wallet allows you to interact with decentralized finance (DeFi) platforms and decentralized applications (DApps). This can open up opportunities for yield farming, lending, borrowing, and other innovative financial activities.</p></li></ol><p class=\"no-margin\">In conclusion, the ability to send Bitcoin and other cryptocurrencies from Revolut to Edge Wallet marks a significant step towards greater financial autonomy and security. <br>By utilizing a non-custodial wallet such Edge, you gain control over your private keys and protect your assets from centralized risks. Edge Wallet's zero-knowledge architecture and compatibility with DeFi platforms offer users a privacy-centric and versatile crypto management experience. <br>As the cryptocurrency landscape continues to evolve, taking ownership of your digital assets becomes more important than ever, and this migration empowers you to do just that.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222701,
+  "updated_at": 1772222702,
+  "url": "https://support.edge.app/en/articles/13892325-how-to-transfer-your-crypto-from-revolut-to-edge-wallet"
+}

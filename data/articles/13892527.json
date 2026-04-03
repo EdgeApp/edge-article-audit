@@ -1,0 +1,124 @@
+{
+  "id": "13892527",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772223044,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772223044,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772223044,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268638",
+        "name": "label:sending fees",
+        "applied_at": 1772223044,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772223044,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223044,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223044,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269247",
+        "name": "label:Base Network",
+        "applied_at": 1772223044,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269248",
+        "name": "label:Base Network Fees",
+        "applied_at": 1772223044,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269249",
+        "name": "label:Base Fees",
+        "applied_at": 1772223044,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136256",
+  "title": "Base Network Fees",
+  "description": "Base Network Fee Calculation – Ethereum Power, Lower Cost\nBase is a Layer 2 network built on Ethereum, which means it gives you the securi...",
+  "body": "<h1 id=\"h_01JSN12GK3GY43JJGZHYCK0JCT\">Base Network Fee Calculation – Ethereum Power, Lower Cost</h1><p class=\"no-margin\">Base is a Layer 2 network built on Ethereum, which means it gives you the security of Ethereum but with much lower fees and faster confirmations. When using Edge Wallet on Base, your fees are paid in ETH and based on <b>gas usage</b>, just like on mainnet—but the overall cost is a fraction of the price.</p><h2 id=\"h_01JSN12GK3PABVKJSP9SDM2R62\">How Fees Work on Base</h2><p class=\"no-margin\">Fees are measured in <b>gwei</b> (just like Ethereum), and the cost depends on:</p><ul><li><p class=\"no-margin\"><b>How much gas</b> your transaction uses</p></li><li><p class=\"no-margin\"><b>The current network load</b></p></li></ul><p class=\"no-margin\">Because Base is a Layer 2, it bundles transactions before sending them to Ethereum, making everything faster and cheaper. Edge uses the same logic as Ethereum to calculate the best fee for your transaction.</p><h2 id=\"h_01JSN12GK3N31R2PC8BS139SFW\">Fee Options Available</h2><p class=\"no-margin\">Edge gives you four simple presets to choose from:</p><ul><li><p class=\"no-margin\"><b>High</b> – Fastest confirmation, great for high traffic times</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Best balance of cost and speed for most transactions</p></li><li><p class=\"no-margin\"><b>Low</b> – Slower but cheaper, good for non-urgent transfers</p></li><li><p class=\"no-margin\"><b>Custom</b> – Set your own gas price and limits if you're an advanced user</p></li></ul><p class=\"no-margin\">Switching is easy: Just start your send → tap the <b>fee settings gear</b> → pick the speed or set your own.</p><h2 id=\"h_01JSN12GK4RY2STA56VF5F0423\">What’s the Average Cost?</h2><p class=\"no-margin\">On average, sending a transaction on Base costs around <b>$0.007 USD</b>. That’s less than a penny—and one of the most affordable options out there.</p><h2 id=\"h_01JSN12GK4FVRKQ33M09X2XDYS\">Why This Matters</h2><p class=\"no-margin\">Base offers the benefits of Ethereum without the high gas fees. Whether you’re sending ETH, using dApps, or moving assets between chains, Edge makes sure your Base transactions are fast, cheap, and seamless—with full control if you want it.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223044,
+  "updated_at": 1772223045,
+  "url": "https://support.edge.app/en/articles/13892527-base-network-fees"
+}

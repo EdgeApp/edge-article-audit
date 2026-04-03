@@ -1,0 +1,60 @@
+{
+  "name": "edge-article-audit",
+  "version": "1.0.0",
+  "description": "CLI tool for editing Intercom Help Center articles as Markdown",
+  "main": "lib/index.js",
+  "bin": {
+    "edge-article-audit": "lib/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "node -r sucrase/register src/index.ts",
+    "pull": "node -r sucrase/register src/index.ts pull",
+    "push": "node -r sucrase/register src/index.ts push",
+    "lint": "eslint . --ext .ts",
+    "fix": "eslint . --ext .ts --fix",
+    "clean": "rimraf lib",
+    "prepare": "husky",
+    "precommit": "npm run lint",
+    "postinstall": "npm run build || true"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run precommit"
+    }
+  },
+  "keywords": [
+    "intercom",
+    "help-center",
+    "markdown",
+    "articles",
+    "cli"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "chalk": "^4.1.2",
+    "commander": "^12.0.0",
+    "dotenv": "^16.4.0",
+    "fs-extra": "^11.2.0",
+    "gray-matter": "^4.0.3",
+    "inquirer": "^8.2.6",
+    "marked": "^12.0.0",
+    "ora": "^5.4.1",
+    "turndown": "^7.1.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.26.0",
+    "@types/fs-extra": "^11.0.4",
+    "@types/inquirer": "^8.2.10",
+    "@types/node": "^20.11.0",
+    "@types/turndown": "^5.0.4",
+    "eslint": "^9.32.0",
+    "eslint-config-standard-kit": "^1.0.0",
+    "husky": "^9.1.7",
+    "prettier": "^3.5.3",
+    "rimraf": "^6.0.1",
+    "sucrase": "^3.35.0",
+    "typescript": "^5.3.0"
+  }
+}

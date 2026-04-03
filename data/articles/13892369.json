@@ -1,0 +1,64 @@
+{
+  "id": "13892369",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727255
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222768,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268761",
+        "name": "section:Common Issues",
+        "applied_at": 1772222768,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268771",
+        "name": "label:Captcha",
+        "applied_at": 1772222768,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268772",
+        "name": "label:Verification",
+        "applied_at": 1772222768,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136092",
+  "title": "Edge Captcha Feature: Account Protection and Troubleshooting",
+  "description": "Edge uses Captcha to protect accounts against spam. The Captcha appears as a checkbox or image selection task.\n\nTroubleshooting Captcha Is...",
+  "body": "<p class=\"no-margin\">Edge uses Captcha to protect accounts against spam. The Captcha appears as a checkbox or image selection task.</p><p class=\"no-margin\"><b>Troubleshooting Captcha Issues:</b><br>Users may face challenges with the Captcha. If any of these occur, <a href=\"https://support.edge.app/hc/en-us/articles/26702768694811\" target=\"_blank\" class=\"intercom-content-link\">force close</a> the Edge app and attempt login again:</p><ul><li><p class=\"no-margin\">Captcha does not load</p></li><li><p class=\"no-margin\">Images are invisible or partially displayed</p></li><li><p class=\"no-margin\">Verification fails despite correct responses or multiple tries</p></li></ul><p class=\"no-margin\"><b>Force Close Steps:</b></p><p class=\"no-margin\"><a href=\"https://support.edge.app/hc/en-us/articles/26702768694811\" target=\"_blank\" class=\"intercom-content-link\">How to force close Edge (Android and iOS).</a></p><p class=\"no-margin\"><b>Further Assistance:</b><br>If issues persist, ensure a stable internet connection or update the app.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222767,
+  "updated_at": 1772222768,
+  "url": "https://support.edge.app/en/articles/13892369-edge-captcha-feature-account-protection-and-troubleshooting"
+}

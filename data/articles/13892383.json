@@ -1,0 +1,44 @@
+{
+  "id": "13892383",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727255
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222791,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268761",
+        "name": "section:Common Issues",
+        "applied_at": 1772222791,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136106",
+  "title": "Why do I still have small amounts or Dust left over in my wallet after doing a Max Send?",
+  "description": "Please refer to our detailed write up on Dust and Fees here: https://medium.com/airbitz/what-are-bitcoin-mining-fees-and-dust-323d5469c572...",
+  "body": "<p class=\"no-margin\">Please refer to our detailed write up on Dust and Fees here: <a href=\"https://medium.com/airbitz/what-are-bitcoin-mining-fees-and-dust-323d5469c572\" target=\"_blank\" class=\"intercom-content-link\">https://medium.com/airbitz/what-are-bitcoin-mining-fees-and-dust-323d5469c572</a></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222790,
+  "updated_at": 1772222791,
+  "url": "https://support.edge.app/en/articles/13892383-why-do-i-still-have-small-amounts-or-dust-left-over-in-my-wallet-after-doing-a-max-send"
+}

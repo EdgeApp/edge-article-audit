@@ -1,0 +1,94 @@
+{
+  "id": "13892442",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268680",
+        "name": "content-tag:buy",
+        "applied_at": 1772222890,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268682",
+        "name": "content-tag:Payment Method",
+        "applied_at": 1772222890,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222890,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222890,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268935",
+        "name": "label:Banxa",
+        "applied_at": 1772222890,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268936",
+        "name": "label:Apple Pay",
+        "applied_at": 1772222891,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268937",
+        "name": "label:Google Pay",
+        "applied_at": 1772222891,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136167",
+  "title": "Using Banxa in Edge Wallet",
+  "description": "Edge Wallet integrates with Banxa, enabling users to purchase cryptocurrencies seamlessly within the app.\nAccepted Payment Methods\nBuy Cry...",
+  "body": "<p class=\"no-margin\">Edge Wallet integrates with Banxa, enabling users to purchase cryptocurrencies seamlessly within the app.</p><h1 id=\"h_01JRV8ZZAF6V59XNYBFC2QG1J2\">Accepted Payment Methods</h1><p class=\"no-margin\"><b>Buy Crypto:</b></p><ul><li><p class=\"no-margin\">Credit/Debit Cards (Visa, MasterCard) <i>Fee: ~5-7% • Settlement: ~10-30 Minutes </i></p></li><li><p class=\"no-margin\">Apple Pay (iOS devices) <i>Fee: ~5-7% • Settlement: ~10-30 Minutes </i></p></li><li><p class=\"no-margin\">Google Pay (Android devices) <i>Fee: ~5-7% • Settlement: ~10-30 Minutes </i></p></li></ul><p class=\"no-margin\"><b>Sell Crypto:</b></p><p class=\"no-margin\"><i>*Note: Payment method availability varies by country and region.</i></p><hr><h1 id=\"h_01JRV8ZZAF9V9AY93SJ97ESEPE\">Supported Regions</h1><p class=\"no-margin\">Banxa's services are accessible in over 100 countries. However, certain regions are restricted due to regulatory reasons.</p><p class=\"no-margin\"><b>Supported Regions Include:</b></p><ul><li><p class=\"no-margin\"><b>North America:</b> United States (excluding Hawaii, Illinois, Louisiana, New York), Canada</p></li><li><p class=\"no-margin\"><b>Europe:</b> United Kingdom, Germany, France, Spain, Italy, Netherlands, and more</p></li><li><p class=\"no-margin\"><b>Asia-Pacific:</b> Australia, New Zealand, South Korea, Japan, and others</p></li><li><p class=\"no-margin\"><b>Latin America:</b> Brazil, Mexico, Argentina, Chile, and more</p></li><li><p class=\"no-margin\"><b>Africa:</b> South Africa, Nigeria, Kenya, and others</p></li></ul><p class=\"no-margin\"><b>Restricted Regions:</b></p><ul><li><p class=\"no-margin\">Afghanistan</p></li><li><p class=\"no-margin\">Belarus</p></li><li><p class=\"no-margin\">Cuba</p></li><li><p class=\"no-margin\">Iran</p></li><li><p class=\"no-margin\">North Korea</p></li><li><p class=\"no-margin\">Syria</p></li><li><p class=\"no-margin\">Venezuela</p></li></ul><p class=\"no-margin\"><i>*Please note that the list of supported regions is subject to change.</i></p><hr><h1 id=\"h_01JRV8ZZAG8472FK0CX7W83W48\">Getting Started</h1><ol><li><p class=\"no-margin\"><b>Open Edge Wallet:</b> Launch the Edge Wallet app on your device.</p></li><li><p class=\"no-margin\"><b>Navigate to Buy/Sell:</b> Tap on the \"Buy\" or \"Sell\" option.</p></li><li><p class=\"no-margin\"><b>Select Your Region:</b> Tap \"Select Region\" and choose your country/state.</p></li><li><p class=\"no-margin\"><b>Select Banxa:</b> Choose Banxa as your service provider.</p></li><li><p class=\"no-margin\"><b>Enter Details:</b> Input the required information and follow the prompts to complete your transaction.</p></li></ol><hr><h1 id=\"h_01JRV8ZZAGAS82612J9RP8C8PC\">Contact Information</h1><ul><li><p class=\"no-margin\"><b>Banxa Support:</b> <a href=\"\" target=\"_blank\" class=\"intercom-content-link\">https://support.banxa.com/en/support/home</a></p></li></ul>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222890,
+  "updated_at": 1772222891,
+  "url": "https://support.edge.app/en/articles/13892442-using-banxa-in-edge-wallet"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "13892360",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222753,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222753,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136083",
+  "title": "How to setup Password Recovery",
+  "description": "After you have created your account, next you will need to set up security and Password recovery questions.\n\nYou will want to create a pas...",
+  "body": "<p class=\"no-margin\">After you have created your account, next you will need to set up security and Password recovery questions.</p><p class=\"no-margin\">You will want to create a password recovery in case of forgotten password or device is compromised.</p><p class=\"no-margin\">Once you are in your Edge account go to:</p><ol><li><p class=\"no-margin\">Settings, located at the upper right.</p></li><li><p class=\"no-margin\">Once you have opened the setting, tap on Setup password recovery</p></li><li><p class=\"no-margin\">Enter your password.</p></li><li><p class=\"no-margin\">You will be asked to set up the answer to security questions</p></li></ol><p class=\"no-margin\">Once answered click done, you will then be asked to send the information to yourself via email or other storage method. Your password recovery token has been created and you will be able to login with this information if you forget your password.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222753,
+  "updated_at": 1772222754,
+  "url": "https://support.edge.app/en/articles/13892360-how-to-setup-password-recovery"
+}

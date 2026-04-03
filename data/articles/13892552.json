@@ -1,0 +1,74 @@
+{
+  "id": "13892552",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727265
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13269295",
+        "name": "category:FAQ",
+        "applied_at": 1772223083,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269296",
+        "name": "section:Cryptocurrency Orientation",
+        "applied_at": 1772223083,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269297",
+        "name": "content-tag:KYC",
+        "applied_at": 1772223083,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269298",
+        "name": "content-tag:regulations",
+        "applied_at": 1772223083,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269299",
+        "name": "content-tag:verification",
+        "applied_at": 1772223083,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136282",
+  "title": "What is KYC - Know Your Customer",
+  "description": "KYC stands for Know Your Customer, a process used by financial institutions and various businesses to verify the identity of their clients...",
+  "body": "<p class=\"no-margin\">KYC stands for <b>Know Your Customer</b>, a process used by financial institutions and various businesses to verify the identity of their clients. Its main goal is to prevent illegal activities—such as money laundering, terrorism financing, and fraud—by ensuring customers are who they claim to be.</p><hr><h1 id=\"h_01JMGAXAYA1E816FPXM2N5FTZ9\">Why is KYC Important?</h1><ol><li><p class=\"no-margin\"><b>Fraud Prevention:</b> It helps detect and deter identity theft and other scams.</p></li><li><p class=\"no-margin\"><b>Regulatory Compliance:</b> Governments worldwide impose strict anti-money laundering (AML) and counter-terrorist financing (CTF) laws.</p></li><li><p class=\"no-margin\"><b>Trust and Transparency:</b> A robust KYC process fosters client confidence and protects an institution’s reputation.</p></li></ol><hr><h1 id=\"h_01JMGAXAYBXS7BVNASZ41J7CSF\">The KYC Process</h1><ol><li><p class=\"no-margin\"><b>Customer Identification:</b> Organizations collect basic customer data (full name, date of birth, address, government-issued ID).</p></li><li><p class=\"no-margin\"><b>Customer Due Diligence (CDD):</b> This step involves assessing a customer’s risk level. If a client is higher-risk (e.g., a politically exposed person), <b>Enhanced Due Diligence (EDD)</b> is required.</p></li><li><p class=\"no-margin\"><b>Ongoing Monitoring:</b> Accounts and transactions are continuously checked to spot suspicious or unusual activity.</p></li></ol><hr><h1 id=\"h_01JMGAXAYBJCZEXDKHM447CF2N\">Key Regulations</h1><ul><li><p class=\"no-margin\"><b>Financial Action Task Force (FATF):</b> Global guidelines for combating money laundering and terrorism financing.</p></li><li><p class=\"no-margin\"><b>Bank Secrecy Act (BSA) / USA PATRIOT Act:</b> U.S. laws requiring banks to monitor transactions, verify identities, and report suspicious activities.</p></li><li><p class=\"no-margin\"><b>EU AML Directives:</b> European Union regulations mandating thorough KYC checks and reporting obligations.</p></li></ul><hr><h1 id=\"h_01JMGAXAYBEE0KA1Q8B5WYJVNS\">Current Trends &amp; Challenges</h1><ul><li><p class=\"no-margin\"><b>Digital KYC:</b> Using AI, biometrics, and blockchain to streamline verification.</p></li><li><p class=\"no-margin\"><b>Privacy &amp; Security:</b> Safeguarding stored personal data remains a top concern.</p></li><li><p class=\"no-margin\"><b>Balancing Efficiency with Compliance:</b> Institutions seek smooth customer onboarding without compromising security.</p></li></ul><hr><p class=\"no-margin\"><b>In essence, KYC is a cornerstone of financial security.</b> By validating customers’ identities and monitoring their transactions, organizations build trust, comply with the law, and help protect the global financial system from criminal activity.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223083,
+  "updated_at": 1772223083,
+  "url": "https://support.edge.app/en/articles/13892552-what-is-kyc-know-your-customer"
+}

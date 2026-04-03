@@ -1,0 +1,44 @@
+{
+  "id": "13892465",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222935,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222935,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136190",
+  "title": "Where can I use LibertyX?",
+  "description": "Buying Bitcoin with LibertyX in Your Edge Wallet\nLibertyX allows you to purchase Bitcoin (BTC) with cash or a debit card at ATMs, convenie...",
+  "body": "<p class=\"no-margin\"><b>Buying Bitcoin with LibertyX in Your Edge Wallet</b></p><p class=\"no-margin\">LibertyX allows you to purchase Bitcoin (BTC) with cash or a debit card at ATMs, convenience stores, and debit kiosks across the United States. Here’s how to get started:</p><p class=\"no-margin\"><b>How to Buy BTC:</b></p><ol><li><p class=\"no-margin\">Open Edge and tap the \"Buy\" tab from the bottom navigation bar</p></li><li><p class=\"no-margin\">Select LibertyX</p></li><li><p class=\"no-margin\">Enter your zip code or tap \"Near Me\" to find a nearby LibertyX location</p></li><li><p class=\"no-margin\">Tap on a location close to you and follow the on-screen instructions to initiate a purchase</p></li></ol><ul><li><p class=\"no-margin\">LibertyX requests location permissions to help you find nearby locations; however, this permission is not required to place an order.</p></li></ul><p class=\"no-margin\"><b>LibertyX Locations:</b></p><ul><li><p class=\"no-margin\">LibertyX is available across the United States.</p></li><li><p class=\"no-margin\">You can search for locations within the LibertyX plugin in your Edge app.</p></li><li><p class=\"no-margin\">Alternatively, you can find locations here: <a href=\"https://libertyx.com/a/buy-bitcoin/location-map\" target=\"_blank\" class=\"intercom-content-link\">https://libertyx.com/a/buy-bitcoin/location-map</a></p></li></ul><p class=\"no-margin\"><b>What is LibertyX?</b></p><ul><li><p class=\"no-margin\">LibertyX operates a large network of local stores where you can purchase Bitcoin in person.</p></li><li><p class=\"no-margin\">In Edge, you can use their platform to buy Bitcoin with cash or a debit card.</p></li></ul><p class=\"no-margin\"><b>Supported Cryptocurrencies:</b></p><ul><li><p class=\"no-margin\">LibertyX currently supports only Bitcoin (BTC)</p></li></ul><p class=\"no-margin\"><b>Fees and Settlement:</b></p><ul><li><p class=\"no-margin\">Fees: 3-8%</p></li><li><p class=\"no-margin\">Settlement: Instant</p></li></ul><p class=\"no-margin\"><b>Purchase Limits:</b></p><ul><li><p class=\"no-margin\">Minimum Purchase: $1</p></li><li><p class=\"no-margin\">Daily Maximum: $200-$3000</p></li></ul><p class=\"no-margin\"><b>Payment Methods:</b></p><ul><li><p class=\"no-margin\">LibertyX locations may have either a kiosk for debit cards, or cash retailers for cash transactions.</p></li><li><p class=\"no-margin\">Credit cards are not accepted.</p></li></ul><p class=\"no-margin\"><b>Order Status and Support:</b></p><ul><li><p class=\"no-margin\">For questions about your order or its status, contact LibertyX directly at support@libertyx.com</p></li></ul>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222935,
+  "updated_at": 1772222935,
+  "url": "https://support.edge.app/en/articles/13892465-where-can-i-use-libertyx"
+}

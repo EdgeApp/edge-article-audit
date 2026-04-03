@@ -1,0 +1,174 @@
+{
+  "id": "13892489",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269058",
+        "name": "label:Fee",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269110",
+        "name": "label:Ravencoin RVN Network Fees",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269111",
+        "name": "label:Ravencoin RVN Network Fee",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269112",
+        "name": "label:Ravencoin",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269113",
+        "name": "label:RVN",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269114",
+        "name": "label:Ravencoin RVN Network",
+        "applied_at": 1772222980,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136214",
+  "title": "Ravencoin RVN Network Fees",
+  "description": "Ravencoin (RVN) Network – Asset Transfers on Bitcoin Tech\nRavencoin is built for issuing and transferring digital assets, with low and pre...",
+  "body": "<h1 id=\"h_01JSZ5035CVNN72SV3YWVNZRXN\">Ravencoin (RVN) Network – Asset Transfers on Bitcoin Tech</h1><p class=\"no-margin\">Ravencoin is built for issuing and transferring digital assets, with low and predictable transaction fees.</p><h2 id=\"h_01JSZ5035C1YQDGNB78TJY3DH8\">How RVN Fees Work</h2><ul><li><p class=\"no-margin\"><b>Transaction size</b></p></li><li><p class=\"no-margin\">Paid in <b>RVN tokens</b>.</p></li></ul><p class=\"no-margin\">Edge estimates the fee automatically based on real-time network status.</p><hr><h2 id=\"h_01JSZ5035CBDDD0AV38M6R6Y5H\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>High</b></p></li><li><p class=\"no-margin\"><b>Optimal (default)</b></p></li><li><p class=\"no-margin\"><b>Low</b></p></li><li><p class=\"no-margin\"><b>Custom</b></p></li></ul><hr><h2 id=\"h_01JSZ5035CTWN9Z98249EAN8T9\">Average Cost</h2><p class=\"no-margin\">Typically <b>$0.005 to $0.02 USD</b> per transaction.</p><hr><h2 id=\"h_01JSZ5035CW2HPD56DDZTZWDQ9\">Why It Matters</h2><p class=\"no-margin\">Ravencoin’s low fees are perfect for token creation and transfers. Edge makes sending RVN smooth and cost-efficient.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222980,
+  "updated_at": 1772222981,
+  "url": "https://support.edge.app/en/articles/13892489-ravencoin-rvn-network-fees"
+}

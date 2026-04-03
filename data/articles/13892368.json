@@ -1,0 +1,84 @@
+{
+  "id": "13892368",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727255
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222766,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268761",
+        "name": "section:Common Issues",
+        "applied_at": 1772222766,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268767",
+        "name": "label:battery saver",
+        "applied_at": 1772222766,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268768",
+        "name": "label:low power",
+        "applied_at": 1772222766,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268769",
+        "name": "label:ios",
+        "applied_at": 1772222766,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268770",
+        "name": "label:android",
+        "applied_at": 1772222766,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136091",
+  "title": "Battery Saver or Power Save mode.",
+  "description": "Battery saver mode can hinder the Edge app's ability to function properly. Please disable any power-saving mode on your device before usin...",
+  "body": "<p class=\"no-margin\">Battery saver mode can hinder the Edge app's ability to function properly. Please disable any power-saving mode on your device before using the Edge cryptocurrency app.</p><p class=\"no-margin\"><b>To disable Low Power Mode on your iPhone:</b></p><ul><li><p class=\"no-margin\">Open Settings on your iPhone.</p></li><li><p class=\"no-margin\">Scroll down and tap Battery.</p></li><li><p class=\"no-margin\">Look for Low Power Mode. If it’s enabled, the toggle will be green.</p></li><li><p class=\"no-margin\">Tap the toggle next to Low Power Mode to turn it off (it will switch to gray).</p></li></ul><p class=\"no-margin\"><b>To disable Battery Saver or Power Saving Mode on your Android device:</b></p><ul><li><p class=\"no-margin\">Open Settings on your Android phone.</p></li><li><p class=\"no-margin\">Scroll down and tap Battery (or Battery and Device Care on some devices).</p></li><li><p class=\"no-margin\">Tap Battery Saver or Power Saving Mode. If it’s enabled, the toggle will be highlighted.</p></li><li><p class=\"no-margin\">Tap the toggle to turn it off</p></li></ul>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222766,
+  "updated_at": 1772222766,
+  "url": "https://support.edge.app/en/articles/13892368-battery-saver-or-power-save-mode"
+}

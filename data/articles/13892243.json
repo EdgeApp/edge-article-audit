@@ -1,0 +1,54 @@
+{
+  "id": "13892243",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727250
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222588,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268611",
+        "name": "label:exchange",
+        "applied_at": 1772222588,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268612",
+        "name": "section:Basics",
+        "applied_at": 1772222588,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135955",
+  "title": "What are the fees when using Exchange?",
+  "description": "Edge utilizes multiple partners and will seek out the best rate when making an exchange.\n\n\n \nThe fees are typically around 0.5-2% but vary...",
+  "body": "<p class=\"no-margin\">Edge utilizes multiple partners and will seek out the best rate when making an exchange.</p><p class=\"no-margin\">The fees are typically around 0.5-2% but vary depending on what coin is being exchanged, the liquidity, and market conditions. During times of high volatility or for uncommon traded pairs there can be a spread or fee around 5% or even higher than that. Always check the trade to see what is being sent out and the amount to be received before making the trade to ensure that you are okay with the fees.</p><p class=\"no-margin\">Note, there are also network fees on the coin that is being sent out that is relative to the congestion or traffic on the network which are separate from the exchange fees. Edge and the partner makes 0 profit from the network fees.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222588,
+  "updated_at": 1772222588,
+  "url": "https://support.edge.app/en/articles/13892243-what-are-the-fees-when-using-exchange"
+}

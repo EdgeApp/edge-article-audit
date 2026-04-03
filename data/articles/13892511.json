@@ -1,0 +1,174 @@
+{
+  "id": "13892511",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268638",
+        "name": "label:sending fees",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269157",
+        "name": "label:Sending Fee",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269191",
+        "name": "label:TON (The Open Network) Fees",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269192",
+        "name": "label:TON",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269193",
+        "name": "label:TON (The Open Network) Network Fees",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269194",
+        "name": "label:TON Network Fees",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269195",
+        "name": "label:TON Network Fee",
+        "applied_at": 1772223016,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136238",
+  "title": "TON (The Open Network) Network Fees",
+  "description": "TON (The Open Network) – Speed and Simplicity\nTON is a high-speed blockchain originally developed by Telegram’s team, now decentralized an...",
+  "body": "<h1 id=\"h_01JSZ21D08XSC1CT86PF440VBH\">TON (The Open Network) – Speed and Simplicity</h1><p class=\"no-margin\">TON is a high-speed blockchain originally developed by Telegram’s team, now decentralized and focused on fast, affordable transactions.</p><h2 id=\"h_01JSZ21D08HKKBDFBD1VXDAXQP\">How TON Fees Work</h2><p class=\"no-margin\">TON fees are based on:</p><ul><li><p class=\"no-margin\"><b>Transaction size</b> (in bytes)</p></li><li><p class=\"no-margin\"><b>Network congestion</b><br>Fees are paid in <b>TON tokens</b>.</p></li></ul><p class=\"no-margin\">Edge automatically estimates the ideal fee for your TON transaction based on network activity and transaction size.</p><hr><h2 id=\"h_01JSZ21D0815F93KEH9SAPX869\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>High</b> – Fastest confirmation</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Balanced cost and speed</p></li><li><p class=\"no-margin\"><b>Low</b> – Cheapest option, slightly slower</p></li><li><p class=\"no-margin\"><b>Custom</b> – Manually set your own fee if you prefer</p></li></ul><hr><h2 id=\"h_01JSZ21D08ZNKWCTF77YFNAC7E\">Average Cost</h2><p class=\"no-margin\">A TON transaction usually costs around <b>$0.001 to $0.005 USD</b> — extremely cheap.</p><hr><h2 id=\"h_01JSZ21D0865XVH6Q8SZ70MRF7\">Why It Matters</h2><p class=\"no-margin\">TON is designed for ultra-fast, low-cost transactions, perfect for daily use. With Edge, you don’t have to worry about overpaying—smart fee estimates keep it simple and efficient.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223015,
+  "updated_at": 1772223017,
+  "url": "https://support.edge.app/en/articles/13892511-ton-the-open-network-network-fees"
+}

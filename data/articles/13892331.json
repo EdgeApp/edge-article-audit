@@ -1,0 +1,44 @@
+{
+  "id": "13892331",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222711,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222711,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136052",
+  "title": "How do I set the BTC mining fee?",
+  "description": "When making a send, users can adjust the network fee by tapping on the “Fee:” portion of the send screen. Tappable portions of the app are...",
+  "body": "<p class=\"no-margin\">When making a send, users can adjust the network fee by tapping on the “Fee:” portion of the send screen. Tappable portions of the app are indicated by the mint colored right facing arrow (&gt;).</p><p class=\"no-margin\">Fees are presented to users with four available options:</p><ul><li><p class=\"no-margin\">High</p><ul><li><p class=\"no-margin\">The high fee setting aims to confirm a transaction in the next block. Edge achieves this by referencing the last confirmed block and multiplying that block’s fee by 2.</p></li></ul></li><li><p class=\"no-margin\">Optimal</p><ul><li><p class=\"no-margin\">The optimal fee setting aims to confirm a transaction within the next three blocks. Edge achieves this by referencing the last confirmed block and then adding 30% to prevent the transaction from getting stuck with rapid fee movements.</p></li></ul></li><li><p class=\"no-margin\">Low</p><ul><li><p class=\"no-margin\">The low fee setting aims to confirm within the next six blocks and takes an average of the last two blocks confirmed as the fee used.</p></li></ul></li><li><p class=\"no-margin\">Custom</p><ul><li><p class=\"no-margin\">The custom fee setting allows users to set the fee they would like to use. NOTE: setting too low of a fee can cause stuck transactions or dropped/failed transactions.</p></li></ul></li></ul><p class=\"no-margin\">Once you select the desired option you can then tap “Done” and then slide to confirm.</p><p class=\"no-margin\">*Edge update 3.17.2 adjusted the optimal BTC fee by adding 30%. Users may see higher fees now, with the intention of preventing stuck transactions.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222711,
+  "updated_at": 1772222711,
+  "url": "https://support.edge.app/en/articles/13892331-how-do-i-set-the-btc-mining-fee"
+}

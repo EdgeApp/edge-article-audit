@@ -1,0 +1,74 @@
+{
+  "id": "13892240",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727250
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222583,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268612",
+        "name": "section:Basics",
+        "applied_at": 1772222583,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268614",
+        "name": "content-tag:assets",
+        "applied_at": 1772222583,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268625",
+        "name": "label:Account",
+        "applied_at": 1772222583,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268626",
+        "name": "content-tag:account",
+        "applied_at": 1772222583,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135952",
+  "title": "Guest Account",
+  "description": "Edge has been at the forefront of providing users with a secure and user-friendly experience in managing their cryptocurrencies. Tradition...",
+  "body": "<p class=\"no-margin\">Edge has been at the forefront of providing users with a secure and user-friendly experience in managing their cryptocurrencies. Traditionally, users have been required to create an account with a username, password and PIN to ensure the security of their digital assets. However, Edge has introduced a new and convenient feature called <b>Guest Account</b>, allowing users to streamline the onboarding process and start using the app almost instantly.</p><h1 id=\"h_01HNFWV42D118ZA8NNH8DDD115\">Guest Account Setup</h1><p class=\"no-margin\">Unlike the conventional account creation process, the Guest Account setup in Edge is simplified. Users can install the app, set up a secure PIN, and start creating wallets without the need for a username or password.</p><h2 id=\"h_01HNFWXKCXTJ310C4MJWE8C8DF\">Backup Reminder</h2><p class=\"no-margin\">While the Guest Account provides users with immediate access to the app, Edge emphasizes the importance of account backup. Users are prompted with a warning message on the bottom of every scene and every time they tap on Receive or Buy/Deposit, reminding them to create a full account by creating a unique username and password. This serves as an essential backup measure, enabling users to recover their accounts in case of device loss or if they simply uninstall the app.<br>A backup reminder warning card also appears if the user registers a FIO handle.</p><h1 id=\"h_01HNFWW73GJSHE7KPY23CJGD3Z\">Local Encryption for Enhanced Security</h1><p class=\"no-margin\">One of the key features of Edge is its commitment to user security and privacy. Once the user is ready to backup the account, <b>the user credentials are locally encrypted</b>. This means that the encryption process occurs on the user's device, and <b>the Edge servers never have access to the user's credentials</b>. This robust security measure ensures that user credentials remains private and protected.</p><h2 id=\"h_01HNFX4YJWM4NFN2QAXM4KH7CA\">Limited Capabilities for Safety</h2><p class=\"no-margin\">To prioritize user safety, Edge has implemented restrictions for Guest Account users. Currently, users with Guest Accounts cannot deposit cryptocurrencies through the app and they can buy or sell with a max limit of 50 USD. This limitation ensures that users can explore and utilize the various features provided by Edge without exposing themselves to potential high risks associated with financial transactions.</p><h2 id=\"h_01HNFXABAARMTEG7RBFY87S5HW\">Comprehensive Access to Features</h2><p class=\"no-margin\">Despite the above limitations, users with Guest Accounts can access a range of other features provided by Edge. This includes the ability to create and manage wallets, import external wallets, monitor cryptocurrency balances, create FIO handles and explore the app's user-friendly interface. The Guest Account option allows users to experience the full spectrum of Edge's capabilities while maintaining a focus on security.</p><p class=\"no-margin\">Edge's introduction of Guest Account creation represents a significant step towards enhancing user convenience in the realm of cryptocurrency management. By simplifying the onboarding process and encouraging the creation of a full working account, Edge ensures that users can enjoy a seamless and secure experience, making Edge a reliable choice for both novice and experienced cryptocurrency enthusiasts.<br><br>​</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222583,
+  "updated_at": 1772222584,
+  "url": "https://support.edge.app/en/articles/13892240-guest-account"
+}

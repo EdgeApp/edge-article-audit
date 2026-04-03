@@ -1,0 +1,44 @@
+{
+  "id": "13892565",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727266
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13269295",
+        "name": "category:FAQ",
+        "applied_at": 1772223103,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269300",
+        "name": "section:Blockchain Basics",
+        "applied_at": 1772223103,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136295",
+  "title": "What is a Stellar (XLM) Memo ID?",
+  "description": "A Memo ID is generally used to tie a transaction to a specific sender so that the recipient will be able to identify to which the transact...",
+  "body": "<p class=\"no-margin\">A Memo ID is generally used to tie a transaction to a specific sender so that the recipient will be able to identify to which the transaction belongs to. For example, an Exchange may require and provide a Memo ID which the user then would use when making a deposit. An XLM Memo ID will contain letters and numbers.</p><p class=\"no-margin\">In most cases though, a Memo ID is not required and is optional if simply transferring between wallets and not to exchanges.</p><p class=\"no-margin\">The Memo ID can be entered at the Slide to Confirm screen just below the Fee selection.</p><p class=\"no-margin\">NOTE: always include a memo if there is one given. If funds are sent without a memo you may lose funds.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223103,
+  "updated_at": 1772223103,
+  "url": "https://support.edge.app/en/articles/13892565-what-is-a-stellar-xlm-memo-id"
+}

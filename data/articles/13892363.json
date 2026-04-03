@@ -1,0 +1,44 @@
+{
+  "id": "13892363",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222758,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222758,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136086",
+  "title": "How do I delete my account and any personal information on there?",
+  "description": "Edge does not store personal information that ties any identity to that account.  When you create an Edge account no information such as a...",
+  "body": "<p class=\"no-margin\">Edge does not store personal information that ties any identity to that account. When you create an Edge account no information such as a name, address, phone number, or email is ever collected. <b>We store zero information so that all Edge accounts are private.</b></p><p class=\"no-margin\">To delete your account tap Menu from inside the account and then tap on Settings. Once you're in settings tap \"Account Settings\" and then \"Delete Account.\"</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222758,
+  "updated_at": 1772222758,
+  "url": "https://support.edge.app/en/articles/13892363-how-do-i-delete-my-account-and-any-personal-information-on-there"
+}

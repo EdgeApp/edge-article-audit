@@ -1,0 +1,174 @@
+{
+  "id": "13892441",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268681",
+        "name": "content-tag:Partner",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268898",
+        "name": "label:Bank Issue",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268918",
+        "name": "label:KADO",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268919",
+        "name": "label:purchase issue",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268920",
+        "name": "label:purchase declined",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268921",
+        "name": "label:Bank ACH",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268922",
+        "name": "label:ACH Transfer",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268923",
+        "name": "label:Wire Transfer",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268924",
+        "name": "label:Bank Wire Transfer",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268925",
+        "name": "label:ACH Bank Transfer",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268926",
+        "name": "label:KADO ACH Bank Transfer",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268927",
+        "name": "label:sell issue",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268928",
+        "name": "label:bank declined",
+        "applied_at": 1772222888,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136166",
+  "title": "Using Kado in Edge Wallet",
+  "description": "Edge Wallet integrates with Kado, enabling users to buy and sell cryptocurrencies using direct bank-based payments.\nAccepted Payment Metho...",
+  "body": "<p class=\"no-margin\">Edge Wallet integrates with Kado, enabling users to <b>buy and sell cryptocurrencies</b> using direct bank-based payments.</p><h1 id=\"h_01JRVB5MMPPZANJJ27N0QATNWX\">Accepted Payment Methods</h1><p class=\"no-margin\"><b>Buy Crypto (via Edge Wallet):</b></p><ul><li><p class=\"no-margin\"><b>Bank Wire Transfer (United States only) </b><i>Fee: ~2% • Settlement: ~5 Minutes • Limit: $10,000</i></p></li><li><p class=\"no-margin\"><i>KADO Bank Wire Transfer Address 100 Summer St, Ste 1600, Boston, MA 02110</i></p></li></ul><p class=\"no-margin\"><b>Sell Crypto:</b></p><ul><li><p class=\"no-margin\"><b>ACH Bank Transfer (United States only) </b><i>Fee: ~1.5% • Settlement: 2–3 Business Days</i></p></li></ul><p class=\"no-margin\"><i>*Note: Payment method availability varies by country and region.</i></p><hr><h1 id=\"h_01JRVB5MMPKBX0HV2C95HNHEY5\">Supported Regions</h1><p class=\"no-margin\">Kado’s services are available in over 150 countries. However, service availability depends on regional regulations and compliance.</p><p class=\"no-margin\"><b>Supported Regions Include:</b></p><p class=\"no-margin\">North America: United States, Canada<br>Europe: United Kingdom, Germany, France, Spain, Italy, Netherlands, and more<br>Asia-Pacific: Australia, New Zealand, South Korea, Japan, and others<br>Latin America: Brazil, Mexico, Argentina, Chile, and more<br>Africa: South Africa, Nigeria, Kenya, and others</p><p class=\"no-margin\"><b>Restricted Regions:</b></p><ul><li><p class=\"no-margin\">Afghanistan</p></li><li><p class=\"no-margin\">Belarus</p></li><li><p class=\"no-margin\">Cuba</p></li><li><p class=\"no-margin\">Iran</p></li><li><p class=\"no-margin\">North Korea</p></li><li><p class=\"no-margin\">Syria</p></li><li><p class=\"no-margin\">Venezuela</p></li></ul><p class=\"no-margin\"><i>*Please note that the list of supported regions is subject to change.</i></p><hr><h1 id=\"h_01JRVB5MMPB4QMPBGV7BDW6QJ1\">Getting Started</h1><ol><li><p class=\"no-margin\"><b>Open Edge Wallet:</b> Launch the Edge Wallet app on your device.</p></li><li><p class=\"no-margin\"><b>Navigate to Buy/Sell:</b> Tap on the \"Buy\" or \"Sell\" option.</p></li><li><p class=\"no-margin\"><b>Select Your Region:</b> Tap \"Select Region\" and choose your country/state.</p></li><li><p class=\"no-margin\"><b>Select Kado:</b> Choose Kado as your service provider.</p></li><li><p class=\"no-margin\"><b>Enter Details:</b> Follow the prompts to complete your transaction.</p></li></ol><hr><h1 id=\"h_01JRVB5MMPW5K7MYKCHZ2Y4AD5\">Contact Information</h1><p class=\"no-margin\"><b>Kado Support:</b> <a href=\"https://faq.kado.money/en/article/contact-kado-support-jpixds/\" target=\"_blank\" class=\"intercom-content-link\">https://faq.kado.money/en/article/contact-kado-support-jpixds/</a></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222888,
+  "updated_at": 1772222889,
+  "url": "https://support.edge.app/en/articles/13892441-using-kado-in-edge-wallet"
+}

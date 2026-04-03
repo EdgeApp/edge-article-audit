@@ -1,0 +1,44 @@
+{
+  "id": "13892381",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727255
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222787,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268761",
+        "name": "section:Common Issues",
+        "applied_at": 1772222787,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136104",
+  "title": "Why do I get an Invalid Address error when sending or receiving LTC/BCH?",
+  "description": "It's likely that the other provider you are interacting with has not updated their address formats to the latest network specs. You will n...",
+  "body": "<p class=\"no-margin\">It's likely that the other provider you are interacting with has not updated their address formats to the latest network specs. You will need to convert the address into the proper format in order to successfully process the transaction. To view the older, more compatible Litecoin and Bitcoin Cash legacy addresses tap on the three dots in the upper left corner of the receive screen and then tap View Legacy Address.</p><p class=\"no-margin\">Please read this blog post for more information: <a href=\"https://blog.edgesecure.co/segwit-litecoin-and-cash-addr-format-explained-2309ea39cc36\" target=\"_blank\" class=\"intercom-content-link\">https://blog.edgesecure.co/segwit-litecoin-and-cash-addr-format-explained-2309ea39cc36</a></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222787,
+  "updated_at": 1772222788,
+  "url": "https://support.edge.app/en/articles/13892381-why-do-i-get-an-invalid-address-error-when-sending-or-receiving-ltc-bch"
+}

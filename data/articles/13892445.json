@@ -1,0 +1,114 @@
+{
+  "id": "13892445",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268681",
+        "name": "content-tag:Partner",
+        "applied_at": 1772222896,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268682",
+        "name": "content-tag:Payment Method",
+        "applied_at": 1772222896,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222896,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222896,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268936",
+        "name": "label:Apple Pay",
+        "applied_at": 1772222896,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268937",
+        "name": "label:Google Pay",
+        "applied_at": 1772222896,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268942",
+        "name": "label:Moonpay",
+        "applied_at": 1772222896,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268943",
+        "name": "label:Venmo",
+        "applied_at": 1772222896,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268944",
+        "name": "label:Paypal",
+        "applied_at": 1772222896,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136170",
+  "title": "Using MoonPay in Edge Wallet",
+  "description": "Edge Wallet integrates with MoonPay, enabling users to purchase and sell cryptocurrencies seamlessly within the app.\nAccepted Payment Meth...",
+  "body": "<p class=\"no-margin\">Edge Wallet integrates with MoonPay, enabling users to purchase and sell cryptocurrencies seamlessly within the app.</p><h1 id=\"h_01JRV4SKHSEWWKKVSPJVASWREE\">Accepted Payment Methods</h1><p class=\"no-margin\"><b>Buy Crypto:</b></p><ul><li><p class=\"no-margin\">Credit/Debit Cards (Visa, MasterCard, Maestro) <i>~5-7% • Settlement: ~10-30 Minutes </i></p></li><li><p class=\"no-margin\">Apple Pay (iOS devices) <i>~5-7% • Settlement: ~10-30 Minutes </i></p></li><li><p class=\"no-margin\">Google Pay (Android devices) <i>~5-7% • Settlement: ~10-30 Minutes </i></p></li><li><p class=\"no-margin\">PayPal (Available in select regions) <i>~5% • Settlement: 5 MIN -24 Hours </i></p></li><li><p class=\"no-margin\">Venmo (Available in select regions) <i>~5% • Settlement: 5 MIN -24 Hours</i><br><br><br>​</p></li></ul><p class=\"no-margin\"><b>Sell Crypto:</b></p><ul><li><p class=\"no-margin\">Visa Direct &amp; Mastercard Direct Payouts <i>~5-7% • Settlement: ~10-30 Minutes </i></p></li><li><p class=\"no-margin\">PayPal (Available in select regions) <i>~5% • Settlement: 5 MIN -24 Hours</i></p></li><li><p class=\"no-margin\">Venmo (Available in select regions) <i>~5% • Settlement: 5 MIN -24 Hours</i><br><br>​</p></li></ul><p class=\"no-margin\"><i>*Note: Payment method availability is subject to change and also varies by country or region.</i></p><h1 id=\"h_01JRV4SKHS2JYZKACRYMT2RGJ6\">Supported Regions</h1><p class=\"no-margin\">MoonPay's services are accessible in over 160 countries. However, certain regions are restricted due to regulatory reasons.</p><p class=\"no-margin\"><b>Supported Regions Include:</b></p><p class=\"no-margin\">North America: United States*, Canada<br>Europe: United Kingdom, Germany, France, Spain, Italy, Netherlands, and more<br>Asia-Pacific: Australia, New Zealand, South Korea, Japan, and others<br>Latin America: Brazil, Mexico, Argentina, Chile, and more<br>Africa: South Africa, Nigeria, Kenya, and others</p><p class=\"no-margin\"><b>*Restricted U.S. States and Territories:</b></p><ul><li><p class=\"no-margin\">New York</p></li><li><p class=\"no-margin\">Texas</p></li><li><p class=\"no-margin\">Louisiana</p></li><li><p class=\"no-margin\">U.S. Virgin Islands</p></li><li><p class=\"no-margin\">American Samoa</p></li><li><p class=\"no-margin\">Northern Mariana Islands</p></li></ul><p class=\"no-margin\"><b>Restricted Regions (International):</b></p><ul><li><p class=\"no-margin\">Afghanistan</p></li><li><p class=\"no-margin\">Belarus</p></li><li><p class=\"no-margin\">Cuba</p></li><li><p class=\"no-margin\">Iran</p></li><li><p class=\"no-margin\">North Korea</p></li><li><p class=\"no-margin\">Syria</p></li><li><p class=\"no-margin\">Venezuela<br><br>​</p></li></ul><p class=\"no-margin\"><i>*Please note that the list of supported regions is subject to change.</i></p><h1 id=\"h_01JRV4SKHSKH710QXS8GN0HWE0\">Getting Started</h1><p class=\"no-margin\">Open Edge Wallet: Launch the Edge Wallet app on your device.<br>Navigate to Buy/Sell: Tap on the \"Buy\" or \"Sell\" option.<br>Select Your Region: Tap \"Select Region\" and choose your country/state.<br>Select MoonPay: Choose MoonPay as your service provider.<br>Enter Details: Input the required information and follow the prompts to complete your transaction.</p><h1 id=\"h_01JRV4SKHSTYVDHS0PVZYAP76V\">Contact Information</h1><p class=\"no-margin\">MoonPay Support:<a href=\"https://support.moonpay.com\" target=\"_blank\" class=\"intercom-content-link\"> https://support.moonpay.com</a></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222895,
+  "updated_at": 1772222896,
+  "url": "https://support.edge.app/en/articles/13892445-using-moonpay-in-edge-wallet"
+}

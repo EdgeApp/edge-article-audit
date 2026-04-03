@@ -1,0 +1,44 @@
+{
+  "id": "13892463",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222932,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222932,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136188",
+  "title": "What is Banxa?",
+  "description": "Banxa is an Australian exchange that supports the purchase of cryptocurrencies for users located in Australia.\n \nPayment methods include P...",
+  "body": "<p class=\"no-margin\">Banxa is an Australian exchange that supports the purchase of cryptocurrencies for users located in Australia.</p><p class=\"no-margin\">Payment methods include POLi Bank Transfer at 1% fees and Newsagent Cash Deposit at 3% fees.</p><p class=\"no-margin\">Banxa can be contacted at support@banxa.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222932,
+  "updated_at": 1772222932,
+  "url": "https://support.edge.app/en/articles/13892463-what-is-banxa"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "13892391",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727257
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268692",
+        "name": "content-tag:Troubleshooting",
+        "applied_at": 1772222804,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222804,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268798",
+        "name": "section:Troubleshooting",
+        "applied_at": 1772222804,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268799",
+        "name": "label:Troubleshooting Camera",
+        "applied_at": 1772222804,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268800",
+        "name": "label:Camera Issues",
+        "applied_at": 1772222804,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268801",
+        "name": "label:Camera Not Loading",
+        "applied_at": 1772222804,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268802",
+        "name": "label:Troubleshooting",
+        "applied_at": 1772222804,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268803",
+        "name": "label:Camera",
+        "applied_at": 1772222804,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268804",
+        "name": "label:Camera Issue",
+        "applied_at": 1772222804,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268805",
+        "name": "label:Camera Permissions",
+        "applied_at": 1772222804,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136114",
+  "title": "Troubleshooting Camera Issues in Edge Wallet",
+  "description": "If you're having trouble launching your device camera while using Edge Wallet (such as during QR code scanning), follow these steps to res...",
+  "body": "<p class=\"no-margin\">If you're having trouble launching your device camera while using Edge Wallet (such as during QR code scanning), follow these steps to resolve the issue.</p><h1 id=\"h_01JSJ02QF6RYNRC3XBQY5XGQYJ\">General Tips</h1><ul><li><p class=\"no-margin\">Ensure your device's operating system is up to date.</p></li><li><p class=\"no-margin\">Restart the Edge Wallet app and try again.</p></li><li><p class=\"no-margin\">Restart your device.</p></li></ul><hr><h1 id=\"h_01JSJ02QF615W068MRDY7B6M3H\">iOS Devices</h1><h2 id=\"h_01JSJ02QF6HY7A1NHMC27713WN\">Step 1: Check Camera Permissions</h2><ol><li><p class=\"no-margin\">Open your iPhone <b>Settings</b>.</p></li><li><p class=\"no-margin\">Scroll down and tap <b>Privacy &amp; Security</b>.</p></li><li><p class=\"no-margin\">Tap <b>Camera</b>.</p></li><li><p class=\"no-margin\">Find and toggle <b>Edge Wallet</b> to <b>ON</b> (green).</p></li></ol><h2 id=\"h_01JSJ02QF63GK5QNTKZWVP0T1S\">Step 2: Check Screen Time Restrictions (if applicable)</h2><ol><li><p class=\"no-margin\">Go to <b>Settings</b>.</p></li><li><p class=\"no-margin\">Tap <b>Screen Time</b> &gt; <b>Content &amp; Privacy Restrictions</b>.</p></li><li><p class=\"no-margin\">Tap <b>Allowed Apps</b> and make sure <b>Camera</b> is allowed.</p></li></ol><h2 id=\"h_01JSJ02QF64B0DGR2EM8EF8S4X\">Step 3: Reinstall Edge Wallet</h2><ol><li><p class=\"no-margin\">Delete the Edge Wallet app.</p></li><li><p class=\"no-margin\">Reinstall it from the <b>App Store</b>.</p></li><li><p class=\"no-margin\">Re-enable camera permissions when prompted.</p></li></ol><hr><h1 id=\"h_01JSJ02QF6005ZP6MEG8F7HVWG\">Android Devices</h1><h2 id=\"h_01JSJ02QF6PE06P7QXX4TFZ71X\">Step 1: Check Camera Permissions</h2><ol><li><p class=\"no-margin\">Open <b>Settings</b>.</p></li><li><p class=\"no-margin\">Tap <b>Apps</b> or <b>Apps &amp; Notifications</b>.</p></li><li><p class=\"no-margin\">Tap <b>Edge Wallet</b>.</p></li><li><p class=\"no-margin\">Tap <b>Permissions</b> &gt; <b>Camera</b>.</p></li><li><p class=\"no-margin\">Select <b>Allow while using the app</b> or <b>Allow</b>.</p></li></ol><h2 id=\"h_01JSJ02QF62FMAS0CXNXP4V1E0\">Step 2: Clear Cache (if issue persists)</h2><ol><li><p class=\"no-margin\">Go to <b>Settings</b> &gt; <b>Apps</b> &gt; <b>Edge Wallet</b>.</p></li><li><p class=\"no-margin\">Tap <b>Storage &amp; cache</b>.</p></li><li><p class=\"no-margin\">Tap <b>Clear Cache</b>.</p></li></ol><h2 id=\"h_01JSJ02QF6PFXZ07BCSCJ9B9PT\">Step 3: Reinstall Edge Wallet</h2><ol><li><p class=\"no-margin\">Uninstall the app.</p></li><li><p class=\"no-margin\">Reinstall from the <b>Google Play Store</b>.</p></li><li><p class=\"no-margin\">Re-enable camera permissions when prompted.</p></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222804,
+  "updated_at": 1772222805,
+  "url": "https://support.edge.app/en/articles/13892391-troubleshooting-camera-issues-in-edge-wallet"
+}

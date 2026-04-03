@@ -1,0 +1,54 @@
+{
+  "id": "13892371",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727255
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268627",
+        "name": "label:how to",
+        "applied_at": 1772222771,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222771,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268761",
+        "name": "section:Common Issues",
+        "applied_at": 1772222771,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136094",
+  "title": "How to force close Edge (Android and iOS).",
+  "description": "Force closing is a method of shutting down the app running on your device. Please note this is not uninstalling. Uninstalling should be av...",
+  "body": "<p class=\"no-margin\">Force closing is a method of shutting down the app running on your device. Please note this is not uninstalling. Uninstalling should be avoided if we are troubleshooting issues.</p><p class=\"no-margin\"><b>Force close on Android:</b></p><p class=\"no-margin\"><b>Method 1: </b></p><ul><li><p class=\"no-margin\">Swipe down from the top of your device to show the notification panel</p></li><li><p class=\"no-margin\">Swipe down again and then tap on the \"Gear\" or settings icon</p></li><li><p class=\"no-margin\">Tap on \"Apps\"</p></li><li><p class=\"no-margin\">Find and tap on Edge</p></li><li><p class=\"no-margin\">Tap \"Force Stop\"</p></li></ul><p class=\"no-margin\"><b>Method 2: </b></p><ul><li><p class=\"no-margin\">From the Home Screen, swipe up from the bottom of the screen. Swipe slow to see all open apps. NOTE: On Samsung the same action is the 3 vertical lines or on Android devices without gesture the square icon</p></li><li><p class=\"no-margin\">Swipe right or left to locate Edge</p></li><li><p class=\"no-margin\">Swipe up on the app preview to close Edge</p></li></ul><p class=\"no-margin\"><b>Force close on iOS:</b></p><ul><li><p class=\"no-margin\">From the Home Screen, swipe up from the bottom of the screen. Swipe slow to see all open apps</p></li><li><p class=\"no-margin\">Swipe right or left to locate Edge</p></li><li><p class=\"no-margin\">Swipe up on the app preview to close Edge</p></li></ul>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222771,
+  "updated_at": 1772222771,
+  "url": "https://support.edge.app/en/articles/13892371-how-to-force-close-edge-android-and-ios"
+}

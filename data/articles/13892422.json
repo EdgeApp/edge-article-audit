@@ -1,0 +1,134 @@
+{
+  "id": "13892422",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222857,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222857,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268836",
+        "name": "label:Centralized",
+        "applied_at": 1772222857,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268837",
+        "name": "label:AML",
+        "applied_at": 1772222857,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268838",
+        "name": "label:Centralized Exchange",
+        "applied_at": 1772222857,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268839",
+        "name": "label:CEX",
+        "applied_at": 1772222857,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268840",
+        "name": "label:KYC",
+        "applied_at": 1772222857,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268844",
+        "name": "content-tag:Centralized Exchange",
+        "applied_at": 1772222857,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268846",
+        "name": "label:Limit",
+        "applied_at": 1772222857,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268859",
+        "name": "label:ChangeHero",
+        "applied_at": 1772222857,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268860",
+        "name": "label:ChangeHero Exchange",
+        "applied_at": 1772222857,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136146",
+  "title": "ChangeHero – Exchange Integration in Edge Wallet",
+  "description": "Type: Centralized Exchange (CEX)\nCentralized exchanges must follow anti-money laundering (AML) laws. In order to stay within compliance, t...",
+  "body": "<p class=\"no-margin\"><b>Type:</b> Centralized Exchange (CEX)</p><p class=\"no-margin\">Centralized exchanges must follow anti-money laundering (AML) laws. In order to stay within compliance, they may have trading limits and may also require your identity to meet Know Your Customer (KYC) requirements.</p><p class=\"no-margin\"><b>Overview:</b> ChangeHero provides crypto-to-crypto swaps but may require identity verification (KYC), even for crypto-to-crypto transactions. While it supports a wide range of assets and aims to deliver a streamlined experience, users should be aware that strict compliance requirements may apply.</p><p class=\"no-margin\"><b>Email Support:</b> Users can send an email to support@changehero.io to receive support.</p><h1 id=\"h_01JSFT9K4ZAWY5NENNBV0R9602\">How to Manage Exchange Settings in Edge</h1><p class=\"no-margin\">To access your exchange settings in Edge Wallet:</p><ol><li><p class=\"no-margin\">Tap the <b>three lines</b> in the upper right-hand corner</p></li><li><p class=\"no-margin\">Tap on <b>Settings</b></p></li><li><p class=\"no-margin\">Tap <b>Exchange Settings</b></p></li><li><p class=\"no-margin\">Here, you can turn exchange partners <b>on or off</b>, and customize your preferences. When multiple exchanges can fill an order, you can also choose to automatically select the best price or prioritize a preferred exchange</p></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222857,
+  "updated_at": 1772222858,
+  "url": "https://support.edge.app/en/articles/13892422-changehero-exchange-integration-in-edge-wallet"
+}

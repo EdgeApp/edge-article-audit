@@ -1,0 +1,44 @@
+{
+  "id": "13892226",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727247
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268599",
+        "name": "category:Account Access &amp; Security",
+        "applied_at": 1772222564,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268604",
+        "name": "section:Login Issues &amp; Account Recovery",
+        "applied_at": 1772222564,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135938",
+  "title": "Authorize Device",
+  "description": "If you are logging in on a new device, or after a fresh install of the Edge app, you may encounter one of the screens below.This notice is...",
+  "body": "<p class=\"no-margin\">If you are logging in on a new device, or after a fresh install of the Edge app, you may encounter one of the screens below.<br><br>This notice is informing users that they must wait a limited <b>Security Period</b> before their account is released for this new login attempt. <br><br>Users may by-pass this security period at any time by entering a 2FA code (if this was setup prior to losing access) or by accepting the login attempt from another device which is still logged in.<br><br>If your security period is longer than 14 days, you can appeal for a reduction, down to the minimum of 7-days. <br><br><i><b>If you would like to request a shorter security period, please use the Live Chat button in the below corner of this screen and answer the questions provided.</b></i><br><br>​</p><div class=\"intercom-container\"><img src=\"https://edge-1a5ed69e1271.intercom-attachments-7.com/i/o/ourx4xix/2112520191/35fbfed1cc522ee32058d85f5782/45107691853723?expires=1775187900&amp;signature=67f88aa43e37b2eaa651e9a71a7cb8a803908d420591f801f64c19a741a853d9&amp;req=diEmFMx8nYBWWPMW1HO4zSgXMrJF3QZpDkVv6Aqu43NHCAFQqSVxx6CncE6q%0APXoA%0A\"></div><div class=\"intercom-container\"><img src=\"https://edge-1a5ed69e1271.intercom-attachments-7.com/i/o/ourx4xix/2112520257/8670ec742bc5656916c371b68078/45107691853339?expires=1775187900&amp;signature=b72e49f0a61ce391d5ca6e424ee8df799a93ad01f6d50d6fb3bd72665a748d71&amp;req=diEmFMx8nYNaXvMW1HO4zTK6aVefPzW8nQ%2BqPX6HsHEG7psAxd6a293vVvfi%0A%2BNNC%0A\"></div>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222564,
+  "updated_at": 1772222564,
+  "url": "https://support.edge.app/en/articles/13892226-authorize-device"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "13892233",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727250
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222572,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268612",
+        "name": "section:Basics",
+        "applied_at": 1772222572,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268613",
+        "name": "content-tag:basics",
+        "applied_at": 1772222572,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268614",
+        "name": "content-tag:assets",
+        "applied_at": 1772222572,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268615",
+        "name": "content-tag:Navigating Edge",
+        "applied_at": 1772222573,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135945",
+  "title": "My Keys, My Coins",
+  "description": "What does it mean to \"hold\" your own coins?In cryptocurrency, you prove ownership of coins by using the private key of the wallet those to...",
+  "body": "<h1 id=\"h_01K0FM4EE0DRWQPPH04QNYTRTB\">What does it mean to \"hold\" your own coins?</h1><p class=\"no-margin\">In cryptocurrency, you prove ownership of coins by using the <b>private key</b> of the wallet those tokens are in.</p><p class=\"no-margin\">Private keys are a long alpha-numeric code and are each paired with a public receiving address (aka. public key).</p><p class=\"no-margin\">These private keys are used to cryptographically \"sign\" a transaction to show that you approved it.</p><p class=\"no-margin\">Therefore, <i>anybody</i> with the private keys can approve new transactions for that wallet.</p><h1 id=\"h_01K0FM4XJWT8HGD6B4T66TF53B\">What about seed phrase?</h1><p class=\"no-margin\">A <b>seed phrase</b> is a special standardized password format that can be used to generate pairs of private and public keys for use on cryptocurrency networks.</p><p class=\"no-margin\">Seed phrases are typically 12-24 words and come in this human readable format to prevent accidents when storing the code, while maintaining high complexity in combinations.</p><h1 id=\"h_01K0FM50D0B2YD8BTK2KRPSATH\">Where are my keys and my seeds?</h1><p class=\"no-margin\">Edge is <b>self-custodial</b>, which means that only YOU have access to the private keys for each wallet in your Edge account.<br>(see <a href=\"https://support.edge.app/hc/en-us/articles/7018009165339\" target=\"_blank\" class=\"intercom-content-link\">What's the difference between custodial and non-custodial?</a>)</p><p class=\"no-margin\">Edge also encrypts ALL user data on your device before saving.</p><p class=\"no-margin\">Logging in from a new device will pull an encrypted backup that can be only be decrypted locally with your full password.</p><h1 id=\"h_01K0FM54Y97YM7TRWMF39MP3Z2\">Bitcoin and receiving addresses</h1><p class=\"no-margin\">In some Bitcoin-based networks (BTC, LTC, BCH, etc.), a wallet will have an \"extended\" public address - often called an <b>XPUB</b>.</p><p class=\"no-margin\">This XPUB can be used to determine all the possible receiving addresses which can be derived from this wallet's seed phrase.</p><h1 id=\"h_01K0FM59K9F9XZW187DY7S2RXB\">Using multiple addresses</h1><p class=\"no-margin\">In apps that support native <b>HD wallet</b> functionality (such as Edge) your receiving address will change with each receive transaction so that each address is only used once.</p><p class=\"no-margin\">New transactions will spend funds from any address with funds, no need to keep track of private-public key pairs.</p><p class=\"no-margin\"><i>Fun fact: Edge preserves user privacy by selecting the best addresses to spend from!</i></p><p class=\"no-margin\">(see <a href=\"https://support.edge.app/hc/en-us/articles/13238555977627\" target=\"_blank\" class=\"intercom-content-link\">What is a UTXO?</a>)</p><h1 id=\"h_01K0FM5DV4TJFRGNHZZAB0PDSX\">Does ethereum have multiple addresses?</h1><p class=\"no-margin\">In Edge, it is more secure <i>not</i> to use multiple addresses from the <i>same seed phrase</i>.</p><p class=\"no-margin\">Without native HD wallet functionality on Ethereum, there isn't a great way to use multiple Ethereum address (accounts) to enhance privacy.</p><p class=\"no-margin\">Instead, keeping ETH wallets separate helps keep your funds safer in case you connect to a fraudulent service or expose the seed for that wallet.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222572,
+  "updated_at": 1772222573,
+  "url": "https://support.edge.app/en/articles/13892233-my-keys-my-coins"
+}

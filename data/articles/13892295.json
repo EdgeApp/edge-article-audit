@@ -1,0 +1,44 @@
+{
+  "id": "13892295",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727251
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222660,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268654",
+        "name": "section:Edge Wallet Features",
+        "applied_at": 1772222660,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136011",
+  "title": "What are Spending Limits and how does it work?",
+  "description": "The \"Spending Limits\" feature is a way to require a predetermined amount to need a PIN to spend.\n\n \nFor example you can set the spending l...",
+  "body": "<p class=\"no-margin\">The \"Spending Limits\" feature is a way to require a predetermined amount to need a PIN to spend.</p><p class=\"no-margin\">For example you can set the spending limit to $100 which will then require a PIN to spend $100 or more from that wallet. Note this can also be set to zero, meaning each transaction will require the PIN.</p><p class=\"no-margin\">This can be enabled by tapping Menu &gt; Spending Limits &gt; then entering your password and toggling the feature on. You can input any amount you would like to require a PIN</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222660,
+  "updated_at": 1772222661,
+  "url": "https://support.edge.app/en/articles/13892295-what-are-spending-limits-and-how-does-it-work"
+}

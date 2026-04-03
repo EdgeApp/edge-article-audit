@@ -1,0 +1,44 @@
+{
+  "id": "13892400",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727257
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222820,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268798",
+        "name": "section:Troubleshooting",
+        "applied_at": 1772222820,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136123",
+  "title": "Auth Server error message",
+  "description": "On rare occasions the Edge Auth Server may become inaccessible which will prevent users from using their PIN to log into their account. \n\n...",
+  "body": "<p class=\"no-margin\">On rare occasions the Edge Auth Server may become inaccessible which will prevent users from using their PIN to log into their account.</p><p class=\"no-margin\">It is important to remember you can still log in with your full username and password (which is always true even offline) or with your biometrics such as fingerprint. You can exit PIN by tapping exit at the upper left corner.</p><p class=\"no-margin\">Do not uninstall when you are unable to log in with pin as this may result in an IP Validation lock out preventing you from accessing your account for 7 days.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222820,
+  "updated_at": 1772222820,
+  "url": "https://support.edge.app/en/articles/13892400-auth-server-error-message"
+}

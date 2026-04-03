@@ -1,0 +1,44 @@
+{
+  "id": "13892365",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222761,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222761,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136088",
+  "title": "How do I sweep my Private Key into Edge?",
+  "description": "In order to sweep your Private Key into your Edge wallet, follow the steps below:\n1) Tap the 3 horizontal lines to open the side menu\n \n2)...",
+  "body": "<p class=\"no-margin\">In order to sweep your Private Key into your Edge wallet, follow the steps below:</p><p class=\"no-margin\">1) Tap the 3 horizontal lines to open the side menu</p><p class=\"no-margin\"><b> </b></p><p class=\"no-margin\">2) Tap on Scan QR from the side menu</p><p class=\"no-margin\">3) Select the wallet you want to sweep the fund from.</p><p class=\"no-margin\">3) Scan the Private Key QR Code or enter it manually</p><p class=\"no-margin\">4) A popup will be displayed asking if you wish to Import the funds, tap on Import. This will generate an on-chain transaction and you will pay the mining fees for that</p><p class=\"no-margin\">5) After successfully importing the funds, you will see the funds in your wallet by going back into the Wallets List screen or back into the specific Wallet Transaction History screen<br><br>Note: If you are also migrating tokens, be sure that these tokens are recognized in your Edge app. If you have tokens that are not listed in Edge, add them as a <a href=\"https://support.edge.app/hc/en-us/articles/7013684611355\" target=\"_blank\" class=\"intercom-content-link\">custom token</a> first.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222761,
+  "updated_at": 1772222761,
+  "url": "https://support.edge.app/en/articles/13892365-how-do-i-sweep-my-private-key-into-edge"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "13892523",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772223036,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772223036,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772223036,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268638",
+        "name": "label:sending fees",
+        "applied_at": 1772223036,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223036,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223036,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772223036,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269237",
+        "name": "label:Litecoin Network Fees",
+        "applied_at": 1772223036,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269238",
+        "name": "label:Litecoin Fees",
+        "applied_at": 1772223036,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136252",
+  "title": "Litecoin Network Fees",
+  "description": "What You’re Really Paying For\nLitecoin is often called the \"silver to Bitcoin’s gold\"—and it lives up to that reputation by offering faste...",
+  "body": "<h1 id=\"h_01JSYXQ7G5PJTQJZ2HYQS7VE45\">What You’re Really Paying For</h1><p class=\"no-margin\">Litecoin is often called the \"silver to Bitcoin’s gold\"—and it lives up to that reputation by offering faster block times and lower fees. But just like Bitcoin, Litecoin transaction fees aren’t based on how much LTC you’re sending. They’re based on <b>how much space your transaction takes up in a block</b>.</p><p class=\"no-margin\">Sounds technical? Don’t worry. Edge Wallet makes it simple, with smart fee options ready to go.</p><hr><h1 id=\"h_01JSYXQ7G5G4R149000B3K9J1Y\">How Litecoin Fees Work</h1><p class=\"no-margin\">When you send LTC, your fee depends on two key factors:</p><ul><li><p class=\"no-margin\"><b>The size of the transaction</b> (measured in bytes)</p></li><li><p class=\"no-margin\"><b>Current network congestion</b></p></li></ul><p class=\"no-margin\">Edge connects to multiple Litecoin nodes to check real-time network conditions and recommends a fee—measured in <b>litoshis per byte</b> (litoshis are the smallest unit of Litecoin).</p><p class=\"no-margin\"><b>Example:</b> Sending LTC with lots of inputs and outputs? Your transaction will take up more space and cost a bit more—even if the amount you're sending stays the same.</p><hr><h1 id=\"h_01JSYXQ7G5X8FHM48X83C99EAK\">Fee Options You Can Choose</h1><p class=\"no-margin\">Edge gives you four preset choices, depending on how fast you want your transaction confirmed:</p><ul><li><p class=\"no-margin\"><b>High</b> – Prioritizes quick confirmation, great during busy network times</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – A smart balance of cost and speed for everyday use</p></li><li><p class=\"no-margin\"><b>Low</b> – Cheaper fee, but slower confirmation if the network is busy</p></li><li><p class=\"no-margin\"><b>Custom</b> – Enter your own litoshi/byte value for full control</p></li></ul><p class=\"no-margin\"><b>Tip:</b> Litecoin blocks are mined about every <b>2.5 minutes</b> (much faster than Bitcoin's 10 minutes). So even lower-priority transactions often confirm relatively quickly compared to Bitcoin.</p><p class=\"no-margin\"><b>To adjust your fee:</b> Start a send → tap the <b>fee settings gear</b> → pick Low, Optimal, High, or set a Custom fee.</p><hr><h1 id=\"h_01JSYXQ7G56WZY27WP1JD7RN26\">What’s the Average Cost?</h1><p class=\"no-margin\">On average, sending a Litecoin transaction costs around <b>$0.01 to $0.05 USD</b>—making it one of the most affordable major cryptocurrencies for sending payments.</p><hr><h1 id=\"h_01JSYXQ7G5HRCAN3ZF9T65MG9Z\">Why It Matters</h1><p class=\"no-margin\">Litecoin’s faster block times and low fees make it a popular choice for everyday payments and quick transfers. With Edge Wallet’s real-time fee suggestions and easy customization, you stay in control—whether you want the fastest confirmation or the best price.</p><p class=\"no-margin\">No guesswork. No surprises. Just smooth, affordable transactions.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223036,
+  "updated_at": 1772223037,
+  "url": "https://support.edge.app/en/articles/13892523-litecoin-network-fees"
+}

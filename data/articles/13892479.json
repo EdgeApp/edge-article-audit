@@ -1,0 +1,174 @@
+{
+  "id": "13892479",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772222958,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772222958,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772222958,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772222958,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222958,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222958,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772222958,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269058",
+        "name": "label:Fee",
+        "applied_at": 1772222958,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772222958,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269060",
+        "name": "label:FIO Network",
+        "applied_at": 1772222958,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269061",
+        "name": "label:FIO Fees",
+        "applied_at": 1772222959,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269062",
+        "name": "label:FIO Protocol FIO Fees",
+        "applied_at": 1772222959,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269063",
+        "name": "label:FIO Network Fees",
+        "applied_at": 1772222959,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269064",
+        "name": "label:FIO Fee",
+        "applied_at": 1772222959,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772222959,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136204",
+  "title": "FIO Network Fees",
+  "description": "FIO Protocol (FIO) – Simplifying Crypto Transactions\nFIO Protocol improves crypto usability by letting users send crypto to human-readable...",
+  "body": "<h1 id=\"h_01JSZ6J8N3E22CDXTJ3QC8X21S\">FIO Protocol (FIO) – Simplifying Crypto Transactions</h1><p class=\"no-margin\">FIO Protocol improves crypto usability by letting users send crypto to human-readable FIO addresses instead of long public keys.</p><h2 id=\"h_01JSZ6J8N3ZBERZRW1ZX2MK708\">How FIO Fees Work</h2><ul><li><p class=\"no-margin\"><b>Transaction fees</b> paid in <b>FIO tokens</b>.</p></li><li><p class=\"no-margin\">Some operations (like sending a FIO request) have a flat small fee.</p></li></ul><p class=\"no-margin\">Edge handles the FIO transaction fee calculations automatically for you.</p><hr><h2 id=\"h_01JSZ6J8N37K4ZD3QAM7GJNZB3\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>Standard FIO fees</b> – No need for manual adjustments.</p></li></ul><hr><h2 id=\"h_01JSZ6J8N363SXGBJJBKDAM5XE\">Average Cost</h2><p class=\"no-margin\">Generally <b>$0.01 to $0.05 USD</b> depending on the FIO service action (e.g., sending, requesting payment).</p><hr><h2 id=\"h_01JSZ6J8N3F5FCQTJZ2E1646BQ\">Why It Matters</h2><p class=\"no-margin\">FIO makes crypto easier for everyone by replacing wallet addresses with simple names. Edge Wallet integrates FIO functionality while keeping transaction fees super affordable and automatic.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222958,
+  "updated_at": 1772222959,
+  "url": "https://support.edge.app/en/articles/13892479-fio-network-fees"
+}

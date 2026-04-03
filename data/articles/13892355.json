@@ -1,0 +1,44 @@
+{
+  "id": "13892355",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222747,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222747,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136076",
+  "title": "How do I view my Transaction ID?",
+  "description": "Open Edge and tap \"Assets\" located within the bottom navigation bar.\nTap on the wallet you want to review.\n\nTap the transaction that you w...",
+  "body": "<ol><li><p class=\"no-margin\">Open Edge and tap \"Assets\" located within the bottom navigation bar.</p></li><li><p class=\"no-margin\">Tap on the wallet you want to review.</p></li><li><p class=\"no-margin\">Tap the transaction that you want the ID for.</p></li><li><p class=\"no-margin\">Inside the transaction, you will see the advanced details</p></li><li><p class=\"no-margin\">You can copy and paste the Transaction ID by tapping the copy and paste button or scroll down to \"Show in Explorer\" which will launch the transaction into Blockchair to view.</p></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222747,
+  "updated_at": 1772222748,
+  "url": "https://support.edge.app/en/articles/13892355-how-do-i-view-my-transaction-id"
+}

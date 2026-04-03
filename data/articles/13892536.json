@@ -1,0 +1,54 @@
+{
+  "id": "13892536",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727262
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268614",
+        "name": "content-tag:assets",
+        "applied_at": 1772223060,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223060,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269278",
+        "name": "section:Announcements ",
+        "applied_at": 1772223060,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136265",
+  "title": "Fantom (FTM) to Sonic (S) Migration/Upgrade",
+  "description": "Fantom (FTM) has begun migration to Sonic (S) and will be transitioning their focus to this new cryptocurrency network for the foreseeable...",
+  "body": "<p class=\"no-margin\"><b>Fantom (FTM)</b> has begun migration to <b>Sonic (S)</b> and will be transitioning their focus to this new cryptocurrency network for the foreseeable future. <br><br>Edge will have support for this new Sonic network very shortly, at which point there will be an in-app notice directly users to transfer their existing FTM assets to Sonic. <br><br>If you wish to complete the migration before Edge has added support, please feel free to use the Sonic Upgrade Portal, here: <a href=\"https://my.soniclabs.com/upgrade\" target=\"_blank\" class=\"intercom-content-link\">https://my.soniclabs.com/upgrade</a></p><p class=\"no-margin\"><i>The new Sonic (S) cryptocurrency that is received after using this upgrade tool, will not be seen within Edge, at least not until support for the Sonic blockchain is finished being built. Your funds will still safely be associated with your FTM wallet address. You may export the Master Private Key for your FTM wallet into a wallet that is compatible with the Sonic network to see these funds after using their migration tool.</i></p><p class=\"no-margin\">Resources about this upgrade:</p><ul><li><p class=\"no-margin\">Bridging Assets to Sonic: <a href=\"https://soniclabs.typeform.com/to/eJJtgYaL\" target=\"_blank\" class=\"intercom-content-link\">https://soniclabs.typeform.com/to/eJJtgYaL</a></p></li><li><p class=\"no-margin\">Official Documentation: <a href=\"https://www.soniclabs.com/token\" target=\"_blank\" class=\"intercom-content-link\">https://www.soniclabs.com/token</a></p></li><li><p class=\"no-margin\">Upgrade Handbook: <a href=\"https://blog.soniclabs.com/the-ultimate-sonic-upgrade-handbook-ftm-to-s/\" target=\"_blank\" class=\"intercom-content-link\">https://blog.soniclabs.com/the-ultimate-sonic-upgrade-handbook-ftm-to-s</a></p></li></ul>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223060,
+  "updated_at": 1772223060,
+  "url": "https://support.edge.app/en/articles/13892536-fantom-ftm-to-sonic-s-migration-upgrade"
+}

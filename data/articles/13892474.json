@@ -1,0 +1,114 @@
+{
+  "id": "13892474",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268615",
+        "name": "content-tag:Navigating Edge",
+        "applied_at": 1772222948,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222949,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222949,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269041",
+        "name": "label:Navigating Edge",
+        "applied_at": 1772222949,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269042",
+        "name": "label:Navigating Wallet",
+        "applied_at": 1772222949,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269043",
+        "name": "label:Navigating",
+        "applied_at": 1772222949,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269044",
+        "name": "label:Navigation Help",
+        "applied_at": 1772222949,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269045",
+        "name": "label:How To Exchange",
+        "applied_at": 1772222949,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269046",
+        "name": "label:Navigating Exchange",
+        "applied_at": 1772222949,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136199",
+  "title": "Navigating Edge Wallet Exchange Scene",
+  "description": "Navigation Access: You can reach this screen at any time by tapping Exchange from the bottom navigation bar. *Swipe your finger down to se...",
+  "body": "<p class=\"no-margin\"><b>Navigation Access:</b> You can reach this screen at any time by tapping <b>Exchange</b> from the bottom navigation bar. <b>*Swipe your finger down to see the full navigation bar and up to minimize it. </b></p><p class=\"no-margin\">The Exchange tab lets you swap one cryptocurrency for another directly inside the app, using integrated third-party providers.</p><p class=\"no-margin\"><b>1. Select Source Wallet</b><br>Choose the crypto wallet you want to exchange from (e.g., BTC).</p><p class=\"no-margin\"><b>2. Select Receiving Wallet</b><br>Choose the destination wallet (e.g., ETH) to receive the converted funds.</p><p class=\"no-margin\"><b>3. Review the Quote</b><br>Once both wallets are selected, Edge will display:</p><ul><li><p class=\"no-margin\">The estimated amount you’ll receive</p></li><li><p class=\"no-margin\">Any provider fees</p></li><li><p class=\"no-margin\">Network fee details<br>Note: The amount shown is an estimate. Actual received funds may be slightly lower depending on network conditions.</p></li></ul><p class=\"no-margin\"><b>4. Change Provider</b><br>Tap \"Powered by Thorchain\" (or other listed provider) to see available exchange partners and switch if desired.</p><p class=\"no-margin\"><b>5. Slide to Confirm</b><br>When you're ready, slide the button to finalize the exchange.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222948,
+  "updated_at": 1772222949,
+  "url": "https://support.edge.app/en/articles/13892474-navigating-edge-wallet-exchange-scene"
+}

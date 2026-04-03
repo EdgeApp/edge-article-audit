@@ -1,0 +1,104 @@
+{
+  "id": "13892501",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772222998,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222998,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222998,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772222998,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269153",
+        "name": "label:Firo (FIRO) Network",
+        "applied_at": 1772222998,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269154",
+        "name": "label:Firo Network Fees",
+        "applied_at": 1772222998,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269155",
+        "name": "label:Firo (FIRO) Network Fees",
+        "applied_at": 1772222998,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269156",
+        "name": "label:Firo Network",
+        "applied_at": 1772222998,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136227",
+  "title": "Firo Network Fees",
+  "description": "Firo (FIRO) Network – Private and Accessible\nFiro (formerly Zcoin) focuses on financial privacy through Lelantus technology and efficient ...",
+  "body": "<h1 id=\"h_01JSZ32G55BK7RW0QE6Q1B5JJ2\">Firo (FIRO) Network – Private and Accessible</h1><p class=\"no-margin\">Firo (formerly Zcoin) focuses on financial privacy through Lelantus technology and efficient transactions.</p><h2 id=\"h_01JSZ32G551B49GYQYSSRZVH3Y\">How Firo Fees Work</h2><p class=\"no-margin\">Fees are based on:</p><ul><li><p class=\"no-margin\"><b>Transaction size</b></p></li><li><p class=\"no-margin\"><b>Privacy features used</b><br>Paid in <b>FIRO</b> tokens.</p></li></ul><p class=\"no-margin\">Edge estimates fees automatically depending on whether you’re sending private or regular transactions.</p><hr><h2 id=\"h_01JSZ32G5519GCVMX9T1T4ZW02\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>High</b> – For faster confirmations</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Balanced approach</p></li><li><p class=\"no-margin\"><b>Low</b> – Save on fees, slower confirmation</p></li><li><p class=\"no-margin\"><b>Custom</b> – Advanced manual settings</p></li></ul><hr><h2 id=\"h_01JSZ32G55HA56NJ68MKWRPMP8\">Average Cost</h2><p class=\"no-margin\">Typically <b>$0.01 to $0.10 USD</b> per transaction.</p><hr><h2 id=\"h_01JSZ32G55DEMSV2JQ5VNH72ZX\">Why It Matters</h2><p class=\"no-margin\">Firo balances privacy and cost effectively. Edge Wallet helps you choose your fee simply while protecting your anonymity.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222997,
+  "updated_at": 1772222998,
+  "url": "https://support.edge.app/en/articles/13892501-firo-network-fees"
+}

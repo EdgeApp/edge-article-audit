@@ -1,0 +1,44 @@
+{
+  "id": "13892296",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727251
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222662,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268654",
+        "name": "section:Edge Wallet Features",
+        "applied_at": 1772222662,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136012",
+  "title": "What kind of security options are available on Edge?",
+  "description": "2 Factor Authentication (2FA)\n\n\nOnly your device can access the account even another device tries to access it with the known password    ...",
+  "body": "<ul><li><p class=\"no-margin\"><b>2 Factor Authentication (2FA)</b></p><ul><li><p class=\"no-margin\">Only your device can access the account even another device tries to access it with the known password <b> </b></p></li></ul></li><li><p class=\"no-margin\"><b>Spending Limits</b></p><ul><li><p class=\"no-margin\">Requires a PIN/Password in order to send funds out</p></li></ul></li><li><p class=\"no-margin\"><b>Auto Logout</b></p><ul><li><p class=\"no-margin\">Automatically logs the account out after a set amount of time</p></li></ul></li><li><p class=\"no-margin\"><b>Fingerprint/Touch ID</b></p><ul><li><p class=\"no-margin\">Quick logins via fingerprint</p></li></ul></li><li><p class=\"no-margin\"><b>PIN Login</b></p><ul><li><p class=\"no-margin\">Quick logins via a 4 digit PIN</p></li></ul></li><li><p class=\"no-margin\"><b>Password Recovery</b></p><ul><li><p class=\"no-margin\">Set up recovery questions to recover your account and reset the password in case that is forgotten</p></li></ul></li></ul>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222661,
+  "updated_at": 1772222662,
+  "url": "https://support.edge.app/en/articles/13892296-what-kind-of-security-options-are-available-on-edge"
+}

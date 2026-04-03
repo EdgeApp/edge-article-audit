@@ -1,0 +1,44 @@
+{
+  "id": "13892336",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222718,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222718,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136057",
+  "title": "How do I setup Recovery in Edge?",
+  "description": "Log into your Edge account\n\nGo into your Edge Settings by tapping the 3 horizontal lines at the top right corner\n\n\nTap on  Account Setting...",
+  "body": "<ol><li><p class=\"no-margin\">Log into your Edge account</p></li><li><p class=\"no-margin\">Go into your Edge Settings by tapping the 3 horizontal lines at the top right corner</p></li><li><p class=\"no-margin\">Tap on Account Settings</p></li><li><p class=\"no-margin\">Tap on \"Set up Password Recovery\" and enter your password</p></li><li><p class=\"no-margin\">Once unlocked, tap on Password Recovery</p></li><li><p class=\"no-margin\">Select 2 recovery questions and answer them both. Note that they are case-sensitive and must be exact.</p></li><li><p class=\"no-margin\">Tap done and you will be asked to confirm the answers</p></li><li><p class=\"no-margin\">Enter your email address (the token emailed will be an email sent from yourself, not from Edge) or your preferred storage method.</p></li><li><p class=\"no-margin\">Check and verify that you received the recovery token in the email you provided</p><p class=\"no-margin\">Once that is set you are good to go. In the event that you ever forget your password, you can simply go into your email and find the token to initiate the recovery process. Answering the questions correctly will allow you to reset the password granting you access to your account.</p><p class=\"no-margin\">Note: You'll also need to know your username in addition to having the recovery token.</p><p class=\"no-margin\">Learn more on how it works in our blog entry here: <a href=\"https://edge.app/blog/how-lost-password-recovery-works-in-edge/\" target=\"_blank\" class=\"intercom-content-link\">https://edge.app/blog/how-lost-password-recovery-works-in-edge/</a></p></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222718,
+  "updated_at": 1772222718,
+  "url": "https://support.edge.app/en/articles/13892336-how-do-i-setup-recovery-in-edge"
+}

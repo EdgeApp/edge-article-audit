@@ -1,0 +1,54 @@
+{
+  "id": "13892389",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727256
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222801,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268794",
+        "name": "section:Scam and Fraud",
+        "applied_at": 1772222801,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268795",
+        "name": "label:scams",
+        "applied_at": 1772222801,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136112",
+  "title": "Scam fake Edge websites",
+  "description": "This is a warning to all users. There is an ongoing scam where there are Edge clone websites with scammers that are posing as Edge or offe...",
+  "body": "<p class=\"no-margin\">This is a warning to all users. There is an ongoing scam where there are Edge clone websites with scammers that are posing as Edge or offering a web platform from which you should be able to manage your funds.</p><p class=\"no-margin\"><b>Please remember that Edge Wallet is available only as a mobile wallet.</b></p><p class=\"no-margin\">Edge made a conscious decision to restrict our wallet to native mobile applications. Website infrastructures are notoriously difficult to secure as there are many different attack vectors allowing hackers access user credentials.</p><p class=\"no-margin\">These include but are not limited to:</p><p class=\"no-margin\">* Javascript injection</p><p class=\"no-margin\">* Server-side hacks modifying HTML/Javascript</p><p class=\"no-margin\">* Fake URL phishing attacks</p><p class=\"no-margin\">* Man-in-the-middle attacks</p><p class=\"no-margin\">* Rogue browser plug-ins</p><p class=\"no-margin\">* Keyboard or screen loggers</p><p class=\"no-margin\">Note that with the exception of keyboard or screen loggers, Edge is not susceptible to any of the above attacks. Fully compromised Edge servers or even the network around a user’s device do NOT give an attacker any access to user data or funds. We have carefully designed the client-server architecture with this in mind as we know Bitcoin security is paramount and is critical for achieving mass adoption.</p><p class=\"no-margin\">These fake websites have already been reported.</p><h1 id=\"h_b5373154eb\">How to recognize a fake website?</h1><p class=\"no-margin\">Edge domain is <a href=\"https://edge.app/\" target=\"_blank\" class=\"intercom-content-link\">https://edge.app/</a> and the associated SSL certificate is released to edge.app</p><div class=\"intercom-container\"><img src=\"https://static.intercomassets.com/assets/article_broken_image_placeholder.png\"></div><p class=\"no-margin\">Every service associated with Edge run under edge.app domain, for example the Support section (<a href=\"https://support.edge.app/\" target=\"_blank\" class=\"intercom-content-link\">https://support.edge.app/</a>) or the Developer section (<a href=\"https://edge.app/developer/\" target=\"_blank\" class=\"intercom-content-link\">https://edge.app/developer/</a>).</p><p class=\"no-margin\">Even the team members emails are registered under this domain: for example <a href=\"mailto:david@edge.app\" target=\"_blank\" class=\"intercom-content-link\">david@edge.app</a> (in my case) or <a href=\"mailto:support@edge.app\" target=\"_blank\" class=\"intercom-content-link\">support@edge.app</a> (the general Support email).</p><p class=\"no-margin\">The only other domain related to Edge is our old <a href=\"https://airbitz.co/\" target=\"_blank\" class=\"intercom-content-link\">https://airbitz.co/</a> that now redirects to <a href=\"https://edge.app/,\" target=\"_blank\" class=\"intercom-content-link\">https://edge.app/,</a> but you could receive communications from an <a href=\"https://airbitz.co/\" target=\"_blank\" class=\"intercom-content-link\">airbitz.co</a>-related mail if you opened a ticket within our old Airbitz app.</p><p class=\"no-margin\">There is no other Edge website.</p><div class=\"intercom-container\"><img src=\"https://static.intercomassets.com/assets/article_broken_image_placeholder.png\"></div><p class=\"no-margin\"><i>In this comparison, the real Edge website on the left and a clone scam website on the right</i></p><p class=\"no-margin\"><i> </i></p><p class=\"no-margin\">If you look carefully at the fake website above, you will notice the different logo but also something strange in the menu: there are a Log in and a Register link!</p><div class=\"intercom-container\"><img src=\"https://static.intercomassets.com/assets/article_broken_image_placeholder.png\"></div><p class=\"no-margin\">As mentioned before, <b>there is no web version of our Edge app and we never ask the users for their credentials.</b></p><div class=\"intercom-container\"><img src=\"https://static.intercomassets.com/assets/article_broken_image_placeholder.png\"></div><p class=\"no-margin\"><i>This is the Log In page, probably used for grabbing user credentials and then login to their Edge accounts through the Edge Wallet app.</i></p><p class=\"no-margin\">The grabbing technique could be used even within the registration page, so <b>DO NOT enter any data on any pages!</b></p><p class=\"no-margin\">The fake websites also have a \"Lost your password?\" link that bring you to this page:</p><div class=\"intercom-container\"><img src=\"https://static.intercomassets.com/assets/article_broken_image_placeholder.png\"></div><p class=\"no-margin\"><b>DO NOT enter your email or username!</b></p><p class=\"no-margin\">An attacker could potentially gain access to your Edge account through social engineering, as we mentioned here: <a href=\"https://edge.app/blog/hardware-software-and-programmable-security/\" target=\"_blank\" class=\"intercom-content-link\">https://edge.app/blog/hardware-software-and-programmable-security/</a></p><p class=\"no-margin\">If you are an Edge user you should know that we don't collect user data and we are not able to restore an account or create a new password, simply because we don't have access to users' accounts.</p><p class=\"no-margin\">Clone websites very often use pictures they find on the legit website to make their project look legit, so you could see, for example, pictures of our CEO and Co-Founder Paul Puey or other team members. They simply stole the pics from our website and uploaded them to the fake one.</p><p class=\"no-margin\">Be careful out there and, if possible, report any scam or suspect scam to <a href=\"mailto:support@edge.app\" target=\"_blank\" class=\"intercom-content-link\">support@edge.app</a>.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222800,
+  "updated_at": 1772222801,
+  "url": "https://support.edge.app/en/articles/13892389-scam-fake-edge-websites"
+}

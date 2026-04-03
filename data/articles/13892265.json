@@ -1,0 +1,44 @@
+{
+  "id": "13892265",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727250
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222619,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268612",
+        "name": "section:Basics",
+        "applied_at": 1772222619,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135979",
+  "title": "What platforms support Edge?",
+  "description": "Edge is available on Android and on iOS.\n\nAndroid 9 or higher\niOS 13 or higher\n\nEdge does not have a web, browser extension, or desktop ap...",
+  "body": "<p class=\"no-margin\">Edge is available on Android and on iOS.</p><ul><li><p class=\"no-margin\">Android 9 or higher</p></li><li><p class=\"no-margin\">iOS 13 or higher</p></li></ul><p class=\"no-margin\">Edge does not have a web, browser extension, or desktop application currently.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222619,
+  "updated_at": 1772222620,
+  "url": "https://support.edge.app/en/articles/13892265-what-platforms-support-edge"
+}

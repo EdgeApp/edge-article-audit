@@ -1,0 +1,104 @@
+{
+  "id": "13892314",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222685,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222685,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268716",
+        "name": "label:Fantom",
+        "applied_at": 1772222685,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268717",
+        "name": "label:Fantom To Sonic",
+        "applied_at": 1772222685,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268718",
+        "name": "label:Sonic",
+        "applied_at": 1772222685,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268719",
+        "name": "label:Sonic Swap",
+        "applied_at": 1772222685,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268720",
+        "name": "label:Bridge",
+        "applied_at": 1772222685,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268721",
+        "name": "content-tag:Fantom To Sonic Swap",
+        "applied_at": 1772222685,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136032",
+  "title": "How to Swap Fantom Network FTM Token to Sonic Network S Token on Edge Wallet",
+  "description": "Swapping Fantom to Sonic on Edge isn’t a simple one-step exchange—it actually bridges tokens between networks. To ensure the swap works, y...",
+  "body": "<p class=\"no-margin\">Swapping Fantom to Sonic on Edge isn’t a simple one-step exchange—it actually bridges tokens between networks. To ensure the swap works, you must split your FTM Wallet into a Sonic variant so that both “FTM” and “Sonic” reside under the same address. Below is a streamlined guide to get you through the process.</p><hr><h1 id=\"h_01JWYFHAJ3GZP9VFXMWM4WQT5A\">Prerequisites</h1><ol><li><p class=\"no-margin\"><b>Edge App Version</b><br>Ensure you’re running the latest version of Edge Wallet (iOS/Android).</p></li><li><p class=\"no-margin\"><b>FTM Balance</b><br>• You must have <b>at least 1 FTM</b> in your wallet.<br>• FTM balance should be in the wallet you plan to split.</p></li><li><p class=\"no-margin\"><b>Turn On Fant­om/Sonic Upgrade Plugin</b><br>• Open Edge and tap the <b>☰ Side Menu</b> (upper-right).<br>• Go to <b>Settings → Exchange Settings</b>.<br>• Toggle <b>Fant­om/Sonic Upgrade</b> to <b>On</b>.</p></li></ol><hr><h1 id=\"h_01JWYFHAJ7VDFJRX4K8GK6YZTY\">Step 1: Split FTM into Sonic</h1><ol><li><p class=\"no-margin\"><b>Navigate to Your FTM Wallet</b><br>• Tap <b>Assets</b> at the bottom.<br>• Find and tap <b>FTM</b> in the asset list.</p></li><li><p class=\"no-margin\"><b>Access the Split Menu</b><br>• In your FTM wallet view, tap the <b>⋮ (three vertical dots)</b> in the upper-right corner.<br>• Choose <b>Split Wallet</b> from the menu.</p></li><li><p class=\"no-margin\"><b>Choose Sonic</b><br>• When prompted, select <b>Sonic</b> as the token to split into.<br>• Tap <b>Confirm</b>.</p><p class=\"no-margin\">After confirmation, Edge creates a new <b>Sonic</b> wallet automatically—this wallet’s address matches your FTM wallet address (i.e., it’s derived from the same keypair).</p></li></ol><hr><h1 id=\"h_01JWYFHAJDVR040C7E06FYXYCG\">Step 2: Perform the Swap (Bridge)</h1><ol><li><p class=\"no-margin\"><b>Go to the Exchange Screen</b><br>• Tap <b>Exchange</b> from the bottom navigation bar.</p></li><li><p class=\"no-margin\"><b>Set Up Source and Receiving Wallets</b><br>• <b>Source Wallet</b>: Select the original <b>FTM</b> wallet that held your funds.<br>• <b>Receiving Wallet</b>: <b>Must</b> select the <b>newly created Sonic</b> wallet (the one you just split).</p><p class=\"no-margin\">If you pick a different Sonic wallet (not the one created via “Split”), you’ll see an error:<br>“No enabled exchanges support this token.”</p></li><li><p class=\"no-margin\"><b>Enter the Amount</b><br>• Specify how many FTM you want to bridge into Sonic (minimum 1 FTM).<br>• Edge will display fees and the estimated Sonic amount you’ll receive.</p></li><li><p class=\"no-margin\"><b>Review and Confirm</b><br>• Double-check that <b>Source = FTM wallet</b> and <b>Destination = Sonic wallet</b>.<br>• Tap <b>Review Swap</b>.<br>• If everything looks correct, tap <b>Confirm</b>.</p></li></ol><p class=\"no-margin\">Edge will broadcast the bridging transaction. After a short wait, your Sonic wallet balance will update.</p><hr><h1 id=\"h_01JWYFHAJH64S8684FR29KEP1K\">Troubleshooting Tips</h1><ul><li><p class=\"no-margin\"><b>“No enabled exchanges support this token” Error</b><br>• Verify that you’re using the <b>exact</b> Sonic wallet created during the Split step.<br>• If you don’t see the Sonic wallet under Assets, make sure the Fant­om/Sonic Upgrade plugin is still enabled (Side Menu → Settings → Exchange Settings).</p></li><li><p class=\"no-margin\"><b>Insufficient Balance to Split</b><br>• You need at least <b>1 FTM</b> in the FTM wallet to perform a Split.<br>• If you have only fractional FTM (e.g., 0.5 FTM), you’ll need to deposit more or convert from another token first.</p></li><li><p class=\"no-margin\"><b>Swap Amount Below Minimum</b><br>• The swap requires ≥ 1 FTM. If you enter less, the app will prompt you to increase the amount.</p></li><li><p class=\"no-margin\"><b>Pending/Suspended Transactions</b><br>• Wait a few minutes for the blockchain to confirm.<br>• If the transaction remains pending for more than 10 minutes, check network status or view details in your FTM wallet’s transaction history.</p></li></ul><hr>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222685,
+  "updated_at": 1772222685,
+  "url": "https://support.edge.app/en/articles/13892314-how-to-swap-fantom-network-ftm-token-to-sonic-network-s-token-on-edge-wallet"
+}

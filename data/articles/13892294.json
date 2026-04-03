@@ -1,0 +1,44 @@
+{
+  "id": "13892294",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727251
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222659,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268654",
+        "name": "section:Edge Wallet Features",
+        "applied_at": 1772222659,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136010",
+  "title": "Does Edge have access to my funds or personal information?",
+  "description": "No, neither Edge nor any third party can access the private keys, or even the public addresses and transactional meta data of any users. P...",
+  "body": "<p class=\"no-margin\">No, neither Edge nor any third party can access the private keys, or even the public addresses and transactional meta data of any users. Private and public keys are generated on the user’s device and encrypted using THEIR login/password (Edge has no ability to decrypt the data). The encrypted data is then stored on their device and backed up to peer-to-peer cloud servers with a very high level of redundancy. User’s can access their funds from any compatible iPhone or Android device using the Edge mobile app and the same login &amp; password.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222658,
+  "updated_at": 1772222659,
+  "url": "https://support.edge.app/en/articles/13892294-does-edge-have-access-to-my-funds-or-personal-information"
+}

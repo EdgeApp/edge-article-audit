@@ -1,0 +1,44 @@
+{
+  "id": "13892247",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727250
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222595,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268612",
+        "name": "section:Basics",
+        "applied_at": 1772222595,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135959",
+  "title": "How long does it take for transactions to confirm?",
+  "description": "Bitcoin typically takes a few minutes, but can take up to a few hours for a transaction to confirm in some instances. This is largely depe...",
+  "body": "<p class=\"no-margin\">Bitcoin typically takes a few minutes, but can take up to a few hours for a transaction to confirm in some instances. This is largely dependent on the amount of traffic on the network and the fees paid to process that transaction.</p><p class=\"no-margin\"><b>NOTE:</b> During times of high network traffic please use caution when setting a fee to low or custom as this may result in your transaction getting stuck or even dropped.</p><p class=\"no-margin\">Litecoin, Ethereum, and other ERC20 Tokens (Wings, REP etc.) typically only take a few minutes for a confirmation, but are subject to similar network conditions.</p><p class=\"no-margin\"><a href=\"https://support.edge.app/hc/en-us/articles/7073321381019\" target=\"_blank\" class=\"intercom-content-link\">How do I get my pending transaction to confirm faster?</a></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222595,
+  "updated_at": 1772222595,
+  "url": "https://support.edge.app/en/articles/13892247-how-long-does-it-take-for-transactions-to-confirm"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "13892532",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223054,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268834",
+        "name": "label:partner",
+        "applied_at": 1772223054,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223054,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269271",
+        "name": "label:Partnerships",
+        "applied_at": 1772223054,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136261",
+  "title": "Partnerships",
+  "description": "If you would like to reach out team about partnerships or working with Edge on a project please email info@edge.com\n \nWhen contacting us p...",
+  "body": "<p class=\"no-margin\">If you would like to reach out team about partnerships or working with Edge on a project please email <a href=\"mailto:x@x.com\" target=\"_blank\" class=\"intercom-content-link\">info@edge.com</a></p><p class=\"no-margin\">When contacting us please include information such as your website and best contact information. We also would like to now how you believe we could work together.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223053,
+  "updated_at": 1772223054,
+  "url": "https://support.edge.app/en/articles/13892532-partnerships"
+}

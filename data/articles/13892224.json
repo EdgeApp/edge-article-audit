@@ -1,0 +1,54 @@
+{
+  "id": "13892224",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727245
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268599",
+        "name": "category:Account Access &amp; Security",
+        "applied_at": 1772222562,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268601",
+        "name": "label:AI-generated",
+        "applied_at": 1772222562,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268602",
+        "name": "section:Account Security &amp; Compromises",
+        "applied_at": 1772222562,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135936",
+  "title": "What to Do If Your Edge Account Is Compromised or Hacked",
+  "description": "Security is at the core of Edge’s philosophy, yet even with robust safeguards, compromises can happen. If your Edge cryptocurrency wallet ...",
+  "body": "<p class=\"no-margin\">Security is at the core of Edge’s philosophy, yet even with robust safeguards, compromises can happen. If your Edge cryptocurrency wallet has been hacked or accessed by an unauthorized party, it is crucial to act quickly. This guide will walk you through immediate actions, account recovery, and protective measures to restore your financial safety and confidence.</p><h1 id=\"h_64fe4dc089\">Immediate Steps to Take</h1><ol><li><p class=\"no-margin\">Cease using the compromised account immediately to prevent further unauthorized activity.</p></li><li><p class=\"no-margin\">Create a brand-new Edge profile with a unique username and a strong, never-before-used password.</p></li><li><p class=\"no-margin\">Do not attempt to simply change your password—compromised profiles may have deeper vulnerabilities.</p></li></ol><h1 id=\"h_47c5338e4b\">Review Your Security Settings and Account Activity</h1><ul><li><p class=\"no-margin\">Check your Edge login activity for any suspicious logins or device authorizations.</p></li><li><p class=\"no-margin\">Edge sends notifications of new login attempts—review and immediately deny unauthorized requests.</p></li></ul><h1 id=\"h_766b66f11a\">Reporting Losses and Seeking Support</h1><ul><li><p class=\"no-margin\">Report stolen assets to authorities like the Internet Crime Complaint Center (IC3), Action Fraud (UK), or ChainAbuse.</p></li><li><p class=\"no-margin\">Consult with victim support organizations such as VictimConnect or seek crypto crime consulting from services like Coinstructive.</p></li></ul><h1 id=\"h_f74f16d2a4\">Preventing Future Compromises</h1><ul><li><p class=\"no-margin\">Use Edge’s enhanced security features like client-side encryption and Duress Mode.</p></li><li><p class=\"no-margin\">Avoid reusing usernames or passwords from other services to reduce risk.</p></li><li><p class=\"no-margin\">Stay skeptical of unsolicited financial opportunities and communications online.</p></li></ul><h1 id=\"h_55b66ad626\">Conclusion: Your Security Is Our Priority</h1><p class=\"no-margin\">Experiencing a compromise is stressful, but taking swift, informed action can help protect your assets and regain control. By adopting Edge’s best practices and staying vigilant, you support your own financial freedom and security. Explore our Help Center or contact the Edge team for further assistance with account security.</p>",
+  "author_id": 9849332,
+  "state": "draft",
+  "created_at": 1772222562,
+  "updated_at": 1772222562,
+  "url": null
+}

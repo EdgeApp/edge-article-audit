@@ -1,0 +1,154 @@
+{
+  "id": "13892485",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772222971,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772222971,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772222971,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772222971,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222971,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222971,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772222971,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269058",
+        "name": "label:Fee",
+        "applied_at": 1772222971,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772222971,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772222971,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269092",
+        "name": "label:Tezos XTZ Network Fees",
+        "applied_at": 1772222971,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269093",
+        "name": "label:Tezos Network Fees",
+        "applied_at": 1772222971,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269094",
+        "name": "label:Tezos XTZ Network",
+        "applied_at": 1772222971,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136210",
+  "title": "Tezos XTZ Network Fees",
+  "description": "Tezos (XTZ) Network – Smart Contracts with Low, Predictable Fees\nTezos offers smart contract functionality with self-amending governance a...",
+  "body": "<h1 id=\"h_01JSZ621T4EV4C5WH1686RCQP8\">Tezos (XTZ) Network – Smart Contracts with Low, Predictable Fees</h1><p class=\"no-margin\">Tezos offers smart contract functionality with self-amending governance and efficient transaction fees.</p><h2 id=\"h_01JSZ621T4Z3M34D8MCYPS85AB\">How XTZ Fees Work</h2><ul><li><p class=\"no-margin\"><b>Flat minimal fees</b>, paid in <b>XTZ</b>.</p></li><li><p class=\"no-margin\">Fees may vary slightly depending on network load and smart contract complexity.</p></li></ul><p class=\"no-margin\">Edge dynamically estimates the best fee for your transaction.</p><hr><h2 id=\"h_01JSZ621T4KZPVTYEW3P3PNSE6\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>High</b> – For quick inclusion</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Best balance</p></li><li><p class=\"no-margin\"><b>Low</b> – Save a little more</p></li><li><p class=\"no-margin\"><b>Custom</b> – Full manual fee setup</p></li></ul><hr><h2 id=\"h_01JSZ621T4YYXJSRZKK2468P7W\">Average Cost</h2><p class=\"no-margin\">Typically <b>$0.002 to $0.05 USD</b> per transaction.</p><hr><h2 id=\"h_01JSZ621T4BT7VCWPS41BVJFQW\">Why It Matters</h2><p class=\"no-margin\">Tezos provides efficient smart contracts and payments without crazy gas spikes. Edge makes sending XTZ smooth and easy with smart, automatic fee estimation.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222970,
+  "updated_at": 1772222972,
+  "url": "https://support.edge.app/en/articles/13892485-tezos-xtz-network-fees"
+}

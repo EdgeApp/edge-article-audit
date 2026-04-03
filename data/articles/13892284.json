@@ -1,0 +1,84 @@
+{
+  "id": "13892284",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727251
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222646,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268654",
+        "name": "section:Edge Wallet Features",
+        "applied_at": 1772222646,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268679",
+        "name": "label:Buy",
+        "applied_at": 1772222646,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268680",
+        "name": "content-tag:buy",
+        "applied_at": 1772222646,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268681",
+        "name": "content-tag:Partner",
+        "applied_at": 1772222646,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268682",
+        "name": "content-tag:Payment Method",
+        "applied_at": 1772222646,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135999",
+  "title": "How do I buy Bitcoin, Ethereum, Bitcoin Cash, and more using a credit/debit card?",
+  "description": "You can purchase Bitcoin, Ethereum, Bitcoin Cash, Litecoin, and XRP through Edge providers! Most purchases are complete and delivered to y...",
+  "body": "<p class=\"no-margin\">You can purchase Bitcoin, Ethereum, Bitcoin Cash, Litecoin, and XRP through Edge providers! Most purchases are complete and delivered to your Edge account in less than 30 minutes.</p><ol><li><p class=\"no-margin\">Tap on “Buy” at the bottom of the screen or the \"Buy Crypto\" tile.</p></li><li><p class=\"no-margin\">Select region and then tap \"Credit and Debit Card\"</p></li><li><p class=\"no-margin\">Select which asset you will be purchasing</p></li><li><p class=\"no-margin\">Enter the amount you'd like to purchase</p></li><li><p class=\"no-margin\">Follow the prompts from the selected partner.<br><br>​</p></li></ol><h1 id=\"h_01HNXSMZZMHEBZQ5MBNDRJ972D\">All done!</h1><h1 id=\"h_01JP0P1MSN6JG8BJJ9JF7FCK5E\">Keep in mind, some cards/banks decline cryptocurrency related transactions. Please reach out directly to the partner if you run into any verification issues.</h1>",
+  "author_id": 9849332,
+  "state": "draft",
+  "created_at": 1772222645,
+  "updated_at": 1772222646,
+  "url": null
+}

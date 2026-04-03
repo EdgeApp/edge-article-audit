@@ -1,0 +1,64 @@
+{
+  "id": "13892574",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727267
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268623",
+        "name": "content-tag:Edge Feature",
+        "applied_at": 1772223116,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269295",
+        "name": "category:FAQ",
+        "applied_at": 1772223116,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269318",
+        "name": "section:Market Analysis",
+        "applied_at": 1772223116,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269319",
+        "name": "label:charts",
+        "applied_at": 1772223116,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136305",
+  "title": "Reading Market Metrics",
+  "description": "It is important to understand each of the statistics when considering investing in a particular cryptocurrency. Below are some definitions...",
+  "body": "<p class=\"no-margin\">It is important to understand each of the statistics when considering investing in a particular cryptocurrency. Below are some definitions that may be helpful when evaluating potential cryptocurrency investments.</p><p class=\"no-margin\"><b>Price:</b></p><p class=\"no-margin\">This is the price for one (1) single token of the cryptocurrency. Multiplying the price by the token balance will determine the current value of the balance of tokens.</p><p class=\"no-margin\"><br><b>Total Supply:</b></p><p class=\"no-margin\">This is the total number of tokens that currently exist for this asset. Some cryptocurrencies have a static supply, but others may have an inflation schedule for distributing new tokens to the ecosystem.</p><p class=\"no-margin\"><br><b>Market Cap:</b></p><p class=\"no-margin\">The market cap is a calculation of the value for the entire supply of the specific cryptocurrency. This is calculated by multiplying the current token price by the current number of tokens in circulation.</p><p class=\"no-margin\"><b>FDV - Fully Diluted Evaluation:</b></p><p class=\"no-margin\">The fully diluted evaluation (FDV) is similar to the market cap, but also includes the total number of tokens that exist. For some cryptocurrencies, only a portion of the supply is currently tradable, so the FDV is the calculation of what the market cap would be if all the current tokens were in circulation.</p><p class=\"no-margin\"><b>Liquidity:</b></p><p class=\"no-margin\">The liquidity for an asset is the amount of funds available in a liquidity pool for swapping. A low amount of liquidity means that there are less tradable funds in the pool to redeem when selling (or purchasing) the cryptocurrency and can lead to increase slippage - resulting in a poor exchange rate.<br><br>​</p><p class=\"no-margin\"><b>Volume:</b></p><p class=\"no-margin\">Typically measured over a 24-hour period, the volume indicates the total amount of funds that have been transacted with this cryptocurrency (buying or selling) and can be a strong indicator of the interest in the asset.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223116,
+  "updated_at": 1772223116,
+  "url": "https://support.edge.app/en/articles/13892574-reading-market-metrics"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "13892566",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727266
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13269295",
+        "name": "category:FAQ",
+        "applied_at": 1772223105,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269300",
+        "name": "section:Blockchain Basics",
+        "applied_at": 1772223105,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136296",
+  "title": "Why do I need a minimum balance of 1 Stellar (XLM) to open a wallet on Edge?",
+  "description": "When you first create a new Stellar XLM wallet, you’ll see a warning popup when you first enter the wallet about having a minimum of 1 XLM...",
+  "body": "<p class=\"no-margin\">When you first create a new Stellar XLM wallet, you’ll see a warning popup when you first enter the wallet about having a minimum of 1 XLM in order to use the wallet. This minimum balance amount is not something that Edge chooses to do but is part of the rules set in place with the Stellar community.</p><p class=\"no-margin\">All Stellar accounts must maintain a minimum balance of lumens. Any transaction that would reduce an account’s balance to less than the minimum will be rejected with an <code>INSUFFICIENT_BALANCE</code> error (<a href=\"https://www.stellar.org/developers/guides/concepts/fees.html\" target=\"_blank\" class=\"intercom-content-link\">https://www.stellar.org/developers/guides/concepts/fees.html</a>).</p><p class=\"no-margin\">If you are interested in learning more about how Stellar (XLM) works, you can take a look <a href=\"https://www.stellar.org/developers/\" target=\"_blank\" class=\"intercom-content-link\">here</a>.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223104,
+  "updated_at": 1772223105,
+  "url": "https://support.edge.app/en/articles/13892566-why-do-i-need-a-minimum-balance-of-1-stellar-xlm-to-open-a-wallet-on-edge"
+}

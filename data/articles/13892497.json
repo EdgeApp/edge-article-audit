@@ -1,0 +1,174 @@
+{
+  "id": "13892497",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772222993,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772222993,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772222993,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772222993,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222993,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222993,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772222993,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269058",
+        "name": "label:Fee",
+        "applied_at": 1772222993,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772222993,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772222993,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269140",
+        "name": "label:Algorand",
+        "applied_at": 1772222993,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269141",
+        "name": "label:ALGO",
+        "applied_at": 1772222993,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269142",
+        "name": "label:Algorand ALGO Network Fees",
+        "applied_at": 1772222993,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269143",
+        "name": "label:Algorand ALGO Network",
+        "applied_at": 1772222994,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269144",
+        "name": "label:Algorand ALGO",
+        "applied_at": 1772222994,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136223",
+  "title": "Algorand ALGO Network Fees",
+  "description": "Algorand (ALGO) Network – Instant and Predictable\nAlgorand is famous for fast, low-cost transactions with predictable flat fees.\nHow ALGO ...",
+  "body": "<h1 id=\"h_01JSZ3WEJNRF2NDRVY26XW6FCE\">Algorand (ALGO) Network – Instant and Predictable</h1><p class=\"no-margin\">Algorand is famous for fast, low-cost transactions with predictable flat fees.</p><h2 id=\"h_01JSZ3WEJNP5NMYKCPPSQK9KBY\">How ALGO Fees Work</h2><ul><li><p class=\"no-margin\"><b>Flat minimum fee</b> (usually 0.001 ALGO)</p></li><li><p class=\"no-margin\"><b>Small adjustments for very complex transactions</b></p></li></ul><p class=\"no-margin\">Edge automatically applies the correct fee without needing user adjustment.</p><hr><h2 id=\"h_01JSZ3WEJN3VWPP9NKFWCS90ZF\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>One flat fee</b> — minimal and instant confirmation.</p></li></ul><hr><h2 id=\"h_01JSZ3WEJNK6NZ8EKH67W84AB7\">Average Cost</h2><p class=\"no-margin\">Around <b>$0.0015 USD</b> per transaction.</p><hr><h2 id=\"h_01JSZ3WEJNWAQ0HYYH7GP9P9T4\">Why It Matters</h2><p class=\"no-margin\">Algorand’s reliability and cheap fees make it ideal for quick payments. With Edge, you get instant transactions without worrying about fee settings.</p><hr><h1 id=\"h_01JSZ3WEJNBXWAXQAAYM2WW0F0\">Filecoin (FIL) Network Fees – Storage-Focused Transactions</h1><p class=\"no-margin\">Filecoin isn’t just crypto—it’s built for decentralized storage, but regular FIL transfers are still simple.</p><h2 id=\"h_01JSZ3WEJNESAXR5QP6HV8V9WJ\">How FIL Fees Work</h2><ul><li><p class=\"no-margin\"><b>Base fee</b> based on network load</p></li><li><p class=\"no-margin\"><b>Priority fee</b> if you want faster confirmation</p></li></ul><p class=\"no-margin\">Fees are automatically estimated by Edge.</p><hr><h2 id=\"h_01JSZ3WEJNN973N5CKN3Q7J1S3\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>High</b> – For quicker confirmation</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Standard for everyday transfers</p></li><li><p class=\"no-margin\"><b>Low</b> – Accept slower confirmation to save</p></li><li><p class=\"no-margin\"><b>Custom</b> – Full manual gas setting</p></li></ul><hr><h2 id=\"h_01JSZ3WEJN24ZWSRX1FWC8FHGW\">Average Cost</h2><p class=\"no-margin\">Typically <b>$0.05 to $0.20 USD</b> depending on network demand.</p><hr><h2 id=\"h_01JSZ3WEJPFC62GJ4HHCJHE0W5\">Why It Matters</h2><p class=\"no-margin\">Filecoin manages real-world data, and Edge Wallet makes sending FIL fast and cost-effective with smart fee estimation.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222993,
+  "updated_at": 1772222994,
+  "url": "https://support.edge.app/en/articles/13892497-algorand-algo-network-fees"
+}

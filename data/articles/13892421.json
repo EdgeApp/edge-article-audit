@@ -1,0 +1,114 @@
+{
+  "id": "13892421",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268611",
+        "name": "label:exchange",
+        "applied_at": 1772222855,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222855,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222855,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268843",
+        "name": "label:swap",
+        "applied_at": 1772222855,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268844",
+        "name": "content-tag:Centralized Exchange",
+        "applied_at": 1772222855,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268855",
+        "name": "label:Exolix Exchange",
+        "applied_at": 1772222855,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268856",
+        "name": "label:DEX",
+        "applied_at": 1772222855,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268857",
+        "name": "label:Decentralized Exchange",
+        "applied_at": 1772222855,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268858",
+        "name": "label:Exolix",
+        "applied_at": 1772222855,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136145",
+  "title": "Exolix – Exchange Integration in Edge Wallet",
+  "description": "Type: Centralized Exchange (CEX)\nCentralized exchanges must follow anti-money laundering (AML) laws. In order to stay within compliance, t...",
+  "body": "<p class=\"no-margin\"><b>Type:</b> Centralized Exchange (CEX)</p><p class=\"no-margin\">Centralized exchanges must follow anti-money laundering (AML) laws. In order to stay within compliance, they may have trading limits and may also require your identity to meet Know Your Customer (KYC) requirements.</p><p class=\"no-margin\"><b>Overview:</b> Exolix is an instant cryptocurrency exchange that supports crypto swaps without registration under most conditions. However, their compliance policy includes an active AML/KYC protocol. If a transaction is flagged as suspicious or high-risk, users may be required to submit personal information and documents for verification. Exolix uses third-party verification services and complies with regulatory frameworks to prevent illicit activity and protect users from fraud.</p><p class=\"no-margin\"><b>Email Support:</b> Users can send an email to support@exolix.com to receive support.</p><h1 id=\"h_01JSFVBEFSJWRNYZNVGG5VSV6X\">How to Manage Exchange Settings in Edge</h1><p class=\"no-margin\">To access your exchange settings in Edge Wallet:</p><ol><li><p class=\"no-margin\">Tap the <b>three lines</b> in the upper right-hand corner</p></li><li><p class=\"no-margin\">Tap on <b>Settings</b></p></li><li><p class=\"no-margin\">Tap <b>Exchange Settings</b></p></li><li><p class=\"no-margin\">Here, you can turn exchange partners <b>on or off</b>, and customize your preferences. When multiple exchanges can fill an order, you can also choose to automatically select the best price or prioritize a preferred exchange.</p></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222855,
+  "updated_at": 1772222856,
+  "url": "https://support.edge.app/en/articles/13892421-exolix-exchange-integration-in-edge-wallet"
+}

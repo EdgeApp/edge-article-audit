@@ -1,0 +1,74 @@
+{
+  "id": "13892230",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727249
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222568,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268606",
+        "name": "section:Getting Started",
+        "applied_at": 1772222568,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268607",
+        "name": "label:Receive",
+        "applied_at": 1772222568,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268608",
+        "name": "label:Binance",
+        "applied_at": 1772222569,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268609",
+        "name": "content-tag:withdrawals",
+        "applied_at": 1772222569,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135942",
+  "title": "Avoiding mistakes while withdrawing from Binance to Your Edge Wallet",
+  "description": "Withdrawing cryptocurrency from Binance to your Edge wallet requires a bit of attention to network selection. Choosing the wrong network c...",
+  "body": "<p class=\"no-margin\">Withdrawing cryptocurrency <b>from Binance to your Edge</b> wallet requires a bit of attention to network selection. Choosing the wrong network can result in inaccessible funds since it's possible that Edge does not support yet the chosen network or we don't plan to support it at all. <br>This article serves as a precautionary guide to help you navigate the process safely.<br><br>​</p><h1 id=\"h_01JR0HXDGHFYM5GD5JC8XDFV7W\">Understanding Networks: Not All Are the Same</h1><p class=\"no-margin\"><b>Each cryptocurrency operates on a specific network</b>, and using the correct one is crucial. Mistakes in network selection are one of the most common reasons users lose funds.<br>Luckily, every wallet in Edge is non-custodial, so, if you make some mistakes, it is still possible to recover funds. However, this comes with a lot of steps that might be too hard to follow for a non-expert user.</p><h1 id=\"h_01JR0HX83XQHV8ZGEJJRYVZG06\">Mainnet Coins vs. Tokens on Different Chains</h1><p class=\"no-margin\">Usually, <b>coins such as Bitcoin (BTC), Litecoin (LTC), Dogecoin (DOGE), Tron (TRX)</b> and other assets have their own blockchain networks, named after the coin itself. <br>You should always withdraw them on their native network (e.g., Bitcoin for BTC, Litecoin for LTC, Tron for TRX...). <b>If sent via a different network, they will become wrapped tokens</b> and you will need a few mainnet coins of that specific network if you want to move or swap them in the future.<br>We will see later some examples to clarify this concept.</p><p class=\"no-margin\"><b>Ethereum (ETH) exists on multiple networks</b>.<br>ETH primarily lives on the Ethereum mainnet but is also supported on Ethereum Layer 2 (L2) networks such as Optimism, Base, zkSync, BOB, and others. If withdrawing ETH, ensure that the chosen network matches the one your Edge wallet supports.<br><b>Tokens such as USDT (Tether) can exist on multiple networks</b>.<br>Common ones include Ethereum (ERC20), Binance Smart Chain (BEP20), TRON (TRC20), and Base. Selecting the wrong network can render the funds not immediately accessible and you will need to use external tools.</p><h1 id=\"h_01JR0J4JPYHXTK3H5WB98C0NVW\">Common Mistakes and Their Consequences</h1><p class=\"no-margin\"><b>1. Withdrawing a mainnet coin on a non-native network</b><br>- Example: Withdrawing BTC using BEP20 instead of the Bitcoin network means you’ll receive a wrapped version of Bitcoin that requires Binance Smart Chain support. You will then need some BNB on your Binance Smart Chain wallet inside your Edge account if you want to move your tokens.</p><p class=\"no-margin\"><b>2. Sending ETH to the wrong network</b><br>- Example: Withdrawing ETH from Binance using BSC instead of Ethereum (ERC20) turns ETH into a Binance Smart Chain token. To move it, you’ll need BNB for transaction fees.</p><p class=\"no-margin\"><b>3. Sending Ethereum to a L2 instead of an Ethereum wallet</b>: if you want to receive ETH into your Ether wallet, but you select Optimism or any other L2 Ethereum network, you won't immediately see your funds and you will need to split your Ethereum wallet into the chosen network to have access to your coins.</p><p class=\"no-margin\"><b>4. Selecting an unsupported network for tokens</b><br>- Example: Sending USDT on OPBNB network when Edge only supports BNB means the funds won’t show up in your wallet. Recovering them may require importing your private key into a OPBNB-compatible app.</p><p class=\"no-margin\">---</p><h1 id=\"h_01JR0JC9ZCK9S91H161A5CHTNQ\">Best Practices for Safe Withdrawals</h1><p class=\"no-margin\">- <b>Double-check network compatibility before withdrawing any asset</b>. From Assets, you can tap the \"+\" symbol, enter the code of the crypto you want to withdraw and observe the supported networks within the results.<br>- <b>Confirm that Edge supports the network for the asset you’re withdrawing</b>. If unsure, contact Edge support at <a href=\"mailto:support@edge.app\" target=\"_blank\" class=\"intercom-content-link\">support@edge.app</a>.</p><p class=\"no-margin\">- <b>Use the network with the same name of the asset you are withdrawing if you are not an advanced user</b>.<br>- <b>Be cautious with Layer 2 networks</b>. If withdrawing ETH to a L2, confirm first that your Edge wallet supports that network.</p><h1 id=\"h_01JR0JW0NBGXG2CKDYND7QTAR8\">When in Doubt, Ask for Help!</h1><p class=\"no-margin\"><b>If you’re unsure about the correct network for your withdrawal, don’t take risks</b>. Contact our support team before making a transaction.</p><p class=\"no-margin\">By following these guidelines and staying informed, you can avoid mistakes and ensure smooth, secure withdrawals from Binance to your Edge wallet.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222568,
+  "updated_at": 1772222569,
+  "url": "https://support.edge.app/en/articles/13892230-avoiding-mistakes-while-withdrawing-from-binance-to-your-edge-wallet"
+}

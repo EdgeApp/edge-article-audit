@@ -1,0 +1,44 @@
+{
+  "id": "13892347",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222735,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222735,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136068",
+  "title": "Recover BCH sent to a \"segwit\" Bitcoin address",
+  "description": "Unfortunately, due to rules in the BCH network, there is no way for our wallet or engineers to recover your Bitcoin Cash - however, your f...",
+  "body": "<h1 id=\"h_01K0W8YCQY468C0M8A7F7YM11P\">Unfortunately, due to rules in the BCH network, there is no way for our wallet or engineers to recover your Bitcoin Cash - however, your funds may be recoverable with the help of a BCH miner!</h1><p class=\"no-margin\"><i>They can use your wallet information to create a transaction on your behalf and include it in a block that they mine (for a fee)</i></p><p class=\"no-margin\">They require three pieces of information in order to recover your funds.</p><ol><li><p class=\"no-margin\">The Bitcoin Cash <b>T</b><b>ransaction ID</b> (hash)</p><ul><li><p class=\"no-margin\">Find this in your sent transaction details</p></li></ul></li><li><p class=\"no-margin\"><b>Public Key</b> for the Bitcoin address where the funds were sent</p><ul><li><p class=\"no-margin\">This is different from your normal receiving address needs to found using a derivation tool: <a href=\"https://edge.app/recovery\" target=\"_blank\" class=\"intercom-content-link\">https://edge.app/recovery</a></p><ol><li><p class=\"no-margin\">In Edge, tap and hold on the BTC wallet that holds the misplaced BCH</p></li><li><p class=\"no-margin\">Tap on Master Private Key</p></li><li><p class=\"no-margin\">Write down the private seed phrase exactly</p></li><li><p class=\"no-margin\">Enter the seed phrase in the <a href=\"https://edge.app/recovery\" target=\"_blank\" class=\"intercom-content-link\">derivation tool</a> - \"BIP39 Mnemonic\" field</p></li><li><p class=\"no-margin\">Under Derivation Path, select BIP49</p></li><li><p class=\"no-margin\">Under Derived Addresses, find the address where the funds were sent</p></li><li><p class=\"no-margin\">The public key you is listed right next to this BCH address</p></li></ol></li></ul></li><li><p class=\"no-margin\">An <b>A</b><b>ddress to Receive</b> Bitcoin Cash</p><ul><li><p class=\"no-margin\">This is the address you want the recovered BCH sent to. In Edge, your BCH wallet address will begin with “q...”</p></li></ul></li></ol><p class=\"no-margin\">Share these three pieces of information with a BCH miner and they may agree to attempt to recover your funds.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222734,
+  "updated_at": 1772222735,
+  "url": "https://support.edge.app/en/articles/13892347-recover-bch-sent-to-a-segwit-bitcoin-address"
+}

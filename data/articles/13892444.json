@@ -1,0 +1,74 @@
+{
+  "id": "13892444",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268682",
+        "name": "content-tag:Payment Method",
+        "applied_at": 1772222894,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222894,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222894,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268936",
+        "name": "label:Apple Pay",
+        "applied_at": 1772222894,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268941",
+        "name": "label:Simplex",
+        "applied_at": 1772222894,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136169",
+  "title": "Using Simplex in Edge Wallet",
+  "description": "Edge Wallet integrates with Simplex, enabling users to purchase cryptocurrencies seamlessly within the app.\nAccepted Payment Methods\nBuy C...",
+  "body": "<p class=\"no-margin\">Edge Wallet integrates with Simplex, enabling users to purchase cryptocurrencies seamlessly within the app.</p><h1 id=\"h_01JRV7F9ATPW2P1EP3EYAW509P\">Accepted Payment Methods</h1><p class=\"no-margin\"><b>Buy Crypto:</b></p><ul><li><p class=\"no-margin\">Credit/Debit Cards (Visa, MasterCard) <i>~5-7% • Settlement: ~10-30 Minutes </i></p></li><li><p class=\"no-margin\">Apple Pay (iOS devices) <i>~5-7% • Settlement: ~10-30 Minutes </i></p></li><li><p class=\"no-margin\">Google Pay (Android devices) <i>~5-7% • Settlement: ~10-30 Minutes </i></p></li></ul><p class=\"no-margin\"><b>Sell Crypto:</b></p><p class=\"no-margin\"><i>*Note: Payment method availability varies by country and region.</i></p><hr><h1 id=\"h_01JRV7F9ATDNQ3BAYHYRTE62BV\">Supported Regions</h1><p class=\"no-margin\">Simplex's services are accessible in over 190 countries. However, certain regions are restricted due to regulatory reasons.</p><p class=\"no-margin\"><b>Supported Regions Include:</b></p><ul><li><p class=\"no-margin\"><b>North America:</b> United States (excluding Hawaii, New York, Louisiana, Alaska, Nevada, New Mexico, Washington, Vermont, Florida), Canada</p></li><li><p class=\"no-margin\"><b>Europe:</b> United Kingdom, Germany, France, Spain, Italy, Netherlands, and more</p></li><li><p class=\"no-margin\"><b>Asia-Pacific:</b> Australia, New Zealand, South Korea, Japan, and others</p></li><li><p class=\"no-margin\"><b>Latin America:</b> Brazil, Mexico, Argentina, Chile, and more</p></li><li><p class=\"no-margin\"><b>Africa:</b> South Africa, Nigeria, Kenya, and others</p></li></ul><p class=\"no-margin\"><b>Restricted Regions:</b></p><ul><li><p class=\"no-margin\">Afghanistan</p></li><li><p class=\"no-margin\">Algeria</p></li><li><p class=\"no-margin\">Angola</p></li><li><p class=\"no-margin\">Bangladesh</p></li><li><p class=\"no-margin\">Belarus</p></li><li><p class=\"no-margin\">Bolivia</p></li><li><p class=\"no-margin\">Bulgaria</p></li><li><p class=\"no-margin\">Burkina Faso</p></li><li><p class=\"no-margin\">Cameroon</p></li><li><p class=\"no-margin\">China</p></li><li><p class=\"no-margin\">Congo Democratic Republic (Kinshasa)</p></li><li><p class=\"no-margin\">Côte d'Ivoire</p></li><li><p class=\"no-margin\">Croatia</p></li><li><p class=\"no-margin\">Cuba</p></li><li><p class=\"no-margin\">Democratic People's Republic of Korea</p></li><li><p class=\"no-margin\">Gibraltar</p></li><li><p class=\"no-margin\">Haiti</p></li><li><p class=\"no-margin\">Iran</p></li><li><p class=\"no-margin\">Jamaica</p></li><li><p class=\"no-margin\">Jordan</p></li><li><p class=\"no-margin\">Kenya</p></li><li><p class=\"no-margin\">Kyrgyzstan</p></li><li><p class=\"no-margin\">Lebanon</p></li><li><p class=\"no-margin\">Libya</p></li><li><p class=\"no-margin\">Mali</p></li><li><p class=\"no-margin\">Monaco</p></li><li><p class=\"no-margin\">Mozambique</p></li><li><p class=\"no-margin\">Myanmar (Burma)</p></li><li><p class=\"no-margin\">Namibia</p></li><li><p class=\"no-margin\">Nigeria</p></li><li><p class=\"no-margin\">Palestinian Territory</p></li><li><p class=\"no-margin\">Panama</p></li><li><p class=\"no-margin\">Philippines</p></li><li><p class=\"no-margin\">Region of Crimea</p></li><li><p class=\"no-margin\">Region of Donetsk</p></li><li><p class=\"no-margin\">Region of Luhansk</p></li><li><p class=\"no-margin\">Russian Federation</p></li><li><p class=\"no-margin\">Senegal</p></li><li><p class=\"no-margin\">Somalia</p></li><li><p class=\"no-margin\">South Africa</p></li><li><p class=\"no-margin\">South Sudan</p></li><li><p class=\"no-margin\">North Sudan</p></li><li><p class=\"no-margin\">Syria</p></li><li><p class=\"no-margin\">Tanzania</p></li><li><p class=\"no-margin\">Trinidad and Tobago</p></li><li><p class=\"no-margin\">United Kingdom</p></li><li><p class=\"no-margin\">Vanuatu</p></li><li><p class=\"no-margin\">Venezuela</p></li><li><p class=\"no-margin\">Vietnam</p></li><li><p class=\"no-margin\">Yemen</p></li><li><p class=\"no-margin\">Zimbabwe</p></li></ul><p class=\"no-margin\"><i>*Please note that the list of supported regions is subject to change.</i></p><hr><h1 id=\"h_01JRV7F9AVJSDDDJ1J5F2CGYQ3\">Getting Started</h1><ol><li><p class=\"no-margin\"><b>Open Edge Wallet:</b> Launch the Edge Wallet app on your device.</p></li><li><p class=\"no-margin\"><b>Navigate to Buy/Sell:</b> Tap on the \"Buy\" or \"Sell\" option.</p></li><li><p class=\"no-margin\"><b>Select Your Region:</b> Tap \"Select Region\" and choose your country/state.</p></li><li><p class=\"no-margin\"><b>Select Simplex:</b> Choose Simplex as your service provider.</p></li><li><p class=\"no-margin\"><b>Enter Details:</b> Input the required information and follow the prompts to complete your transaction.</p></li></ol><hr><h1 id=\"h_01JRV7F9AVTH2GWZTNT408WZ7V\">Contact Information</h1><ul><li><p class=\"no-margin\"><b>Simplex Support:</b> <a href=\"https://www.simplex.com/support\" target=\"_blank\" class=\"intercom-content-link\">https://www.simplex.com/support</a></p></li></ul>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222894,
+  "updated_at": 1772222894,
+  "url": "https://support.edge.app/en/articles/13892444-using-simplex-in-edge-wallet"
+}

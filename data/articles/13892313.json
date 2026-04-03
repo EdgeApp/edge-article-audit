@@ -1,0 +1,104 @@
+{
+  "id": "13892313",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222683,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222683,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268710",
+        "name": "label:Accelerating Ethereum",
+        "applied_at": 1772222683,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268711",
+        "name": "label:Accelerating Ethereum &amp; EVM Transactions",
+        "applied_at": 1772222683,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268712",
+        "name": "label:Accelerating",
+        "applied_at": 1772222683,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268713",
+        "name": "label:Accelerating EVM Transactions",
+        "applied_at": 1772222683,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268714",
+        "name": "label:Accelerating Transactions",
+        "applied_at": 1772222683,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268715",
+        "name": "content-tag:Accelerating Ethereum &amp; EVM Transactions",
+        "applied_at": 1772222683,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136031",
+  "title": "Accelerating Ethereum & EVM Transactions in Edge Wallet",
+  "description": "This guide explains when to accelerate a stuck transaction and how to do it in Edge for Ethereum and EVM chains (Arbitrum, Base, BNB Smart...",
+  "body": "<p class=\"no-margin\">This guide explains <b>when</b> to accelerate a stuck transaction and <b>how</b> to do it in Edge for Ethereum and EVM chains (Arbitrum, Base, BNB Smart Chain, Pol, Avalanche-C, etc.).</p><hr><h1 id=\"h_01K234V6532EKVX8SHS97JTV58\">What “accelerate” actually does</h1><ul><li><p class=\"no-margin\">Every account uses a <b>nonce</b> (0,1,2…). The <b>oldest pending</b> nonce must confirm before any newer transaction can confirm.</p></li><li><p class=\"no-margin\"><b>Accelerate (Speed Up)</b> = send the <b>same transaction</b> again with the <b>same nonce</b> but <b>higher gas</b> so miners/validators prefer it.</p></li></ul><hr><h1 id=\"h_01K234V65AAE56W8FT56F2955B\">When should you accelerate?</h1><ul><li><p class=\"no-margin\">A send/contract call shows <b>Pending</b> far longer than typical blocks (e.g., &gt;5–10 minutes on ETH mainnet).</p></li><li><p class=\"no-margin\">You chose <b>low fees</b> or network congestion spiked after you sent.</p></li><li><p class=\"no-margin\">A <b>stuck older nonce</b> is blocking newer transactions.</p></li></ul><p class=\"no-margin\"><b>Don’t accelerate</b> if:</p><ul><li><p class=\"no-margin\">The transaction is already <b>confirmed</b> (cannot be changed).</p></li><li><p class=\"no-margin\">You don’t have enough <b>native coin</b> (ETH / MATIC / BNB, etc.) to pay the higher fee.</p></li><li><p class=\"no-margin\">The network explorer shows the tx in a <b>very recent block</b> (just wait for confirmations/propagation).</p></li></ul><hr><h1 id=\"h_01K234V65HJTSSW2XBQR9GSVT8\">How to accelerate in Edge</h1><ol><li><p class=\"no-margin\"><b>After sending on Edge → Tap Assets → Tap Desired Wallet →</b> Tap the <b>pending</b> transaction in your recent transaction history.</p></li><li><p class=\"no-margin\">Tap \"<b>Accelerate this transaction\"</b>.</p></li><li><p class=\"no-margin\"><b>Confirm</b> and and slide to submit.</p></li></ol><hr><h1 id=\"h_01K234V65V6NJXWD9N6JQT6RKB\">How to check current fees</h1><ul><li><p class=\"no-margin\">Gas Tracker <a href=\"https://etherscan.io/gastracker\" target=\"_blank\" class=\"intercom-content-link\">https://etherscan.io/gastracker</a></p></li></ul><hr><h1 id=\"h_01K234V660B0KKBP0X5TYM04R4\">Network notes (EVM chains)</h1><ul><li><p class=\"no-margin\"><b>ETH mainnet</b>: EIP-1559 required. Congestion varies widely—use higher buffers during NFT mints/airdrops/major events.</p></li><li><p class=\"no-margin\"><b>Layer-2s (Arbitrum/Optimism/Base)</b>: Fees are low but spikes happen; the same replacement rules apply.</p></li><li><p class=\"no-margin\"><b>Polygon/BNB/Avalanche/Fantom</b>: Some RPCs are strict about the <b>minimum bump</b>—if you get “underpriced,” increase both tip and max fee more.</p></li></ul><hr><h1 id=\"h_01K234V662BDDAZ0M3S5WB4VV0\">Troubleshooting</h1><ul><li><p class=\"no-margin\"><b>Still pending after speed-up:</b></p><ul><li><p class=\"no-margin\">The tx might already be in a block that your app hasn’t shown yet → check on a block explorer by <b>hash</b>.</p></li></ul></li><li><p class=\"no-margin\"><b>Newer txs won’t confirm:</b></p><ul><li><p class=\"no-margin\">An <b>older nonce</b> is stuck → you must <b>speed up </b>the <b>oldest</b> pending tx first.</p></li></ul></li><li><p class=\"no-margin\"><b>Insufficient funds for gas:</b></p><ul><li><p class=\"no-margin\">Receive/exchange/buy a small amount of the <b>native coin</b> to cover the higher fee, then retry.</p></li></ul></li><li><p class=\"no-margin\"><b>Token transfers/approvals:</b></p><ul><li><p class=\"no-margin\">Remember: fees are <b>always in the chain’s native coin</b> (not the token you’re sending).</p></li></ul></li></ul><hr><h1 id=\"h_01K234V669GDTEPJB8D39NSTRV\">FAQs</h1><p class=\"no-margin\"><b>Does accelerating cost extra?</b><br>Yes. You pay the fee for whichever replacement transaction confirms (the others get dropped).</p><p class=\"no-margin\"><b>Can I accelerate multiple times?</b><br>Yes, but only the <b>highest-fee</b> replacement is likely to win. Each attempt risks paying more—choose a meaningful bump instead of many tiny ones.</p><p class=\"no-margin\"><b>Will cancel always work?</b><br>Only if the <b>cancel</b> confirms <b>before</b> the original. If the original confirms first, the cancel is dropped.</p><p class=\"no-margin\"><b>What if I can’t find Speed Up/Cancel?</b><br>Edge exposes these actions on <b>pending</b> tx detail screens. If you don’t see them, the tx may already be confirmed or the network/RPC doesn’t allow replacement of that tx type.</p><hr><h1 id=\"h_01K234V66B80BSJ1XCB24B0B1W\">Best practices</h1><ul><li><p class=\"no-margin\">Set fees based on <b>current</b> network conditions; avoid the “Low” preset when time-sensitive.</p></li><li><p class=\"no-margin\">Keep a small buffer of the <b>native gas token</b> in your wallet.</p></li><li><p class=\"no-margin\">For power users: monitor your account <b>nonce</b> and mempool status on a block explorer.</p></li></ul><hr><p class=\"no-margin\">If you hit a wall, share your <b>transaction hash</b> and the chain with Support—our team can confirm status, advise exact fee targets, and help you clear a stuck nonce safely.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222683,
+  "updated_at": 1772222683,
+  "url": "https://support.edge.app/en/articles/13892313-accelerating-ethereum-evm-transactions-in-edge-wallet"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "13892303",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727251
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222671,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268654",
+        "name": "section:Edge Wallet Features",
+        "applied_at": 1772222671,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136019",
+  "title": "What languages does Edge support?",
+  "description": "The Edge wallet supports the following languages:\n\nEnglish\nSpanish\nGerman\nJapanese\nPortuguese\nItalian\nRussian\n\nIn order to set the languag...",
+  "body": "<p class=\"no-margin\">The Edge wallet supports the following languages:</p><ul><li><p class=\"no-margin\">English</p></li><li><p class=\"no-margin\">Spanish</p></li><li><p class=\"no-margin\">German</p></li><li><p class=\"no-margin\">Japanese</p></li><li><p class=\"no-margin\">Portuguese</p></li><li><p class=\"no-margin\">Italian</p></li><li><p class=\"no-margin\">Russian</p></li></ul><p class=\"no-margin\">In order to set the language you will need to set your device's language preference in the device's main general settings.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222671,
+  "updated_at": 1772222671,
+  "url": "https://support.edge.app/en/articles/13892303-what-languages-does-edge-support"
+}

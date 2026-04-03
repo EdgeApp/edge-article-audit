@@ -1,0 +1,174 @@
+{
+  "id": "13892448",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268681",
+        "name": "content-tag:Partner",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268846",
+        "name": "label:Limit",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268892",
+        "name": "label:Payment",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268893",
+        "name": "label:Payment issue",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268894",
+        "name": "label:Israeli Bank Transfer",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268896",
+        "name": "label:Bank Transfer",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268898",
+        "name": "label:Bank Issue",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268951",
+        "name": "label:Bity",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268952",
+        "name": "label:Transaction Declined",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268954",
+        "name": "label:Sepa",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268955",
+        "name": "label:Order Limits",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268956",
+        "name": "label:Sepa Bank Transfer",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268957",
+        "name": "label:Limits",
+        "applied_at": 1772222902,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136173",
+  "title": "Bity Transaction Issues",
+  "description": "If your transaction with Bity was declined, it may be due to bank restrictions, transaction limits, verification issues, or internal secur...",
+  "body": "<p class=\"no-margin\">If your transaction with Bity was declined, it may be due to bank restrictions, transaction limits, verification issues, or internal security checks. Here's a quick overview of what might’ve gone wrong and how to fix it:</p><h1 id=\"h_01JSMMST6AWEW9WH1BSM4CCXC6\">Common Reasons</h1><ul><li><p class=\"no-margin\"><b>Payment Issues</b>: Insufficient funds or incorrect bank transfer information</p></li><li><p class=\"no-margin\"><b>Verification Incomplete</b>: ID, bank details, or documentation not fully verified</p></li><li><p class=\"no-margin\"><b>Bank Restrictions</b>: Some banks block or delay crypto-related wire transfers</p></li><li><p class=\"no-margin\"><b>Security Review</b>: Transactions may be auto-declined if flagged as suspicious</p></li><li><p class=\"no-margin\"><b>Transaction Limits</b>: Exceeding Bity’s daily, monthly, or per-transaction limits</p></li></ul><h1 id=\"h_01JSMMST6ADVXQ95FCASDVRJWE\">Important Limit Notes</h1><ol><li><p class=\"no-margin\"><b>24-Hour Limit</b>: Bity has a €900 limit every 24 hours. This includes both completed and uncompleted orders. For example:</p><ul><li><p class=\"no-margin\">If you complete an order for €400 and another for €500, you’ve hit the limit and must wait 24 hours from the latest order.</p></li><li><p class=\"no-margin\">If you start but don’t complete a €500 order, and then try to place a €600 order, you’ll be blocked because the system still counts the uncompleted €500.</p></li></ul></li><li><p class=\"no-margin\"><b>Order Reset Needed</b>: If uncompleted orders are blocking you, contact Bity to reset your order history tied to your IBAN.</p></li><li><p class=\"no-margin\"><b>High Risk Country</b>: Bity may decline transactions from high-risk countries. To check your IBAN:</p><ul><li><p class=\"no-margin\">Use this tool: <a href=\"\" target=\"_blank\" class=\"intercom-content-link\">https://resources.davidcoen.it/highriskchecker/</a></p></li><li><p class=\"no-margin\">It compares your IBAN's prefix against Bity’s country risk list here: <a href=\"\" target=\"_blank\" class=\"intercom-content-link\">https://data.bity.com/countries/compendium</a></p></li><li><p class=\"no-margin\">This check does not store your IBAN.</p></li></ul></li></ol><h1 id=\"h_01JSMMST6ABR8NFVZ74D8AS6D0\">Recommended Actions</h1><ul><li><p class=\"no-margin\">Double-check your payment details and ensure funds are available</p></li><li><p class=\"no-margin\">Complete all KYC/verification steps in your Bity account</p></li><li><p class=\"no-margin\">Contact your bank to confirm they support crypto-related transactions</p></li><li><p class=\"no-margin\">Monitor your email (and spam) for messages from Bity requesting additional info</p></li><li><p class=\"no-margin\">Retry the transaction after verifying the steps above</p></li></ul><h1 id=\"h_01JSMMST6ANQTFR2RCZP99RDXV\">Contact Bity Support</h1><ul><li><p class=\"no-margin\">Chat bubble on <a href=\"https://www.bity.com\" target=\"_blank\" class=\"intercom-content-link\">www.bity.com</a></p></li><li><p class=\"no-margin\">Email: <a href=\"\" target=\"_blank\" class=\"intercom-content-link\">support_edge@bity.com</a></p></li><li><p class=\"no-margin\">Support Center: <a href=\"https://help.bity.com/en/\" target=\"_blank\" class=\"intercom-content-link\">https://help.bity.com/en/</a></p></li></ul>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222901,
+  "updated_at": 1772222902,
+  "url": "https://support.edge.app/en/articles/13892448-bity-transaction-issues"
+}

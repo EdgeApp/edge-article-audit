@@ -1,0 +1,154 @@
+{
+  "id": "13892499",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772222995,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772222996,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222996,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222996,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772222996,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772222996,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772222996,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269146",
+        "name": "label:Zano Fees",
+        "applied_at": 1772222996,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269147",
+        "name": "label:Zano Network Fees",
+        "applied_at": 1772222996,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269148",
+        "name": "label:Zano Network",
+        "applied_at": 1772222996,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269149",
+        "name": "label:Zano",
+        "applied_at": 1772222996,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269150",
+        "name": "label:Zano Fee",
+        "applied_at": 1772222996,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269151",
+        "name": "label:Tranaction Fees",
+        "applied_at": 1772222996,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136225",
+  "title": "Zano Network Fees",
+  "description": "Zano (ZANO) Network – Secure and Private Smart Contracts\nZano is a privacy-focused network that supports both public and private transacti...",
+  "body": "<h1 id=\"h_01JSZ38VKSTFA74MX2GDZMMFJE\">Zano (ZANO) Network – Secure and Private Smart Contracts</h1><p class=\"no-margin\">Zano is a privacy-focused network that supports both public and private transactions, with dynamic fees based on activity.</p><h2 id=\"h_01JSZ38VKSHGYGE7QGRSZ9DJ79\">How Zano Fees Work</h2><p class=\"no-margin\">Fees are based on:</p><ul><li><p class=\"no-margin\"><b>Transaction size</b></p></li><li><p class=\"no-margin\"><b>Private vs public transactions</b></p></li><li><p class=\"no-margin\"><b>Network conditions</b><br>Fees are paid in <b>ZANO</b>.</p></li></ul><p class=\"no-margin\">Edge estimates the right fee for each transaction type automatically.</p><hr><h2 id=\"h_01JSZ38VKSHMC26ATC28V2BDJZ\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>High</b> – For faster transactions</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Balanced</p></li><li><p class=\"no-margin\"><b>Low</b> – Cost-saving option</p></li><li><p class=\"no-margin\"><b>Custom</b> – Advanced manual fee setup</p></li></ul><hr><h2 id=\"h_01JSZ38VKSTN2JJ5NY12PAE9GM\">Average Cost</h2><p class=\"no-margin\">Typically <b>$0.01 to $0.05 USD</b> for most transactions.</p><hr><h2 id=\"h_01JSZ38VKSYYM199D2NPSCJTX4\">Why It Matters</h2><p class=\"no-margin\">Zano lets you choose between open and private transactions at very low cost. Edge makes navigating fees simple so you can prioritize speed or savings easily.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222995,
+  "updated_at": 1772222996,
+  "url": "https://support.edge.app/en/articles/13892499-zano-network-fees"
+}

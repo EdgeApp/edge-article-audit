@@ -1,0 +1,54 @@
+{
+  "id": "13892279",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727251
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222639,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268654",
+        "name": "section:Edge Wallet Features",
+        "applied_at": 1772222639,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268676",
+        "name": "label:supported coins",
+        "applied_at": 1772222639,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135994",
+  "title": "Edge supported Assets",
+  "description": "Edge is dedicated to supporting all top assets.\nIf you do not see your favorite cryptocurrency here, please reach out to support@edge.app ...",
+  "body": "<h1 id=\"h_01HDSJG7EZVK00AXQJCAWRT8DE\">Edge is dedicated to supporting all top assets.</h1><p class=\"no-margin\">If you do not see your favorite cryptocurrency here, please reach out to <a href=\"mailto:support@edge.app\" target=\"_blank\" class=\"intercom-content-link\">support@edge.app</a> to inquire about adding support. We will consider all requests.<br><br>​</p><h1 id=\"h_01HDSJH5V81E6DSVT207N7PNTZ\">Currently supported assets are:</h1><ul><li><p class=\"no-margin\">Algorand (ALGO)</p></li><li><p class=\"no-margin\">Avalanche C-Chain (AVAX)</p></li><li><p class=\"no-margin\">Bitcoin (BTC)</p></li><li><p class=\"no-margin\">Bitcoin Cash (BCH)</p></li><li><p class=\"no-margin\">Bitcoin Gold (BTG)</p></li><li><p class=\"no-margin\">Binance Smart Chain (BNB) <i>&amp; any BEP-20 tokens</i></p></li><li><p class=\"no-margin\">BNB Beacon Chain (BNB) - <i>note: BEP-2 tokens not supported</i></p></li><li><p class=\"no-margin\">Celo (CELO)</p></li><li><p class=\"no-margin\">Dash (DASH)</p></li><li><p class=\"no-margin\">DigiByte (DGB)</p></li><li><p class=\"no-margin\">Dogecoin (DOGE)</p></li><li><p class=\"no-margin\">EOS Network (EOS)</p></li><li><p class=\"no-margin\">Ethereum Classic (ETC)</p></li><li><p class=\"no-margin\">Ethereum (ETH) &amp; <i>any ERC-20 tokens*</i></p></li><li><p class=\"no-margin\">EthereumPoW (ETHW)</p></li><li><p class=\"no-margin\">Fantom (FTM)</p></li><li><p class=\"no-margin\">Feathercoin (FTC)</p></li><li><p class=\"no-margin\">Filecoin (FIL)</p></li><li><p class=\"no-margin\">FIO Protocol (FIO)</p></li><li><p class=\"no-margin\">Firo (FIRO)</p></li><li><p class=\"no-margin\">Groestlcoin (GRS)</p></li><li><p class=\"no-margin\">Hedera (HBAR)</p></li><li><p class=\"no-margin\">Liberland (LLD)</p></li><li><p class=\"no-margin\">Litecoin (LTC)</p></li><li><p class=\"no-margin\">Monero (XMR)</p></li><li><p class=\"no-margin\">Optimism (ETH)</p></li><li><p class=\"no-margin\">Pirate Chain (ARRR)</p></li><li><p class=\"no-margin\">Polkadot (DOT)</p></li><li><p class=\"no-margin\">Polygon (MATIC)</p></li><li><p class=\"no-margin\">PulseChain (PLS)</p></li><li><p class=\"no-margin\">Qtum (QTUM)</p></li><li><p class=\"no-margin\">Ravencoin (RVN)</p></li><li><p class=\"no-margin\">Ripple (XRP)</p></li><li><p class=\"no-margin\">Rootstock RSK (RBTC)</p></li><li><p class=\"no-margin\">SmartCash (SMART)</p></li><li><p class=\"no-margin\">Solana (SOL)</p></li><li><p class=\"no-margin\">Stellar (XLM)</p></li><li><p class=\"no-margin\">Telos (TLOS)</p></li><li><p class=\"no-margin\">Tezos (XTZ)</p></li><li><p class=\"no-margin\">Tron (TRX) <i>&amp; any TRC-20 tokens</i></p></li><li><p class=\"no-margin\">Uniform Fiscal Object (UFO)</p></li><li><p class=\"no-margin\">Vertcoin (VTC)</p></li><li><p class=\"no-margin\">Zcash (ZEC)</p></li><li><p class=\"no-margin\">Zcoin (XZC)</p></li><li><p class=\"no-margin\">zkSync (ETH)<br><br>​</p></li></ul><p class=\"no-margin\"><i>Note:<br></i><i>This list may be incomplete. </i><i>We are consistently working to bring new coins and features into Edge to empower end-users of crypto, all across the world!</i></p><p class=\"no-margin\"><i>* If you have questions about adding or viewing your tokens (i.e. USDT on Ethereum), please see this article: </i><a href=\"https://support.edge.app/hc/en-us/articles/7013684611355\" target=\"_blank\" class=\"intercom-content-link\">How do I add Custom ERC20 Tokens?</a></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222638,
+  "updated_at": 1772222639,
+  "url": "https://support.edge.app/en/articles/13892279-edge-supported-assets"
+}

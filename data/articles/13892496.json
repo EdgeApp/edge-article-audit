@@ -1,0 +1,174 @@
+{
+  "id": "13892496",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268630",
+        "name": "label:fees",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268882",
+        "name": "label:Cosmos",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269058",
+        "name": "label:Fee",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269136",
+        "name": "label:Cosmos ATOM Network",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269137",
+        "name": "label:ATOM",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269138",
+        "name": "label:Cosmos ATOM Network Fees",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269139",
+        "name": "label:Cosmos ATOM",
+        "applied_at": 1772222991,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136222",
+  "title": "Cosmos ATOM Network Fees",
+  "description": "Cosmos (ATOM) Network – Hub of Blockchains\nCosmos is built for cross-chain communication, with quick and affordable transactions.\nHow ATOM...",
+  "body": "<h1 id=\"h_01JSZ4CCRGBM8P8JPV62S5KXKY\">Cosmos (ATOM) Network – Hub of Blockchains</h1><p class=\"no-margin\">Cosmos is built for cross-chain communication, with quick and affordable transactions.</p><h2 id=\"h_01JSZ4CCRG99QHD9Y8TBAX2X9F\">How ATOM Fees Work</h2><ul><li><p class=\"no-margin\"><b>Gas fees</b> based on network congestion</p></li><li><p class=\"no-margin\">Paid in <b>ATOM</b>.</p></li></ul><p class=\"no-margin\">Edge checks network activity to recommend the best fee for your transaction.</p><hr><h2 id=\"h_01JSZ4CCRH7FYSGF2KKATFZ1WN\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>High</b> – Prioritize confirmation</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Balanced</p></li><li><p class=\"no-margin\"><b>Low</b> – Cheapest</p></li><li><p class=\"no-margin\"><b>Custom</b> – Full gas manual setting</p></li></ul><hr><h2 id=\"h_01JSZ4CCRH6BTZZGWRJ1PQHYH9\">Average Cost</h2><p class=\"no-margin\">Typically <b>$0.01 to $0.05 USD</b>.</p><hr><h2 id=\"h_01JSZ4CCRHNZWHRNGXX0RD4SPF\">Why It Matters</h2><p class=\"no-margin\">Cosmos powers interoperability. With Edge, your ATOM transfers stay smooth and cheap, even during network peaks.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222991,
+  "updated_at": 1772222992,
+  "url": "https://support.edge.app/en/articles/13892496-cosmos-atom-network-fees"
+}

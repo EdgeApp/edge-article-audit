@@ -1,0 +1,54 @@
+{
+  "id": "13892270",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727251
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222627,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268654",
+        "name": "section:Edge Wallet Features",
+        "applied_at": 1772222627,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268663",
+        "name": "label:FIO",
+        "applied_at": 1772222627,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135984",
+  "title": "What is FIO?",
+  "description": "How to Use the FIO Protocol with the Edge App\nThe FIO Protocol, built by the Foundation for Interwallet Operability (FIO), is a decentrali...",
+  "body": "<h1 id=\"h_01JQYJA21AXK1HT61J3WPVN52F\">How to Use the FIO Protocol with the Edge App</h1><p class=\"no-margin\">The FIO Protocol, built by the Foundation for Interwallet Operability (FIO), is a decentralized layer that simplifies crypto by replacing complex wallet addresses with FIO Handles (e.g., \"you@edge\"). It runs on the FIO Chain and works with any blockchain. The Edge app (<a href=\"http://www.edge.app\" target=\"_blank\" class=\"intercom-content-link\">www.edge.app</a>), a self-custody wallet, integrates FIO seamlessly. Here’s how to use it.</p><h2 id=\"h_01JQYJA21AWRSK8NVJYRJ9ZBGK\">Register a FIO Handle</h2><ul><li><p class=\"no-margin\">In Edge, go to the \"FIO Names\" section by tapping on the the three line menu at the upper right.</p></li><li><p class=\"no-margin\">Select \"Register FIO Handle\" to claim a free handle like \"yourname@edge\" under the \"@edge\" domain. Custom names domains cost a one-time fee in FIO tokens or other assets.</p></li></ul><h2 id=\"h_01JQYJA21AXG9BMXN4KX50CCVH\">Link Your Wallets</h2><ul><li><p class=\"no-margin\">Under FIO Names, map your handle to your wallet addresses (e.g., Bitcoin, Ethereum) for easy multi-asset use.</p></li><li><p class=\"no-margin\">Tap on any FIO</p></li></ul><h2 id=\"h_01JQYJA21AKZZ8DE1VF3MZN98C\">Send Crypto</h2><ul><li><p class=\"no-margin\">Choose an asset in Edge.</p></li><li><p class=\"no-margin\">Enter the recipient’s FIO Handle (e.g., \"friend@edge\") instead of an address—Edge handles the rest.</p></li></ul><h2 id=\"h_01JQYJA21AGBAB7V1VW0VMW2M7\">Request Payments</h2><ul><li><p class=\"no-margin\">In any linked wallet tap Receive</p></li><li><p class=\"no-margin\">Enter an amount and then tap \"FIO Request\"</p></li><li><p class=\"no-margin\">Input the payer’s FIO Handle plus an optional note (e.g., “Coffee”). Send the encrypted request.</p></li></ul><h2 id=\"h_01JQYJA21A7GM151S3A2WXEGZZ\">Why It’s Great</h2><p class=\"no-margin\">FIO Handles simplify transfers, and Edge makes it intuitive.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222627,
+  "updated_at": 1772222628,
+  "url": "https://support.edge.app/en/articles/13892270-what-is-fio"
+}

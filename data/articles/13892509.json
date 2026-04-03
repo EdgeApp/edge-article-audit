@@ -1,0 +1,174 @@
+{
+  "id": "13892509",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268638",
+        "name": "label:sending fees",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268774",
+        "name": "label:Solana",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269157",
+        "name": "label:Sending Fee",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269181",
+        "name": "label:Solana Fee",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269182",
+        "name": "label:Solana Network Fees",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269183",
+        "name": "label:Solana Network",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269184",
+        "name": "label:Solana Fees",
+        "applied_at": 1772223011,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136236",
+  "title": "Solana Network Fees",
+  "description": "Solana Network – Blazing Speed at Tiny Costs\nSolana is built for high-performance applications and is known for processing thousands of tr...",
+  "body": "<h1 id=\"h_01JSZ29V2EJ7T2ZPEV2XQRGY9F\">Solana Network – Blazing Speed at Tiny Costs</h1><p class=\"no-margin\">Solana is built for <b>high-performance applications</b> and is known for processing thousands of transactions per second at extremely low fees.</p><h2 id=\"h_01JSZ29V2EJVH8C2BJG1SW88V5\">How Solana Fees Work</h2><p class=\"no-margin\">Fees are determined by:</p><ul><li><p class=\"no-margin\"><b>Network usage</b></p></li><li><p class=\"no-margin\"><b>Transaction type (simple send, smart contract interaction, etc.)</b><br>Fees are paid in <b>SOL tokens</b>.</p></li></ul><p class=\"no-margin\">Edge checks Solana’s real-time network conditions and suggests the right fee for your transaction.</p><hr><h2 id=\"h_01JSZ29V2E0EAEEHRTBX5ZF18C\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>High</b> – Prioritizes very fast execution</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Best everyday choice</p></li><li><p class=\"no-margin\"><b>Low</b> – Cheapest but could be slightly delayed</p></li><li><p class=\"no-margin\"><b>Custom</b> – Full manual control for advanced users</p></li></ul><hr><h2 id=\"h_01JSZ29V2E137NDP9XJSCAA3B6\">Average Cost</h2><p class=\"no-margin\">A standard Solana transaction costs <b>less than $0.001 USD</b>—fractions of a cent!</p><hr><h2 id=\"h_01JSZ29V2EBA4Y3P1T88SN1TK8\">Why It Matters</h2><p class=\"no-margin\">Solana enables rapid and cheap blockchain interactions, ideal for DeFi, NFTs, and gaming. Edge Wallet simplifies Solana fee handling so you can stay fast and flexible without overcomplicating your send.</p><hr>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223011,
+  "updated_at": 1772223012,
+  "url": "https://support.edge.app/en/articles/13892509-solana-network-fees"
+}

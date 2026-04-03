@@ -1,0 +1,54 @@
+{
+  "id": "13892326",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268665",
+        "name": "content-tag:privacy",
+        "applied_at": 1772222703,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222703,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222703,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136047",
+  "title": "What is a Wallet Birthday Height?",
+  "description": "If you are an Edge user you might be familiar with the process of syncing your wallets. Wallet syncing ensures that your wallet has the mo...",
+  "body": "<p class=\"no-margin\">If you are an Edge user you might be familiar with the process of syncing your wallets. Wallet syncing ensures that your wallet has the most up-to-date transaction history and balance information. However, this syncing process can sometimes be time-consuming, especially when using privacy coins such as Zcash and Pirate Chain.</p><p class=\"no-margin\">Zcash has come up with a clever solution to speed up the wallet sync process and this has been used also by Pirate Chain. It's called \"Wallet Birthday Height,\" and it's worth exploring.</p><p class=\"no-margin\">So, what exactly is Wallet Birthday Height? In simple terms, it's the block height at which your wallet was created or imported. Block height refers to the number of blocks that have been added to the blockchain since its inception. Each block contains a list of transactions, and the block height keeps track of the order in which they are added.</p><p class=\"no-margin\">Now, you might be wondering, why does the Wallet Birthday Height matter when importing seeds? Well, when you import a seed into a Zcash or a Pirate Chain wallet, the wallet needs to scan through the entire blockchain to find all the transactions associated with that seed. This can be a time-consuming process, especially if the blockchain is large.</p><p class=\"no-margin\">Here's where Wallet Birthday Height comes to the rescue. By specifying the Wallet Birthday Height during the seed import process, you're essentially telling the wallet to start scanning the blockchain from that particular block height, skipping all the previous blocks. This dramatically reduces the time it takes to sync your wallet since it doesn't have to process the entire blockchain history.</p><p class=\"no-margin\">Let's say your first ZEC transaction happened in block 1,230,000. When importing your seed, you can specify this block height in the Wallet Birthday Height field, and the wallet will only scan the blocks that come after it. This is like fast-forwarding to the most recent transactions without having to go through the entire history.</p><p class=\"no-margin\">It's important to note that the Wallet Birthday Height should be accurate to ensure you don't miss any transactions associated with your seed. If you specify a block height that's too recent, you'll miss some of your recent transactions, while specifying a block height that's too old would result in scanning irrelevant blocks, causing the initial sync-time to be longer than necessary.</p><h1 id=\"h_025b6ecd73\">How to check the correct Wallet Birthday Height to enter?</h1><p class=\"no-margin\">The steps are pretty easy, all you need to have is the transaction ID / Hash of the first transaction you received in your Zcash / Pirate Chain wallet.<br>Once you have the ID / Hash, you can paste it into an explorer and check the block height.<br>For Zcash you can use <a href=\"https://blockchair.com/zcash,\" target=\"_blank\" class=\"intercom-content-link\">https://blockchair.com/zcash,</a> while for Pirate Chain you can use <a href=\"https://explorer.pirate.black/\" target=\"_blank\" class=\"intercom-content-link\">https://explorer.pirate.black/.</a></p><p class=\"no-margin\">An example:<br>Let's say I received my first ZEC with the transaction ID / Hash 0d07b719a29d25ed79199d831cbd5dd69b501ce358b7fb754d92754a86943133</p><p class=\"no-margin\">I copy this Hash and paste it in Blockchair explorer. I will get this result <a href=\"https://blockchair.com/zcash/transaction/0d07b719a29d25ed79199d831cbd5dd69b501ce358b7fb754d92754a86943133\" target=\"_blank\" class=\"intercom-content-link\">https://blockchair.com/zcash/transaction/0d07b719a29d25ed79199d831cbd5dd69b501ce358b7fb754d92754a86943133</a><br>Now, if you look below \"Confirmed\" you will see \"Block id 1,899,999\". <br>That's the block height I'm looking for.</p><p class=\"no-margin\"><br>When importing the Zcash wallet into Edge, I can enter 1899999 in Wallet Birthday Height, this way the app will start syncing the Zcash wallet exactly from the block that contains my transaction.</p><p class=\"no-margin\">So the next time you import your seed into a Zcash or a Pirate Chain wallet, remember to make use of the Wallet Birthday Height feature and enjoy a faster syncing experience.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222703,
+  "updated_at": 1772222703,
+  "url": "https://support.edge.app/en/articles/13892326-what-is-a-wallet-birthday-height"
+}

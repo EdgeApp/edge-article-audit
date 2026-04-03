@@ -1,0 +1,164 @@
+{
+  "id": "13892447",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727260
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268681",
+        "name": "content-tag:Partner",
+        "applied_at": 1772222899,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268787",
+        "name": "label:pending transaction",
+        "applied_at": 1772222899,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772222899,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268830",
+        "name": "section:Edge Partner Information ",
+        "applied_at": 1772222899,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268892",
+        "name": "label:Payment",
+        "applied_at": 1772222899,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268893",
+        "name": "label:Payment issue",
+        "applied_at": 1772222899,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268897",
+        "name": "label:transaction issue",
+        "applied_at": 1772222899,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268904",
+        "name": "label:Liberty X",
+        "applied_at": 1772222899,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268905",
+        "name": "label:LibertyX",
+        "applied_at": 1772222899,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268906",
+        "name": "label:LibertyX ATM",
+        "applied_at": 1772222900,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268909",
+        "name": "label:ATM",
+        "applied_at": 1772222900,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268927",
+        "name": "label:sell issue",
+        "applied_at": 1772222900,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268948",
+        "name": "label:LibertyX Crypto ATM",
+        "applied_at": 1772222900,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268949",
+        "name": "label:In Person",
+        "applied_at": 1772222900,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136172",
+  "title": "LibertyX (Crypto ATMs) Transaction Issues",
+  "description": "Why Was My LibertyX Transaction Declined?\nIf your LibertyX crypto ATM transaction was declined, it may be due to account verification, pay...",
+  "body": "<p class=\"no-margin\"><b>Why Was My LibertyX Transaction Declined?</b></p><p class=\"no-margin\">If your LibertyX crypto ATM transaction was declined, it may be due to account verification, payment method issues, or transaction limits. Here’s a quick breakdown of what might’ve gone wrong and how to fix it:</p><p class=\"no-margin\"><b>Common Reasons</b></p><ol><li><p class=\"no-margin\"><b>Verification Incomplete:</b> ID or phone verification not completed</p></li><li><p class=\"no-margin\"><b>Payment Issues:</b> Insufficient funds or declined debit card</p></li><li><p class=\"no-margin\"><b>Transaction Limits:</b> Daily or monthly limits exceeded</p></li><li><p class=\"no-margin\"><b>Security Review:</b> Transaction flagged as high-risk or suspicious</p></li></ol><p class=\"no-margin\"><b>Recommended Actions</b></p><ol><li><p class=\"no-margin\">Complete all required verification in the LibertyX app</p></li><li><p class=\"no-margin\">Ensure your card has sufficient funds and is supported</p></li><li><p class=\"no-margin\">Review LibertyX account limits before retrying</p></li><li><p class=\"no-margin\">Check your email (and spam) for messages from LibertyX</p></li><li><p class=\"no-margin\">Retry the transaction once all issues are resolved</p></li><li><p class=\"no-margin\">Contact LibertyX Support using the chat bubble on this page: <a href=\"https://libertyx.zendesk.com/hc/en-us\" target=\"_blank\" class=\"intercom-content-link\">https://libertyx.zendesk.com/hc/en-us</a></p></li></ol>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222899,
+  "updated_at": 1772222900,
+  "url": "https://support.edge.app/en/articles/13892447-libertyx-crypto-atms-transaction-issues"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "13892250",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727250
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222600,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268612",
+        "name": "section:Basics",
+        "applied_at": 1772222600,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135962",
+  "title": "Can I have more than one Account or Wallet?",
+  "description": "Yes, you can create more than one account or wallet if you wanted to. \nAll new accounts can be accessed by tapping the drop down to switch...",
+  "body": "<p class=\"no-margin\">Yes, you can create more than one account or wallet if you wanted to.</p><p class=\"no-margin\">All new accounts can be accessed by tapping the drop down to switch from the login screen.</p><p class=\"no-margin\">To create a new wallet: <a href=\"https://support.edge.app/hc/en-us/articles/7019127522971\" target=\"_blank\" class=\"intercom-content-link\">How do I create a new wallet?</a></p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222599,
+  "updated_at": 1772222600,
+  "url": "https://support.edge.app/en/articles/13892250-can-i-have-more-than-one-account-or-wallet"
+}

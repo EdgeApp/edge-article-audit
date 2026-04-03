@@ -1,0 +1,74 @@
+{
+  "id": "13892281",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727251
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222642,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268621",
+        "name": "label:migrate",
+        "applied_at": 1772222642,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268641",
+        "name": "promoted",
+        "applied_at": 1772222642,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268654",
+        "name": "section:Edge Wallet Features",
+        "applied_at": 1772222642,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268678",
+        "name": "label:sweep",
+        "applied_at": 1772222642,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16135996",
+  "title": "Move all funds to a newly created wallet (Manual steps)",
+  "description": " \nTo manually migrate your funds to a newly created wallet follow these simple steps: \n\n Log into your Edge account and tap \"Assets\" locat...",
+  "body": "<p class=\"no-margin\">To manually migrate your funds to a newly created wallet follow these simple steps:</p><ol><li><p class=\"no-margin\">Log into your Edge account and tap \"Assets\" located within the bottom navigation bar then tap the \"+\" icon located below the total balance</p></li><li><p class=\"no-margin\">Select the asset or assets you'd like to migrate and then tap \"Next\"</p></li><li><p class=\"no-margin\">Here you can rename the wallet, change the FIAT value, or simply \"Create Wallets\" to move on to the next step</p></li><li><p class=\"no-margin\">Enter the wallet with a balance that you would like to migrate to the newly created wallet by tapping on it and then tap \"Send\"</p></li><li><p class=\"no-margin\">Tap the center icon labeled \"Myself\" and then find the newly created wallet that was made in the previous steps. (If you do not see the \"Myself\" icon please update to the newest version of the Edge application.)</p></li><li><p class=\"no-margin\">Tap into the amount field and then tap \"Max\" which will input the total balance of the wallet minus the network fees needed to send.</p></li><li><p class=\"no-margin\">Slide to confirm. (If you plan on migrating multiple assets you will have to repeat the send steps per asset.)</p></li></ol><p class=\"no-margin\">You have now migrated your funds to a new wallet. If you have any questions or concerns please reach out to our support team at <a href=\"mailto:support@edge.app\" target=\"_blank\" class=\"intercom-content-link\">support@edge.app</a>.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222642,
+  "updated_at": 1772222642,
+  "url": "https://support.edge.app/en/articles/13892281-move-all-funds-to-a-newly-created-wallet-manual-steps"
+}

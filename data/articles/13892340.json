@@ -1,0 +1,44 @@
+{
+  "id": "13892340",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727254
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268708",
+        "name": "category:Troubleshooting",
+        "applied_at": 1772222724,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268709",
+        "name": "section:How to Guides",
+        "applied_at": 1772222724,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136061",
+  "title": "How to recover DigiByte (DGB) I accidentally sent to a DOGE address?",
+  "description": "If you sent DGB to a DOGE address, you may be able to recover them. Send this guide to the receiver and they will have to follow these ste...",
+  "body": "<p class=\"no-margin\">If you sent DGB to a DOGE address, you may be able to recover them. Send this guide to the receiver and they will have to follow these steps.</p><p class=\"no-margin\">For the receiver, you will need:</p><p class=\"no-margin\">1. The master private key of your DOGE wallet (These steps are for Edge however these steps are common for every non-custodial wallet)</p><p class=\"no-margin\">2. A tool useful to find the private key of the receiver wallet</p><p class=\"no-margin\">3. Sweep the funds from that private key</p><p class=\"no-margin\">1.To view the Private Seed of your DOGE wallet, as well as other types of cryptocurrency wallets, simply press and hold on the Doge wallet's name, click Master Private Key. If the external wallet is not an Edge Wallet, you need to export your seeds with the correct procedure of that specific app.</p><p class=\"no-margin\"><b>WARNING: Exposing your private keys can be risky if you do not take the right precautions. Using a private browser or opening the derivation tool on an air-gapped PC will help prevent malicious software from stealing your keys. Remember to close the notepad once done.</b></p><p class=\"no-margin\">Next, tap on Master Private Key. You will be prompted for your password. Enter your password.</p><p class=\"no-margin\">After entering your password you will be able to view your Private Seed. Each type of cryptocurrency wallet will have its own unique private seed.</p><p class=\"no-margin\">The Private Seed cannot be copied, in order to prevent users from accidentally pasting this sensitive information into an unintended location.</p><p class=\"no-margin\">We urge users to never share their Private Seed with anyone, as anyone that gains knowledge of the Private Seed will be able to sweep the funds out of the wallet.</p><p class=\"no-margin\"><br>2. Now you need to derive the individual private keys: we recommend using Ian Coleman's tool <a href=\"https://iancoleman.io/bip39/\" target=\"_blank\" class=\"intercom-content-link\">https://iancoleman.io/bip39/</a>. All bitcoin-related currencies in Edge can be derived using this tool.<br><br>Generally, the process to derive private keys is the same for each currency and involves these three steps:<br>-Enter private seed (24 word phrase) into the \"BIP39 Mnemonic\" field<br>-Change the Coin<br>-Select a derivation path &lt;-- This step may be different depending on the coin and which type of address you are attempting to derive a private key for.</p><div class=\"intercom-interblocks-table-container\"><table role=\"presentation\"><tbody><tr><td><p class=\"no-margin\">Coin</p></td><td><p class=\"no-margin\">Derivation Path</p></td><td><p class=\"no-margin\">Full Derivation Path</p></td></tr><tr><td><p class=\"no-margin\">Bitcoin</p></td><td><p class=\"no-margin\">BIP49</p></td><td><p class=\"no-margin\">m/49'/0'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">Bitcoin (no segwit)</p></td><td><p class=\"no-margin\">BIP44</p></td><td><p class=\"no-margin\">m/44'/0'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">Bitcoin Cash (BCH)</p></td><td><p class=\"no-margin\">BIP44</p></td><td><p class=\"no-margin\">m/44'/145'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">Bitcoin Gold (BTG)</p></td><td><p class=\"no-margin\">BIP49</p></td><td><p class=\"no-margin\">m/49'/156'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">Bitcoin SV (BSV)</p></td><td><p class=\"no-margin\">BIP44</p></td><td><p class=\"no-margin\">m/44'/145'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">Dash (DASH)</p></td><td><p class=\"no-margin\">BIP44</p></td><td><p class=\"no-margin\">m/44'/5'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">DigiByte (DGB)</p></td><td><p class=\"no-margin\">BIP49</p></td><td><p class=\"no-margin\">m/49'/20'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">Dogecoin (DOGE)</p></td><td><p class=\"no-margin\">BIP44</p></td><td><p class=\"no-margin\">m/44'/3'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">eBoost (EBST)*</p></td><td><p class=\"no-margin\">BIP44</p></td><td><p class=\"no-margin\">m/44'/324'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">Feathercoin (FTC)</p></td><td><p class=\"no-margin\">BIP44</p></td><td><p class=\"no-margin\">m/44'/8'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">GroestlCoin (GRS)*</p></td><td><p class=\"no-margin\">BIP49</p></td><td><p class=\"no-margin\">m/49'/17'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">Litecoin (LTC)</p></td><td><p class=\"no-margin\">BIP49</p></td><td><p class=\"no-margin\">m/49'/2'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">QTUM*</p></td><td><p class=\"no-margin\">BIP44</p></td><td><p class=\"no-margin\">m/44'/2301'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">Ravencoin (RVN)</p></td><td><p class=\"no-margin\">BIP44</p></td><td><p class=\"no-margin\">m/44'/175'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">SmartCash (SMART)*</p></td><td><p class=\"no-margin\">BIP44</p></td><td><p class=\"no-margin\">m/44'/224'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">Uniform Fiscal Object (UFO)*</p></td><td><p class=\"no-margin\">BIP49</p></td><td><p class=\"no-margin\">m/49'/202'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">Vertcoin (VTC)</p></td><td><p class=\"no-margin\">BIP49</p></td><td><p class=\"no-margin\">m/49'/28'/0'/0</p></td></tr><tr><td><p class=\"no-margin\">Zcoin (XZC)</p></td><td><p class=\"no-margin\">BIP44</p></td><td><p class=\"no-margin\">m/44'/136'/0'/0</p></td></tr></tbody></table></div><p class=\"no-margin\">* = not available on <a href=\"https://iancoleman.io/bip39/\" target=\"_blank\" class=\"intercom-content-link\">https://iancoleman.io/bip39/</a></p><p class=\"no-margin\">In your case choose DOGE Bip 44 m/44'/3'/0'/0.</p><p class=\"no-margin\">Search for the address you accidentally sent DGB to. When you find it, on the right you'll see its private key.</p><p class=\"no-margin\">3. Open Edge, tap on the menu at the upper right, then tap on scan QR. From here you will Sweep the Private Key: click Send, paste that private key or scan the QR Code, select the wallet and Import and wait for the funds to be transferred into your DGB wallet.<br>A DGB transaction will be created, then you will pay a variable fee depending on the conditions of the DigiByte network.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222724,
+  "updated_at": 1772222724,
+  "url": "https://support.edge.app/en/articles/13892340-how-to-recover-digibyte-dgb-i-accidentally-sent-to-a-doge-address"
+}

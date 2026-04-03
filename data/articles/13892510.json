@@ -1,0 +1,174 @@
+{
+  "id": "13892510",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727261
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268633",
+        "name": "label:network fees",
+        "applied_at": 1772223013,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268634",
+        "name": "label:transaction fees",
+        "applied_at": 1772223013,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268638",
+        "name": "label:sending fees",
+        "applied_at": 1772223013,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268640",
+        "name": "content-tag:Network Fee",
+        "applied_at": 1772223013,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268829",
+        "name": "category:Resources",
+        "applied_at": 1772223013,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269024",
+        "name": "section:Reference",
+        "applied_at": 1772223013,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269057",
+        "name": "label:Network Fee",
+        "applied_at": 1772223013,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269059",
+        "name": "label:Transaction Fee",
+        "applied_at": 1772223013,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269065",
+        "name": "content-tag:Network Fees",
+        "applied_at": 1772223013,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269157",
+        "name": "label:Sending Fee",
+        "applied_at": 1772223014,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269186",
+        "name": "label:SUI Fee",
+        "applied_at": 1772223014,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269187",
+        "name": "label:Sui Network Fees",
+        "applied_at": 1772223014,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269188",
+        "name": "label:Sui Network",
+        "applied_at": 1772223014,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269189",
+        "name": "label:SUI Fees",
+        "applied_at": 1772223014,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13269190",
+        "name": "label:SUI",
+        "applied_at": 1772223014,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136237",
+  "title": "Sui Network Fees",
+  "description": "Sui Network  – Next-Gen Smart Transactions\nSui is a new Layer 1 blockchain designed for extremely fast throughput, focusing on asset owner...",
+  "body": "<h1 id=\"h_01JSZ25YJGDRF3AGCWZAB3FYAE\">Sui Network – Next-Gen Smart Transactions</h1><p class=\"no-margin\">Sui is a new Layer 1 blockchain designed for extremely fast throughput, focusing on asset ownership, gaming, and microtransactions.</p><h2 id=\"h_01JSZ25YJG5WKF2SDNYR5YE078\">How Sui Fees Work</h2><p class=\"no-margin\">Fees are calculated based on:</p><ul><li><p class=\"no-margin\"><b>Computation resources used</b></p></li><li><p class=\"no-margin\"><b>Storage impact</b></p></li><li><p class=\"no-margin\"><b>Network load</b><br>Fees are paid in <b>SUI tokens</b>.</p></li></ul><p class=\"no-margin\">Edge estimates the fee dynamically, balancing performance and price based on real-time network conditions.</p><hr><h2 id=\"h_01JSZ25YJGVN986PE024VAQJ5S\">Fee Options Available</h2><ul><li><p class=\"no-margin\"><b>High</b> – Prioritizes speed</p></li><li><p class=\"no-margin\"><b>Optimal (default)</b> – Everyday balance</p></li><li><p class=\"no-margin\"><b>Low</b> – Lower fee, slower settlement</p></li><li><p class=\"no-margin\"><b>Custom</b> – Advanced users can tweak fees</p></li></ul><hr><h2 id=\"h_01JSZ25YJG7XZTEQZ91JWPV5X0\">Average Cost</h2><p class=\"no-margin\">Sui transactions usually cost <b>$0.002 to $0.01 USD</b>, depending on transaction complexity.</p><hr><h2 id=\"h_01JSZ25YJGV1G2X4398ZXS96AY\">Why It Matters</h2><p class=\"no-margin\">Sui’s cutting-edge tech means you can move assets and interact with apps quickly and cheaply. Edge Wallet’s automatic fee adjustment lets you enjoy Sui without worrying about complex fee mechanics.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772223013,
+  "updated_at": 1772223014,
+  "url": "https://support.edge.app/en/articles/13892510-sui-network-fees"
+}

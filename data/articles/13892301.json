@@ -1,0 +1,44 @@
+{
+  "id": "13892301",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727251
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222668,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268654",
+        "name": "section:Edge Wallet Features",
+        "applied_at": 1772222668,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136017",
+  "title": "How does Edge secure my private keys?",
+  "description": "The methods that bitcoin wallets use to secure private keys has been a hot topic lately and we want to inform our users and the crypto-com...",
+  "body": "<p class=\"no-margin\">The methods that bitcoin wallets use to secure private keys has been a hot topic lately and we want to inform our users and the crypto-community at large how Edge secures our user’s private keys. Some software wallets store the user’s private key unencrypted on the user’s device or encrypted with a single, fixed encryption key that is common for all users. This creates a security flaw in that malicious apps with access to the storage of the device could easily access the private key.</p><p class=\"no-margin\">At Edge, we felt that proper security <b>requires</b> that private keys are ALWAYS encrypted before being saved on the device, <i>and</i> that the encryption use <b>a unique and strong password that only the user knows</b>. To further increase the security, the user’s password is hashed into a pseudo-random number using a CPU and memory intensive algorithm (Scrypt) that is dynamically tuned to the speed of the user’s device. The faster the device, the stronger the hashing, the harder it is to brute force a user’s password. That strong cryptographic hash is the encryption key that secures the user’s data, helping protect it from malware on the device.</p><p class=\"no-margin\">Additionally our code base is <a href=\"http://github.com/EdgeApp\" target=\"_blank\" class=\"intercom-content-link\">open source</a> and our <a href=\"http://edge.app/wp-content/uploads/2018/09/2017-10-Edge-White-Paper.pdf\" target=\"_blank\" class=\"intercom-content-link\">white paper</a> is available for those interested in the details of our Edge Security platform. Our architecture has undergone a 3rd party security audit and we feel very confident we’ve found the right balance of security and ease of use for the masses and advanced users.</p><p class=\"no-margin\">Feel free to reach out to us if you have any questions about our security model and philosophy. We are always looking to improve and your feedback is appreciated.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222668,
+  "updated_at": 1772222668,
+  "url": "https://support.edge.app/en/articles/13892301-how-does-edge-secure-my-private-keys"
+}

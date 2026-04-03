@@ -1,0 +1,84 @@
+{
+  "id": "13892286",
+  "type": "article",
+  "workspace_id": "ourx4xix",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    18727251
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": [
+      {
+        "type": "tag",
+        "id": "13268605",
+        "name": "category:Using Edge",
+        "applied_at": 1772222649,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268631",
+        "name": "label:send",
+        "applied_at": 1772222649,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268654",
+        "name": "section:Edge Wallet Features",
+        "applied_at": 1772222649,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268679",
+        "name": "label:Buy",
+        "applied_at": 1772222649,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268685",
+        "name": "label:Sell",
+        "applied_at": 1772222649,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      },
+      {
+        "type": "tag",
+        "id": "13268687",
+        "name": "label:withdraw",
+        "applied_at": 1772222649,
+        "applied_by": {
+          "type": "admin",
+          "id": "9849332"
+        }
+      }
+    ]
+  },
+  "content_id": "16136001",
+  "title": "How do I buy or sell Bitcoin?",
+  "description": "To buy or sell with Edge it is a simple process. \n\n\n \n\nTo buy Bitcoin inside of Edge, you will need to tap the buy button at the bottom of...",
+  "body": "<p class=\"no-margin\">To buy or sell with Edge it is a simple process.</p><ol><li><p class=\"no-margin\">To buy Bitcoin inside of Edge, you will need to tap the buy button at the bottom of the screen or tap the \"Buy Crypto\" option from the home screen.</p></li><li><p class=\"no-margin\">You will then need to Select your region</p></li><li><p class=\"no-margin\">You then will select the Option that you would like to use to make your purchase. You will also see what fee will be charged for the transaction along with your purchase limits.</p></li></ol><p class=\"no-margin\">To sell your bitcoin is almost the same process except you will tap sell at the bottom navigation or tap the \"Sell Crypto\"</p><ol><li><p class=\"no-margin\">Tap sell and then tap your region.</p></li><li><p class=\"no-margin\">You then will select the Option that you would like to use to make your sale. You will also see what fee will be charged for the transaction along with your purchase limits.</p></li></ol><p class=\"no-margin\">Your option will change for what you can use for selling you BTC. You will see your limits on how much you can sell in a given time. You will also see how much the fee is for the selling of your BTC.</p><p class=\"no-margin\">Once you selected your option you will then follow our partner's prompts to finish the transaction.</p><p class=\"no-margin\">Please note that depending on some factors our partners may require KYC.</p>",
+  "author_id": 9849332,
+  "state": "published",
+  "created_at": 1772222648,
+  "updated_at": 1772222649,
+  "url": "https://support.edge.app/en/articles/13892286-how-do-i-buy-or-sell-bitcoin"
+}
