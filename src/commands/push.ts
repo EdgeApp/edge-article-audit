@@ -24,6 +24,7 @@ import {
 interface PushOptions {
   all?: boolean
   id?: string
+  file?: string
   force?: boolean
   dryRun?: boolean
 }
@@ -43,7 +44,9 @@ export async function pushCommand(
 ): Promise<void> {
   const client = new IntercomClient(config)
 
-  if (options.id != null && options.id !== '') {
+  if (options.file != null && options.file !== '') {
+    await pushByFile(client, options.file, options.dryRun === true)
+  } else if (options.id != null && options.id !== '') {
     await pushSingleArticle(client, options.id, options.dryRun === true)
   } else if (options.all === true) {
     await pushArticles(client, options)
@@ -180,6 +183,158 @@ async function pushSingleArticle(
   } catch (error) {
     spinner.fail(`Failed to update article ${id}`)
     throw error
+  }
+}
+
+/**
+ * Push a single article by its local file path (works for both new and existing articles)
+ */
+async function pushByFile(
+  client: IntercomClient,
+  filePath: string,
+  dryRun: boolean
+): Promise<void> {
+  const spinner = createSpinner(`Reading ${filePath}...`).start()
+
+  const article = await readArticle(filePath)
+
+  if (article == null) {
+    spinner.fail(`Failed to read article from ${filePath}`)
+    return
+  }
+
+  const isNew =
+    article.frontmatter.intercom_id == null ||
+    article.frontmatter.intercom_id === ''
+
+  if (dryRun) {
+    if (isNew) {
+      spinner.succeed(`Would create: ${article.frontmatter.title}`)
+    } else {
+      spinner.succeed(
+        `Would update: ${article.frontmatter.title} (${article.frontmatter.intercom_id})`
+      )
+    }
+    return
+  }
+
+  const htmlBody = markdownToHtml(article.content)
+
+  if (isNew) {
+    spinner.text = `Resolving author...`
+
+    let authorId: number | null = null
+    try {
+      const me = await client.getMe()
+      authorId = parseInt(me.id, 10)
+    } catch {
+      spinner.fail('Could not determine author ID. Verify your access token.')
+      return
+    }
+
+    spinner.text = `Creating ${article.frontmatter.title}...`
+
+    const payload: ArticleCreatePayload = {
+      title: article.frontmatter.title,
+      author_id: authorId,
+      body: htmlBody,
+      state: article.frontmatter.state ?? 'draft'
+    }
+    if (
+      article.frontmatter.description != null &&
+      article.frontmatter.description !== ''
+    ) {
+      payload.description = article.frontmatter.description
+    }
+    if (article.frontmatter.parent_id != null) {
+      payload.parent_id = article.frontmatter.parent_id
+      payload.parent_type = article.frontmatter.parent_type ?? null
+    }
+
+    try {
+      const created = await client.createArticle(payload)
+      spinner.succeed(`Created: ${created.title} (${created.id})`)
+      if (created.url != null && created.url !== '') {
+        console.log(chalk.blue(`  → ${created.url}`))
+      }
+
+      const updates: Partial<ArticleFrontmatter> = {
+        intercom_id: created.id,
+        workspace_id: created.workspace_id,
+        updated_at: created.updated_at
+      }
+      if (created.url != null) {
+        updates.url = created.url
+      }
+      await updateArticleFrontmatter(filePath, updates)
+      await saveRawData(created)
+
+      const manifest = await loadPullManifest()
+      manifest[created.id] = {
+        hash: await computeFileHash(filePath),
+        path: filePath,
+        pulledAt: Date.now()
+      }
+      await savePullManifest(manifest)
+    } catch (error) {
+      spinner.fail(`Failed to create article`)
+      throw error
+    }
+  } else {
+    const id = article.frontmatter.intercom_id!
+
+    const conflict = await checkConflict(client, article.frontmatter)
+    if (conflict != null) {
+      spinner.warn(conflict)
+      const { proceed } = await inquirer.prompt<{ proceed: boolean }>([
+        {
+          type: 'confirm',
+          name: 'proceed',
+          message: 'Push anyway? The remote version will be overwritten.',
+          default: false
+        }
+      ])
+      if (!proceed) {
+        console.log(chalk.yellow('Aborted'))
+        return
+      }
+    }
+
+    spinner.text = `Pushing ${article.frontmatter.title}...`
+
+    const payload: ArticleUpdatePayload = {
+      title: article.frontmatter.title,
+      body: htmlBody,
+      state: article.frontmatter.state
+    }
+    if (
+      article.frontmatter.description != null &&
+      article.frontmatter.description !== ''
+    ) {
+      payload.description = article.frontmatter.description
+    }
+
+    try {
+      const updated = await client.updateArticle(id, payload)
+      spinner.succeed(`Updated: ${updated.title}`)
+      if (updated.url != null && updated.url !== '') {
+        console.log(chalk.blue(`  → ${updated.url}`))
+      }
+
+      await updateArticleFrontmatter(filePath, {
+        updated_at: updated.updated_at
+      })
+      const manifest = await loadPullManifest()
+      manifest[id] = {
+        hash: await computeFileHash(filePath),
+        path: filePath,
+        pulledAt: Date.now()
+      }
+      await savePullManifest(manifest)
+    } catch (error) {
+      spinner.fail(`Failed to update article ${id}`)
+      throw error
+    }
   }
 }
 

@@ -37,6 +37,10 @@ program
   .description('Push local Markdown changes back to Intercom')
   .option('-a, --all', 'Push all articles')
   .option('-i, --id <id>', 'Push a single article by ID')
+  .option(
+    '--file <path>',
+    'Push a single article by local file path (works for new and existing)'
+  )
   .option('-f, --force', 'Push all articles regardless of changes')
   .option('-n, --dry-run', 'Show what would be pushed without making changes')
   .action(async options => {

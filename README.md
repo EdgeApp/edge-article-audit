@@ -137,10 +137,16 @@ Force push all articles regardless of changes (also skips conflict detection):
 yarn push --all --force
 ```
 
-Push a single article:
+Push a single article by Intercom ID:
 
 ```bash
 yarn push --id 123456
+```
+
+Push a single article by file path (works for both new and existing articles):
+
+```bash
+yarn push --file articles/edge-wallet-features/new-my-article.md
 ```
 
 ### 6. Create New Articles
@@ -156,7 +162,7 @@ state: draft
 Article content goes here...
 ```
 
-The `intercom_id` and other metadata will be filled in automatically after pushing. New articles are included in `yarn push --all` alongside changed existing articles.
+The `intercom_id` and other metadata will be filled in automatically after pushing. New articles can be pushed individually with `yarn push --file <path>` or in batch with `yarn push --all` alongside changed existing articles.
 
 ## Workflow
 
